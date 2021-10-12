@@ -1,0 +1,25 @@
+Container contains 12 elements:
+0. Triangle: (17; 83); (11; 27); (19; 0); Color = BLUE;
+ Perimeter = 167.504860 
+1. Rectangle: (14; 88); (2; 28); Color = BLUE; 
+ Perimeter = 144.000000 
+2. Triangle: (17; 56); (11; 22); (18; 0); Color = LIGHT_BLUE;
+ Perimeter = 113.621074 
+3. Circle: (4; 5); radius = 6; Color = BLUE; 
+ Perimeter = 37.699112 
+4. Circle: (3; 5); radius = 6; Color = ORANGE; 
+ Perimeter = 37.699112 
+5. Rectangle: (56; 2); (45; 0); Color = YELLOW; 
+ Perimeter = 26.000000 
+6. Circle: (1; 1); radius = 3; Color = RED; 
+ Perimeter = 18.849556 
+7. Circle: (1; 2); radius = 3; Color = GREEN; 
+ Perimeter = 18.849556 
+8. Rectangle: (1; 1); (5; 5); Color = RED; 
+ Perimeter = 16.000000 
+9. Rectangle: (11; 55); (10; 50); Color = GREEN; 
+ Perimeter = 12.000000 
+10. Triangle: (1; 2); (3; 4); (5; 6); Color = GREEN;
+ Perimeter = 11.313708 
+11. Triangle: (1; 1); (2; 2); (3; 3); Color = RED;
+ Perimeter = 5.656854 
