@@ -1,0 +1,7 @@
+Container contains 3 elements:
+0. Rectangle: (4; 2); (5; 8); Color = BLUE; 
+ Perimeter = 14.000000 
+1. Triangle: (1; 2); (3; 4); (5; 1); Color = GREEN;
+ Perimeter = 10.557084 
+2. Circle: (3; 1); radius = 1; Color = VIOLET; 
+ Perimeter = 6.283185 
