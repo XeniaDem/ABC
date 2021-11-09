@@ -1,4 +1,7 @@
 *build*
 .vscode
 .idea
-.DS_Store
+*.DS_Store
+*.ipynb
+*/venv/*
+*__pycache__*
