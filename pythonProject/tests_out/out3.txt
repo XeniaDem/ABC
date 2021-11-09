@@ -1,0 +1,2001 @@
+Container contains 1000 elements:
+0. Circle: (99; 566); radius = 1000; Color = RED
+Perimeter = 6283.185307179586
+1. Circle: (257; 962); radius = 1000; Color = VIOLET
+Perimeter = 6283.185307179586
+2. Circle: (884; 184); radius = 988; Color = YELLOW
+Perimeter = 6207.787083493431
+3. Circle: (340; 427); radius = 987; Color = RED
+Perimeter = 6201.503898186252
+4. Circle: (131; 465); radius = 981; Color = LIGHT_BLUE
+Perimeter = 6163.804786343174
+5. Circle: (308; 820); radius = 981; Color = VIOLET
+Perimeter = 6163.804786343174
+6. Circle: (321; 602); radius = 978; Color = VIOLET
+Perimeter = 6144.955230421635
+7. Circle: (98; 180); radius = 977; Color = LIGHT_BLUE
+Perimeter = 6138.672045114456
+8. Circle: (389; 71); radius = 968; Color = YELLOW
+Perimeter = 6082.12337734984
+9. Circle: (610; 684); radius = 968; Color = YELLOW
+Perimeter = 6082.12337734984
+10. Circle: (537; 243); radius = 966; Color = GREEN
+Perimeter = 6069.55700673548
+11. Circle: (675; 334); radius = 964; Color = LIGHT_BLUE
+Perimeter = 6056.9906361211215
+12. Circle: (922; 798); radius = 963; Color = GREEN
+Perimeter = 6050.707450813941
+13. Circle: (238; 762); radius = 959; Color = VIOLET
+Perimeter = 6025.574709585223
+14. Circle: (489; 46); radius = 954; Color = VIOLET
+Perimeter = 5994.158783049325
+15. Circle: (96; 181); radius = 948; Color = BLUE
+Perimeter = 5956.459671206248
+16. Circle: (391; 760); radius = 945; Color = YELLOW
+Perimeter = 5937.610115284709
+17. Circle: (571; 863); radius = 942; Color = ORANGE
+Perimeter = 5918.760559363171
+18. Circle: (578; 876); radius = 942; Color = VIOLET
+Perimeter = 5918.760559363171
+19. Circle: (244; 842); radius = 941; Color = GREEN
+Perimeter = 5912.47737405599
+20. Circle: (651; 275); radius = 939; Color = RED
+Perimeter = 5899.911003441632
+21. Circle: (326; 318); radius = 937; Color = VIOLET
+Perimeter = 5887.344632827272
+22. Circle: (557; 377); radius = 934; Color = YELLOW
+Perimeter = 5868.495076905733
+23. Circle: (285; 917); radius = 928; Color = LIGHT_BLUE
+Perimeter = 5830.795965062656
+24. Circle: (971; 477); radius = 928; Color = BLUE
+Perimeter = 5830.795965062656
+25. Circle: (882; 431); radius = 922; Color = ORANGE
+Perimeter = 5793.096853219578
+26. Circle: (167; 513); radius = 920; Color = GREEN
+Perimeter = 5780.53048260522
+27. Circle: (659; 246); radius = 917; Color = VIOLET
+Perimeter = 5761.680926683681
+28. Circle: (306; 527); radius = 911; Color = BLUE
+Perimeter = 5723.981814840603
+29. Circle: (57; 983); radius = 906; Color = BLUE
+Perimeter = 5692.565888304705
+30. Circle: (303; 385); radius = 898; Color = YELLOW
+Perimeter = 5642.300405847269
+31. Circle: (317; 845); radius = 894; Color = ORANGE
+Perimeter = 5617.16766461855
+32. Circle: (736; 944); radius = 894; Color = ORANGE
+Perimeter = 5617.16766461855
+33. Circle: (329; 290); radius = 893; Color = BLUE
+Perimeter = 5610.88447931137
+34. Circle: (957; 88); radius = 887; Color = ORANGE
+Perimeter = 5573.185367468293
+35. Circle: (593; 231); radius = 887; Color = LIGHT_BLUE
+Perimeter = 5573.185367468293
+36. Circle: (894; 148); radius = 885; Color = GREEN
+Perimeter = 5560.618996853934
+37. Circle: (857; 564); radius = 884; Color = BLUE
+Perimeter = 5554.3358115467545
+38. Circle: (706; 891); radius = 880; Color = YELLOW
+Perimeter = 5529.203070318036
+39. Circle: (940; 99); radius = 874; Color = BLUE
+Perimeter = 5491.503958474958
+40. Circle: (890; 335); radius = 870; Color = BLUE
+Perimeter = 5466.37121724624
+41. Circle: (145; 291); radius = 861; Color = GREEN
+Perimeter = 5409.822549481623
+42. Circle: (64; 494); radius = 857; Color = ORANGE
+Perimeter = 5384.689808252905
+43. Circle: (313; 483); radius = 852; Color = BLUE
+Perimeter = 5353.2738817170075
+44. Circle: (900; 622); radius = 851; Color = GREEN
+Perimeter = 5346.990696409828
+45. Circle: (149; 401); radius = 850; Color = LIGHT_BLUE
+Perimeter = 5340.707511102648
+46. Circle: (669; 651); radius = 849; Color = BLUE
+Perimeter = 5334.424325795469
+47. Circle: (233; 398); radius = 848; Color = ORANGE
+Perimeter = 5328.141140488289
+48. Circle: (469; 385); radius = 843; Color = LIGHT_BLUE
+Perimeter = 5296.725213952392
+49. Circle: (284; 908); radius = 842; Color = YELLOW
+Perimeter = 5290.442028645211
+50. Circle: (284; 740); radius = 842; Color = VIOLET
+Perimeter = 5290.442028645211
+51. Circle: (447; 754); radius = 838; Color = LIGHT_BLUE
+Perimeter = 5265.309287416493
+52. Circle: (951; 952); radius = 834; Color = ORANGE
+Perimeter = 5240.176546187775
+53. Circle: (573; 91); radius = 831; Color = ORANGE
+Perimeter = 5221.326990266236
+54. Circle: (611; 524); radius = 828; Color = BLUE
+Perimeter = 5202.477434344697
+55. Circle: (640; 411); radius = 825; Color = ORANGE
+Perimeter = 5183.627878423159
+56. Circle: (672; 749); radius = 822; Color = YELLOW
+Perimeter = 5164.77832250162
+57. Circle: (16; 153); radius = 821; Color = RED
+Perimeter = 5158.49513719444
+58. Circle: (570; 285); radius = 818; Color = YELLOW
+Perimeter = 5139.645581272902
+59. Circle: (615; 131); radius = 816; Color = GREEN
+Perimeter = 5127.079210658542
+60. Circle: (247; 741); radius = 816; Color = LIGHT_BLUE
+Perimeter = 5127.079210658542
+61. Circle: (941; 668); radius = 815; Color = VIOLET
+Perimeter = 5120.796025351363
+62. Circle: (462; 570); radius = 814; Color = GREEN
+Perimeter = 5114.512840044184
+63. Circle: (16; 379); radius = 811; Color = LIGHT_BLUE
+Perimeter = 5095.663284122645
+64. Circle: (577; 132); radius = 810; Color = BLUE
+Perimeter = 5089.380098815464
+65. Circle: (173; 60); radius = 809; Color = YELLOW
+Perimeter = 5083.096913508285
+66. Circle: (393; 433); radius = 809; Color = VIOLET
+Perimeter = 5083.096913508285
+67. Circle: (358; 261); radius = 809; Color = YELLOW
+Perimeter = 5083.096913508285
+68. Circle: (520; 119); radius = 809; Color = BLUE
+Perimeter = 5083.096913508285
+69. Circle: (438; 589); radius = 808; Color = YELLOW
+Perimeter = 5076.813728201106
+70. Circle: (485; 144); radius = 807; Color = ORANGE
+Perimeter = 5070.530542893926
+71. Circle: (547; 415); radius = 803; Color = RED
+Perimeter = 5045.397801665208
+72. Circle: (224; 907); radius = 802; Color = VIOLET
+Perimeter = 5039.114616358028
+73. Circle: (110; 599); radius = 796; Color = LIGHT_BLUE
+Perimeter = 5001.415504514951
+74. Circle: (693; 384); radius = 795; Color = LIGHT_BLUE
+Perimeter = 4995.132319207771
+75. Circle: (316; 955); radius = 792; Color = GREEN
+Perimeter = 4976.282763286233
+76. Circle: (732; 423); radius = 791; Color = GREEN
+Perimeter = 4969.999577979052
+77. Circle: (596; 959); radius = 787; Color = BLUE
+Perimeter = 4944.866836750334
+78. Circle: (836; 166); radius = 786; Color = RED
+Perimeter = 4938.583651443155
+79. Circle: (327; 872); radius = 783; Color = BLUE
+Perimeter = 4919.734095521616
+80. Circle: (18; 778); radius = 779; Color = GREEN
+Perimeter = 4894.601354292898
+81. Circle: (130; 474); radius = 774; Color = GREEN
+Perimeter = 4863.185427757
+82. Circle: (969; 272); radius = 761; Color = BLUE
+Perimeter = 4781.504018763665
+83. Circle: (289; 863); radius = 758; Color = LIGHT_BLUE
+Perimeter = 4762.654462842126
+84. Circle: (891; 357); radius = 758; Color = BLUE
+Perimeter = 4762.654462842126
+85. Circle: (180; 301); radius = 753; Color = VIOLET
+Perimeter = 4731.2385363062285
+86. Circle: (931; 798); radius = 753; Color = ORANGE
+Perimeter = 4731.2385363062285
+87. Circle: (777; 381); radius = 748; Color = YELLOW
+Perimeter = 4699.822609770331
+88. Circle: (729; 330); radius = 746; Color = ORANGE
+Perimeter = 4687.256239155971
+89. Circle: (205; 567); radius = 744; Color = RED
+Perimeter = 4674.689868541612
+90. Circle: (460; 447); radius = 744; Color = ORANGE
+Perimeter = 4674.689868541612
+91. Circle: (220; 389); radius = 743; Color = BLUE
+Perimeter = 4668.406683234432
+92. Circle: (92; 287); radius = 742; Color = VIOLET
+Perimeter = 4662.123497927253
+93. Circle: (538; 801); radius = 739; Color = LIGHT_BLUE
+Perimeter = 4643.273942005714
+94. Circle: (795; 564); radius = 739; Color = YELLOW
+Perimeter = 4643.273942005714
+95. Circle: (458; 983); radius = 738; Color = RED
+Perimeter = 4636.990756698535
+96. Circle: (639; 774); radius = 733; Color = YELLOW
+Perimeter = 4605.574830162636
+97. Circle: (810; 638); radius = 730; Color = YELLOW
+Perimeter = 4586.725274241098
+98. Circle: (453; 489); radius = 729; Color = RED
+Perimeter = 4580.442088933918
+99. Circle: (608; 3); radius = 728; Color = GREEN
+Perimeter = 4574.158903626739
+100. Circle: (728; 777); radius = 724; Color = LIGHT_BLUE
+Perimeter = 4549.0261623980205
+101. Circle: (789; 319); radius = 723; Color = LIGHT_BLUE
+Perimeter = 4542.742977090841
+102. Circle: (286; 776); radius = 723; Color = LIGHT_BLUE
+Perimeter = 4542.742977090841
+103. Circle: (466; 445); radius = 722; Color = ORANGE
+Perimeter = 4536.459791783661
+104. Circle: (786; 235); radius = 719; Color = ORANGE
+Perimeter = 4517.610235862123
+105. Circle: (707; 605); radius = 716; Color = ORANGE
+Perimeter = 4498.760679940584
+106. Circle: (740; 191); radius = 715; Color = VIOLET
+Perimeter = 4492.477494633405
+107. Circle: (263; 901); radius = 714; Color = GREEN
+Perimeter = 4486.194309326224
+108. Circle: (220; 567); radius = 714; Color = GREEN
+Perimeter = 4486.194309326224
+109. Circle: (759; 236); radius = 713; Color = GREEN
+Perimeter = 4479.911124019045
+110. Circle: (645; 541); radius = 705; Color = LIGHT_BLUE
+Perimeter = 4429.6456415616085
+111. Circle: (793; 78); radius = 703; Color = YELLOW
+Perimeter = 4417.079270947249
+112. Circle: (824; 602); radius = 703; Color = GREEN
+Perimeter = 4417.079270947249
+113. Circle: (98; 172); radius = 700; Color = VIOLET
+Perimeter = 4398.22971502571
+114. Circle: (24; 998); radius = 698; Color = GREEN
+Perimeter = 4385.663344411351
+115. Circle: (241; 124); radius = 690; Color = LIGHT_BLUE
+Perimeter = 4335.397861953915
+116. Circle: (879; 522); radius = 688; Color = YELLOW
+Perimeter = 4322.831491339555
+117. Circle: (335; 346); radius = 687; Color = VIOLET
+Perimeter = 4316.548306032376
+118. Circle: (464; 683); radius = 680; Color = BLUE
+Perimeter = 4272.566008882119
+119. Circle: (264; 689); radius = 678; Color = ORANGE
+Perimeter = 4259.999638267759
+120. Circle: (273; 597); radius = 674; Color = ORANGE
+Perimeter = 4234.866897039041
+121. Circle: (166; 533); radius = 673; Color = BLUE
+Perimeter = 4228.5837117318615
+122. Circle: (558; 902); radius = 668; Color = RED
+Perimeter = 4197.167785195964
+123. Circle: (174; 771); radius = 665; Color = RED
+Perimeter = 4178.318229274425
+124. Circle: (753; 400); radius = 662; Color = GREEN
+Perimeter = 4159.468673352886
+125. Circle: (741; 397); radius = 661; Color = BLUE
+Perimeter = 4153.185488045707
+126. Circle: (943; 182); radius = 659; Color = BLUE
+Perimeter = 4140.619117431347
+127. Circle: (828; 542); radius = 653; Color = BLUE
+Perimeter = 4102.92000558827
+128. Circle: (959; 44); radius = 649; Color = BLUE
+Perimeter = 4077.7872643595515
+129. Circle: (790; 104); radius = 643; Color = GREEN
+Perimeter = 4040.088152516474
+130. Circle: (839; 943); radius = 638; Color = RED
+Perimeter = 4008.672225980576
+131. Circle: (375; 5); radius = 633; Color = YELLOW
+Perimeter = 3977.256299444678
+132. Circle: (952; 612); radius = 632; Color = GREEN
+Perimeter = 3970.9731141374987
+133. Circle: (645; 62); radius = 625; Color = VIOLET
+Perimeter = 3926.9908169872415
+134. Circle: (231; 204); radius = 624; Color = BLUE
+Perimeter = 3920.7076316800617
+135. Circle: (443; 391); radius = 623; Color = VIOLET
+Perimeter = 3914.4244463728824
+136. Circle: (687; 191); radius = 623; Color = RED
+Perimeter = 3914.4244463728824
+137. Circle: (990; 497); radius = 616; Color = GREEN
+Perimeter = 3870.442149222625
+138. Circle: (832; 948); radius = 615; Color = LIGHT_BLUE
+Perimeter = 3864.1589639154454
+139. Circle: (21; 139); radius = 611; Color = GREEN
+Perimeter = 3839.026222686727
+140. Circle: (505; 514); radius = 605; Color = YELLOW
+Perimeter = 3801.3271108436497
+141. Circle: (852; 113); radius = 602; Color = YELLOW
+Perimeter = 3782.477554922111
+142. Circle: (505; 638); radius = 598; Color = LIGHT_BLUE
+Perimeter = 3757.3448136933926
+143. Circle: (612; 523); radius = 584; Color = LIGHT_BLUE
+Perimeter = 3669.380219392878
+144. Circle: (273; 57); radius = 584; Color = LIGHT_BLUE
+Perimeter = 3669.380219392878
+145. Circle: (533; 643); radius = 578; Color = YELLOW
+Perimeter = 3631.681107549801
+146. Circle: (389; 721); radius = 577; Color = GREEN
+Perimeter = 3625.3979222426215
+147. Circle: (993; 643); radius = 570; Color = ORANGE
+Perimeter = 3581.4156250923643
+148. Circle: (65; 456); radius = 570; Color = ORANGE
+Perimeter = 3581.4156250923643
+149. Circle: (95; 681); radius = 570; Color = LIGHT_BLUE
+Perimeter = 3581.4156250923643
+150. Circle: (216; 755); radius = 569; Color = BLUE
+Perimeter = 3575.1324397851845
+151. Circle: (118; 393); radius = 568; Color = BLUE
+Perimeter = 3568.849254478005
+152. Circle: (876; 596); radius = 567; Color = YELLOW
+Perimeter = 3562.5660691708254
+153. Circle: (873; 67); radius = 560; Color = RED
+Perimeter = 3518.583772020568
+154. Circle: (396; 126); radius = 560; Color = YELLOW
+Perimeter = 3518.583772020568
+155. Circle: (130; 37); radius = 559; Color = YELLOW
+Perimeter = 3512.300586713389
+156. Circle: (521; 583); radius = 557; Color = YELLOW
+Perimeter = 3499.7342160990297
+157. Circle: (650; 42); radius = 552; Color = RED
+Perimeter = 3468.3182895631317
+158. Circle: (154; 216); radius = 549; Color = LIGHT_BLUE
+Perimeter = 3449.4687336415927
+159. Circle: (358; 570); radius = 548; Color = ORANGE
+Perimeter = 3443.1855483344134
+160. Circle: (968; 194); radius = 548; Color = RED
+Perimeter = 3443.1855483344134
+161. Rectangle: (913; 960); (106; 46); Color = BLUE
+Perimeter = 3442
+162. Circle: (176; 123); radius = 544; Color = RED
+Perimeter = 3418.052807105695
+163. Circle: (90; 900); radius = 543; Color = VIOLET
+Perimeter = 3411.7696217985153
+164. Circle: (675; 806); radius = 541; Color = BLUE
+Perimeter = 3399.203251184156
+165. Circle: (222; 283); radius = 541; Color = VIOLET
+Perimeter = 3399.203251184156
+166. Circle: (943; 999); radius = 539; Color = RED
+Perimeter = 3386.636880569797
+167. Circle: (798; 493); radius = 538; Color = VIOLET
+Perimeter = 3380.3536952626173
+168. Circle: (910; 756); radius = 537; Color = RED
+Perimeter = 3374.070509955438
+169. Circle: (202; 599); radius = 537; Color = BLUE
+Perimeter = 3374.070509955438
+170. Circle: (634; 477); radius = 535; Color = RED
+Perimeter = 3361.504139341079
+171. Circle: (609; 47); radius = 531; Color = YELLOW
+Perimeter = 3336.37139811236
+172. Circle: (741; 104); radius = 531; Color = RED
+Perimeter = 3336.37139811236
+173. Circle: (534; 795); radius = 529; Color = BLUE
+Perimeter = 3323.805027498001
+174. Circle: (614; 836); radius = 527; Color = YELLOW
+Perimeter = 3311.238656883642
+175. Circle: (461; 2); radius = 524; Color = LIGHT_BLUE
+Perimeter = 3292.3891009621034
+176. Circle: (946; 627); radius = 523; Color = LIGHT_BLUE
+Perimeter = 3286.1059156549236
+177. Circle: (486; 703); radius = 521; Color = YELLOW
+Perimeter = 3273.5395450405645
+178. Circle: (103; 70); radius = 519; Color = ORANGE
+Perimeter = 3260.9731744262053
+179. Circle: (84; 349); radius = 515; Color = LIGHT_BLUE
+Perimeter = 3235.840433197487
+180. Circle: (167; 634); radius = 514; Color = YELLOW
+Perimeter = 3229.5572478903073
+181. Circle: (775; 811); radius = 514; Color = ORANGE
+Perimeter = 3229.5572478903073
+182. Circle: (982; 539); radius = 511; Color = GREEN
+Perimeter = 3210.7076919687684
+183. Circle: (479; 10); radius = 511; Color = LIGHT_BLUE
+Perimeter = 3210.7076919687684
+184. Circle: (741; 99); radius = 506; Color = ORANGE
+Perimeter = 3179.2917654328708
+185. Circle: (649; 183); radius = 502; Color = BLUE
+Perimeter = 3154.1590242041525
+186. Circle: (708; 824); radius = 495; Color = ORANGE
+Perimeter = 3110.1767270538953
+187. Circle: (350; 838); radius = 492; Color = YELLOW
+Perimeter = 3091.3271711323564
+188. Rectangle: (29; 101); (726; 944); Color = BLUE
+Perimeter = 3080
+189. Circle: (580; 959); radius = 489; Color = GREEN
+Perimeter = 3072.4776152108175
+190. Circle: (927; 599); radius = 482; Color = RED
+Perimeter = 3028.4953180605607
+191. Rectangle: (728; 847); (50; 27); Color = ORANGE
+Perimeter = 2996
+192. Circle: (741; 159); radius = 473; Color = RED
+Perimeter = 2971.9466502959444
+193. Circle: (928; 830); radius = 471; Color = YELLOW
+Perimeter = 2959.3802796815853
+194. Rectangle: (66; 856); (688; 1); Color = RED
+Perimeter = 2954
+195. Circle: (376; 958); radius = 469; Color = LIGHT_BLUE
+Perimeter = 2946.8139090672257
+196. Circle: (175; 918); radius = 469; Color = YELLOW
+Perimeter = 2946.8139090672257
+197. Circle: (342; 566); radius = 469; Color = GREEN
+Perimeter = 2946.8139090672257
+198. Rectangle: (778; 964); (45; 227); Color = VIOLET
+Perimeter = 2940
+199. Circle: (775; 296); radius = 465; Color = RED
+Perimeter = 2921.6811678385075
+200. Rectangle: (578; 983); (53; 55); Color = YELLOW
+Perimeter = 2906
+201. Circle: (565; 511); radius = 456; Color = YELLOW
+Perimeter = 2865.132500073891
+202. Rectangle: (77; 827); (783; 112); Color = VIOLET
+Perimeter = 2842
+203. Circle: (53; 664); radius = 451; Color = ORANGE
+Perimeter = 2833.7165735379936
+204. Circle: (422; 717); radius = 448; Color = RED
+Perimeter = 2814.8670176164546
+205. Circle: (569; 704); radius = 445; Color = GREEN
+Perimeter = 2796.0174616949157
+206. Circle: (165; 431); radius = 440; Color = RED
+Perimeter = 2764.601535159018
+207. Rectangle: (668; 956); (10; 232); Color = RED
+Perimeter = 2764
+208. Circle: (830; 122); radius = 439; Color = RED
+Perimeter = 2758.3183498518383
+209. Circle: (666; 630); radius = 436; Color = ORANGE
+Perimeter = 2739.4687939302994
+210. Circle: (99; 216); radius = 430; Color = GREEN
+Perimeter = 2701.769682087222
+211. Circle: (56; 101); radius = 428; Color = VIOLET
+Perimeter = 2689.203311472863
+212. Circle: (515; 564); radius = 427; Color = GREEN
+Perimeter = 2682.9201261656835
+213. Rectangle: (987; 979); (254; 371); Color = RED
+Perimeter = 2682
+214. Circle: (745; 129); radius = 422; Color = ORANGE
+Perimeter = 2651.5041996297855
+215. Triangle: (387; 975), (884; 17); (65; 385); Color = ORANGE
+Perimeter = 2649.2733435357613
+216. Circle: (441; 819); radius = 419; Color = LIGHT_BLUE
+Perimeter = 2632.6546437082466
+217. Circle: (831; 567); radius = 419; Color = ORANGE
+Perimeter = 2632.6546437082466
+218. Triangle: (979; 521), (424; 84); (7; 865); Color = BLUE
+Perimeter = 2622.825217243831
+219. Circle: (696; 925); radius = 415; Color = BLUE
+Perimeter = 2607.5219024795283
+220. Triangle: (495; 695), (179; 4); (996; 958); Color = RED
+Perimeter = 2581.6900870252252
+221. Circle: (4; 824); radius = 406; Color = YELLOW
+Perimeter = 2550.973234714912
+222. Rectangle: (971; 535); (42; 194); Color = LIGHT_BLUE
+Perimeter = 2540
+223. Rectangle: (109; 369); (773; 973); Color = RED
+Perimeter = 2536
+224. Circle: (673; 479); radius = 403; Color = GREEN
+Perimeter = 2532.123678793373
+225. Rectangle: (823; 817); (6; 369); Color = GREEN
+Perimeter = 2530
+226. Rectangle: (995; 474); (172; 34); Color = YELLOW
+Perimeter = 2526
+227. Triangle: (682; 753), (31; 798); (975; 114); Color = RED
+Perimeter = 2521.283829700209
+228. Rectangle: (819; 923); (368; 121); Color = YELLOW
+Perimeter = 2506
+229. Circle: (130; 351); radius = 398; Color = ORANGE
+Perimeter = 2500.7077522574755
+230. Rectangle: (210; 217); (914; 758); Color = LIGHT_BLUE
+Perimeter = 2490
+231. Circle: (65; 614); radius = 396; Color = ORANGE
+Perimeter = 2488.1413816431163
+232. Rectangle: (202; 938); (767; 267); Color = YELLOW
+Perimeter = 2472
+233. Rectangle: (154; 377); (828; 939); Color = ORANGE
+Perimeter = 2472
+234. Rectangle: (105; 47); (491; 893); Color = LIGHT_BLUE
+Perimeter = 2464
+235. Circle: (45; 886); radius = 392; Color = GREEN
+Perimeter = 2463.0086404143976
+236. Rectangle: (982; 579); (40; 291); Color = GREEN
+Perimeter = 2460
+237. Circle: (701; 979); radius = 390; Color = YELLOW
+Perimeter = 2450.4422698000385
+238. Rectangle: (112; 412); (908; 841); Color = VIOLET
+Perimeter = 2450
+239. Circle: (770; 23); radius = 388; Color = ORANGE
+Perimeter = 2437.8758991856794
+240. Circle: (250; 788); radius = 388; Color = GREEN
+Perimeter = 2437.8758991856794
+241. Circle: (671; 805); radius = 385; Color = YELLOW
+Perimeter = 2419.026343264141
+242. Triangle: (256; 46), (996; 965); (641; 747); Color = ORANGE
+Perimeter = 2396.2570669739694
+243. Rectangle: (99; 741); (633; 84); Color = BLUE
+Perimeter = 2382
+244. Triangle: (65; 16), (3; 995); (527; 448); Color = VIOLET
+Perimeter = 2370.956525188354
+245. Rectangle: (54; 912); (652; 328); Color = BLUE
+Perimeter = 2364
+246. Rectangle: (279; 85); (670; 873); Color = GREEN
+Perimeter = 2358
+247. Circle: (125; 139); radius = 374; Color = VIOLET
+Perimeter = 2349.9113048851655
+248. Circle: (946; 683); radius = 374; Color = BLUE
+Perimeter = 2349.9113048851655
+249. Triangle: (28; 593), (854; 241); (47; 960); Color = GREEN
+Perimeter = 2346.204404365036
+250. Rectangle: (325; 123); (912; 707); Color = RED
+Perimeter = 2342
+251. Triangle: (232; 555), (985; 116); (190; 903); Color = YELLOW
+Perimeter = 2340.807470177747
+252. Rectangle: (136; 215); (782; 737); Color = YELLOW
+Perimeter = 2336
+253. Triangle: (979; 770), (990; 261); (189; 898); Color = YELLOW
+Perimeter = 2332.832252862663
+254. Rectangle: (913; 404); (60; 97); Color = YELLOW
+Perimeter = 2320
+255. Circle: (447; 176); radius = 368; Color = ORANGE
+Perimeter = 2312.2121930420876
+256. Circle: (44; 961); radius = 368; Color = YELLOW
+Perimeter = 2312.2121930420876
+257. Circle: (608; 407); radius = 368; Color = VIOLET
+Perimeter = 2312.2121930420876
+258. Rectangle: (197; 375); (992; 732); Color = VIOLET
+Perimeter = 2304
+259. Triangle: (617; 324), (984; 792); (54; 163); Color = BLUE
+Perimeter = 2303.0440282828604
+260. Triangle: (845; 980), (43; 411); (755; 381); Color = GREEN
+Perimeter = 2301.6990617574656
+261. Circle: (920; 689); radius = 366; Color = YELLOW
+Perimeter = 2299.6458224277285
+262. Circle: (452; 482); radius = 365; Color = GREEN
+Perimeter = 2293.362637120549
+263. Circle: (398; 209); radius = 364; Color = GREEN
+Perimeter = 2287.0794518133694
+264. Rectangle: (643; 873); (104; 274); Color = BLUE
+Perimeter = 2276
+265. Circle: (846; 571); radius = 362; Color = VIOLET
+Perimeter = 2274.5130811990102
+266. Triangle: (973; 512), (37; 981); (860; 357); Color = ORANGE
+Perimeter = 2271.559147716972
+267. Triangle: (469; 793), (231; 27); (929; 748); Color = YELLOW
+Perimeter = 2267.834348896408
+268. Triangle: (48; 339), (336; 867); (744; 51); Color = VIOLET
+Perimeter = 2266.9870426255247
+269. Circle: (616; 168); radius = 359; Color = YELLOW
+Perimeter = 2255.6635252774713
+270. Triangle: (20; 117), (810; 890); (625; 508); Color = RED
+Perimeter = 2250.064203133966
+271. Circle: (641; 960); radius = 358; Color = VIOLET
+Perimeter = 2249.380339970292
+272. Triangle: (838; 982), (31; 720); (107; 322); Color = GREEN
+Perimeter = 2238.5223782956673
+273. Triangle: (896; 145), (627; 766); (75; 725); Color = RED
+Perimeter = 2235.4859447863582
+274. Rectangle: (498; 714); (976; 75); Color = VIOLET
+Perimeter = 2234
+275. Rectangle: (578; 863); (912; 80); Color = LIGHT_BLUE
+Perimeter = 2234
+276. Circle: (546; 641); radius = 355; Color = ORANGE
+Perimeter = 2230.530784048753
+277. Circle: (763; 759); radius = 355; Color = ORANGE
+Perimeter = 2230.530784048753
+278. Rectangle: (18; 827); (330; 25); Color = BLUE
+Perimeter = 2228
+279. Triangle: (136; 67), (417; 641); (855; 882); Color = RED
+Perimeter = 2225.839567519938
+280. Circle: (922; 232); radius = 354; Color = ORANGE
+Perimeter = 2224.2475987415737
+281. Circle: (192; 814); radius = 354; Color = GREEN
+Perimeter = 2224.2475987415737
+282. Rectangle: (89; 234); (640; 792); Color = BLUE
+Perimeter = 2218
+283. Triangle: (77; 524), (785; 59); (652; 786); Color = RED
+Perimeter = 2217.990212018859
+284. Rectangle: (494; 817); (925; 140); Color = ORANGE
+Perimeter = 2216
+285. Rectangle: (633; 995); (266; 264); Color = ORANGE
+Perimeter = 2196
+286. Circle: (227; 313); radius = 349; Color = LIGHT_BLUE
+Perimeter = 2192.8316722056757
+287. Triangle: (415; 494), (756; 972); (8; 181); Color = LIGHT_BLUE
+Perimeter = 2189.266385045129
+288. Triangle: (31; 892), (967; 388); (301; 543); Color = LIGHT_BLUE
+Perimeter = 2188.11557000231
+289. Rectangle: (810; 895); (377; 235); Color = LIGHT_BLUE
+Perimeter = 2186
+290. Triangle: (444; 294), (909; 295); (6; 812); Color = GREEN
+Perimeter = 2183.8856642283263
+291. Rectangle: (562; 952); (82; 347); Color = BLUE
+Perimeter = 2170
+292. Rectangle: (165; 729); (631; 113); Color = GREEN
+Perimeter = 2164
+293. Triangle: (155; 780), (843; 900); (453; 194); Color = RED
+Perimeter = 2162.364028333579
+294. Triangle: (790; 693), (143; 72); (108; 648); Color = ORANGE
+Perimeter = 2157.345246240687
+295. Triangle: (891; 486), (54; 443); (326; 958); Color = BLUE
+Perimeter = 2156.7329349708857
+296. Circle: (902; 683); radius = 343; Color = LIGHT_BLUE
+Perimeter = 2155.1325603625983
+297. Triangle: (808; 790), (727; 444); (29; 118); Color = GREEN
+Perimeter = 2154.529125783376
+298. Triangle: (37; 800), (936; 705); (257; 366); Color = VIOLET
+Perimeter = 2149.502924887927
+299. Triangle: (283; 124), (769; 849); (51; 94); Color = BLUE
+Perimeter = 2148.652020811057
+300. Rectangle: (598; 720); (97; 152); Color = ORANGE
+Perimeter = 2138
+301. Circle: (825; 332); radius = 340; Color = RED
+Perimeter = 2136.2830044410593
+302. Rectangle: (260; 737); (766; 175); Color = YELLOW
+Perimeter = 2136
+303. Circle: (8; 630); radius = 339; Color = BLUE
+Perimeter = 2129.9998191338796
+304. Triangle: (132; 444), (204; 857); (791; 93); Color = GREEN
+Perimeter = 2129.341327262722
+305. Triangle: (869; 339), (959; 978); (245; 610); Color = RED
+Perimeter = 2128.86932682932
+306. Triangle: (790; 17), (308; 568); (296; 924); Color = GREEN
+Perimeter = 2121.0756101319594
+307. Rectangle: (61; 644); (518; 41); Color = GREEN
+Perimeter = 2120
+308. Rectangle: (11; 69); (349; 791); Color = LIGHT_BLUE
+Perimeter = 2120
+309. Rectangle: (269; 653); (999; 323); Color = LIGHT_BLUE
+Perimeter = 2120
+310. Triangle: (441; 656), (278; 138); (921; 933); Color = YELLOW
+Perimeter = 2119.716948774928
+311. Triangle: (32; 514), (783; 69); (21; 742); Color = YELLOW
+Perimeter = 2117.854125995883
+312. Circle: (614; 195); radius = 337; Color = GREEN
+Perimeter = 2117.4334485195204
+313. Triangle: (847; 976), (398; 833); (933; 185); Color = ORANGE
+Perimeter = 2107.1979982175008
+314. Triangle: (370; 46), (943; 887); (941; 581); Color = GREEN
+Perimeter = 2106.1300685581546
+315. Rectangle: (506; 906); (248; 111); Color = YELLOW
+Perimeter = 2106
+316. Circle: (66; 912); radius = 335; Color = ORANGE
+Perimeter = 2104.8670779051613
+317. Triangle: (731; 229), (848; 999); (263; 708); Color = GREEN
+Perimeter = 2101.893972307732
+318. Triangle: (453; 266), (385; 955); (116; 17); Color = VIOLET
+Perimeter = 2087.168115857334
+319. Triangle: (779; 66), (93; 613); (112; 71); Color = RED
+Perimeter = 2086.736984089107
+320. Circle: (408; 508); radius = 332; Color = GREEN
+Perimeter = 2086.017521983623
+321. Circle: (571; 50); radius = 330; Color = LIGHT_BLUE
+Perimeter = 2073.4511513692632
+322. Triangle: (356; 102), (828; 5); (108; 663); Color = YELLOW
+Perimeter = 2070.614817959717
+323. Rectangle: (28; 881); (937; 758); Color = BLUE
+Perimeter = 2064
+324. Rectangle: (760; 870); (480; 118); Color = LIGHT_BLUE
+Perimeter = 2064
+325. Triangle: (860; 943), (545; 657); (35; 327); Color = LIGHT_BLUE
+Perimeter = 2062.521679647968
+326. Triangle: (766; 464), (374; 37); (905; 905); Color = RED
+Perimeter = 2059.5750123574962
+327. Circle: (90; 430); radius = 327; Color = VIOLET
+Perimeter = 2054.601595447725
+328. Triangle: (174; 381), (762; 426); (960; 904); Color = YELLOW
+Perimeter = 2051.205261613987
+329. Triangle: (522; 986), (383; 988); (283; 49); Color = RED
+Perimeter = 2050.324705667388
+330. Triangle: (695; 525), (62; 575); (814; 45); Color = VIOLET
+Perimeter = 2049.5049178557892
+331. Triangle: (768; 937), (537; 17); (515; 849); Color = ORANGE
+Perimeter = 2048.7156447475795
+332. Triangle: (463; 110), (183; 241); (920; 785); Color = ORANGE
+Perimeter = 2040.3089154910513
+333. Rectangle: (33; 78); (559; 571); Color = RED
+Perimeter = 2038
+334. Triangle: (169; 489), (696; 123); (210; 934); Color = ORANGE
+Perimeter = 2033.9834510879846
+335. Rectangle: (558; 932); (700; 58); Color = BLUE
+Perimeter = 2032
+336. Rectangle: (88; 156); (776; 483); Color = YELLOW
+Perimeter = 2030
+337. Triangle: (970; 220), (418; 405); (172; 797); Color = RED
+Perimeter = 2029.7221636581703
+338. Triangle: (334; 239), (14; 712); (810; 157); Color = BLUE
+Perimeter = 2024.470323213981
+339. Circle: (316; 591); radius = 322; Color = LIGHT_BLUE
+Perimeter = 2023.1856689118267
+340. Triangle: (103; 500), (911; 81); (589; 600); Color = RED
+Perimeter = 2017.1340713385123
+341. Rectangle: (966; 547); (100; 405); Color = ORANGE
+Perimeter = 2016
+342. Circle: (576; 844); radius = 320; Color = VIOLET
+Perimeter = 2010.6192982974676
+343. Triangle: (683; 594), (249; 36); (367; 894); Color = BLUE
+Perimeter = 2008.7096563960258
+344. Circle: (398; 430); radius = 319; Color = RED
+Perimeter = 2004.336112990288
+345. Triangle: (857; 363), (20; 811); (636; 737); Color = LIGHT_BLUE
+Perimeter = 2004.1985743304695
+346. Rectangle: (399; 177); (945; 631); Color = VIOLET
+Perimeter = 2000
+347. Triangle: (71; 440), (884; 40); (799; 394); Color = GREEN
+Perimeter = 1999.58705351824
+348. Circle: (404; 807); radius = 318; Color = RED
+Perimeter = 1998.0529276831085
+349. Rectangle: (425; 810); (787; 174); Color = YELLOW
+Perimeter = 1996
+350. Rectangle: (303; 610); (857; 167); Color = BLUE
+Perimeter = 1994
+351. Triangle: (617; 550), (187; 1); (789; 795); Color = GREEN
+Perimeter = 1993.1140446266957
+352. Rectangle: (141; 140); (776; 501); Color = RED
+Perimeter = 1992
+353. Triangle: (464; 215), (100; 739); (836; 707); Color = GREEN
+Perimeter = 1991.5219361655063
+354. Triangle: (875; 433), (37; 912); (125; 965); Color = GREEN
+Perimeter = 1987.4898979924621
+355. Rectangle: (734; 754); (328; 168); Color = ORANGE
+Perimeter = 1984
+356. Rectangle: (182; 516); (889; 231); Color = VIOLET
+Perimeter = 1984
+357. Rectangle: (215; 39); (537; 709); Color = VIOLET
+Perimeter = 1984
+358. Triangle: (43; 116), (299; 598); (847; 448); Color = LIGHT_BLUE
+Perimeter = 1983.7745079034644
+359. Rectangle: (409; 735); (803; 139); Color = BLUE
+Perimeter = 1980
+360. Triangle: (823; 84), (116; 659); (602; 618); Color = LIGHT_BLUE
+Perimeter = 1976.9545553695034
+361. Triangle: (211; 623), (395; 930); (730; 108); Color = ORANGE
+Perimeter = 1976.7138537965284
+362. Rectangle: (125; 663); (851; 403); Color = YELLOW
+Perimeter = 1972
+363. Rectangle: (13; 704); (344; 49); Color = LIGHT_BLUE
+Perimeter = 1972
+364. Circle: (711; 605); radius = 313; Color = LIGHT_BLUE
+Perimeter = 1966.6370011472104
+365. Triangle: (842; 857), (378; 519); (651; 39); Color = YELLOW
+Perimeter = 1966.26248934543
+366. Triangle: (7; 792), (807; 915); (854; 627); Color = RED
+Perimeter = 1964.1320458894222
+367. Rectangle: (885; 800); (35; 670); Color = YELLOW
+Perimeter = 1960
+368. Triangle: (161; 40), (465; 457); (220; 935); Color = VIOLET
+Perimeter = 1950.1204009974322
+369. Triangle: (475; 181), (858; 232); (705; 959); Color = VIOLET
+Perimeter = 1940.5913402521655
+370. Rectangle: (735; 623); (137; 993); Color = RED
+Perimeter = 1936
+371. Triangle: (59; 473), (654; 506); (866; 109); Color = ORANGE
+Perimeter = 1931.2670449869263
+372. Triangle: (110; 873), (649; 141); (264; 913); Color = YELLOW
+Perimeter = 1930.82071705761
+373. Triangle: (781; 367), (582; 824); (14; 513); Color = GREEN
+Perimeter = 1926.7881730185059
+374. Triangle: (945; 421), (492; 34); (794; 851); Color = VIOLET
+Perimeter = 1922.5724040664043
+375. Rectangle: (393; 872); (277; 30); Color = YELLOW
+Perimeter = 1916
+376. Triangle: (846; 798), (573; 163); (186; 409); Color = VIOLET
+Perimeter = 1915.8736309051087
+377. Triangle: (852; 86), (622; 312); (280; 848); Color = GREEN
+Perimeter = 1911.0676196663492
+378. Circle: (47; 536); radius = 304; Color = LIGHT_BLUE
+Perimeter = 1910.088333382594
+379. Rectangle: (630; 949); (809; 173); Color = RED
+Perimeter = 1910
+380. Rectangle: (236; 127); (656; 661); Color = RED
+Perimeter = 1908
+381. Triangle: (312; 369), (12; 839); (576; 73); Color = BLUE
+Perimeter = 1905.4469318462188
+382. Rectangle: (73; 166); (198; 991); Color = GREEN
+Perimeter = 1900
+383. Rectangle: (76; 335); (841; 156); Color = BLUE
+Perimeter = 1888
+384. Triangle: (295; 779), (689; 149); (283; 54); Color = GREEN
+Perimeter = 1885.1242731778107
+385. Circle: (755; 494); radius = 300; Color = VIOLET
+Perimeter = 1884.9555921538758
+386. Triangle: (947; 209), (332; 684); (230; 316); Color = VIOLET
+Perimeter = 1883.892182070569
+387. Triangle: (935; 267), (124; 35); (384; 423); Color = ORANGE
+Perimeter = 1883.2479892458507
+388. Triangle: (306; 936), (932; 277); (474; 518); Color = GREEN
+Perimeter = 1876.966731647251
+389. Triangle: (543; 85), (197; 407); (443; 917); Color = RED
+Perimeter = 1876.8697940600623
+390. Triangle: (718; 809), (32; 196); (326; 633); Color = YELLOW
+Perimeter = 1876.3710560425516
+391. Rectangle: (904; 973); (71; 869); Color = VIOLET
+Perimeter = 1874
+392. Triangle: (571; 844), (79; 256); (737; 910); Color = GREEN
+Perimeter = 1873.0540864785844
+393. Triangle: (593; 297), (729; 969); (384; 123); Color = VIOLET
+Perimeter = 1871.2157813109975
+394. Rectangle: (408; 973); (84; 367); Color = YELLOW
+Perimeter = 1860
+395. Circle: (50; 418); radius = 296; Color = ORANGE
+Perimeter = 1859.8228509251576
+396. Rectangle: (263; 320); (778; 733); Color = VIOLET
+Perimeter = 1856
+397. Triangle: (962; 400), (220; 720); (341; 317); Color = VIOLET
+Perimeter = 1855.3571232742133
+398. Circle: (609; 647); radius = 295; Color = BLUE
+Perimeter = 1853.539665617978
+399. Circle: (58; 409); radius = 295; Color = GREEN
+Perimeter = 1853.539665617978
+400. Triangle: (835; 590), (50; 110); (238; 152); Color = GREEN
+Perimeter = 1853.1977279311996
+401. Triangle: (361; 928), (477; 124); (588; 50); Color = LIGHT_BLUE
+Perimeter = 1852.600346721381
+402. Rectangle: (116; 920); (341; 220); Color = YELLOW
+Perimeter = 1850
+403. Rectangle: (175; 991); (894; 786); Color = GREEN
+Perimeter = 1848
+404. Circle: (310; 593); radius = 294; Color = LIGHT_BLUE
+Perimeter = 1847.2564803107985
+405. Triangle: (454; 207), (214; 809); (706; 54); Color = BLUE
+Perimeter = 1844.0470725224309
+406. Rectangle: (89; 821); (586; 397); Color = BLUE
+Perimeter = 1842
+407. Triangle: (947; 123), (703; 500); (938; 977); Color = LIGHT_BLUE
+Perimeter = 1834.8648664553689
+408. Rectangle: (81; 805); (710; 517); Color = LIGHT_BLUE
+Perimeter = 1834
+409. Triangle: (482; 219), (25; 907); (19; 402); Color = LIGHT_BLUE
+Perimeter = 1828.8387907221213
+410. Triangle: (730; 471), (159; 428); (860; 37); Color = ORANGE
+Perimeter = 1828.3404621885416
+411. Triangle: (300; 272), (192; 677); (918; 511); Color = RED
+Perimeter = 1826.4936204094417
+412. Triangle: (156; 303), (560; 164); (482; 888); Color = LIGHT_BLUE
+Perimeter = 1825.1351986733348
+413. Triangle: (274; 225), (697; 806); (871; 341); Color = VIOLET
+Perimeter = 1823.3263312688518
+414. Triangle: (434; 801), (858; 245); (257; 925); Color = BLUE
+Perimeter = 1822.8604767425727
+415. Triangle: (771; 555), (691; 133); (72; 249); Color = GREEN
+Perimeter = 1822.3359231032287
+416. Rectangle: (859; 229); (167; 10); Color = BLUE
+Perimeter = 1822
+417. Triangle: (338; 867), (8; 193); (99; 990); Color = YELLOW
+Perimeter = 1821.4224168850897
+418. Triangle: (542; 757), (435; 969); (185; 138); Color = YELLOW
+Perimeter = 1819.8327776992983
+419. Triangle: (829; 969), (356; 483); (153; 365); Color = ORANGE
+Perimeter = 1819.5093193435928
+420. Triangle: (775; 793), (31; 270); (150; 345); Color = ORANGE
+Perimeter = 1819.0730515195312
+421. Rectangle: (932; 838); (803; 63); Color = YELLOW
+Perimeter = 1808
+422. Rectangle: (128; 624); (865; 791); Color = LIGHT_BLUE
+Perimeter = 1808
+423. Triangle: (334; 41), (725; 854); (682; 782); Color = BLUE
+Perimeter = 1804.6476129446924
+424. Triangle: (969; 180), (490; 781); (978; 724); Color = ORANGE
+Perimeter = 1803.9244272157873
+425. Circle: (509; 66); radius = 287; Color = BLUE
+Perimeter = 1803.2741831605413
+426. Triangle: (187; 668), (903; 618); (690; 247); Color = GREEN
+Perimeter = 1801.474815464262
+427. Triangle: (396; 278), (907; 131); (668; 782); Color = RED
+Perimeter = 1797.9218549368882
+428. Triangle: (62; 457), (572; 290); (291; 950); Color = GREEN
+Perimeter = 1797.5650585390617
+429. Rectangle: (413; 616); (67; 66); Color = RED
+Perimeter = 1792
+430. Rectangle: (354; 245); (569; 926); Color = GREEN
+Perimeter = 1792
+431. Triangle: (527; 55), (686; 185); (197; 789); Color = LIGHT_BLUE
+Perimeter = 1787.2847467833908
+432. Triangle: (139; 366), (896; 93); (309; 15); Color = ORANGE
+Perimeter = 1786.8832012658254
+433. Triangle: (497; 761), (418; 57); (736; 44); Color = ORANGE
+Perimeter = 1782.4686346503483
+434. Rectangle: (655; 76); (837; 785); Color = LIGHT_BLUE
+Perimeter = 1782
+435. Rectangle: (40; 397); (732; 596); Color = GREEN
+Perimeter = 1782
+436. Triangle: (852; 453), (313; 761); (276; 222); Color = LIGHT_BLUE
+Perimeter = 1781.6563686356553
+437. Rectangle: (688; 629); (310; 117); Color = LIGHT_BLUE
+Perimeter = 1780
+438. Triangle: (70; 851), (350; 10); (220; 378); Color = ORANGE
+Perimeter = 1772.88822967209
+439. Circle: (465; 529); radius = 282; Color = RED
+Perimeter = 1771.8582566246432
+440. Rectangle: (994; 864); (209; 963); Color = BLUE
+Perimeter = 1768
+441. Rectangle: (230; 893); (194; 45); Color = LIGHT_BLUE
+Perimeter = 1768
+442. Triangle: (149; 22), (32; 562); (245; 863); Color = YELLOW
+Perimeter = 1767.7321968728872
+443. Rectangle: (758; 439); (297; 17); Color = LIGHT_BLUE
+Perimeter = 1766
+444. Triangle: (497; 40), (766; 216); (749; 828); Color = GREEN
+Perimeter = 1761.0105193905472
+445. Triangle: (970; 40), (371; 544); (447; 99); Color = GREEN
+Perimeter = 1760.5869257052275
+446. Triangle: (424; 986), (341; 869); (416; 121); Color = LIGHT_BLUE
+Perimeter = 1760.2379568126705
+447. Triangle: (294; 871), (136; 13); (191; 676); Color = RED
+Perimeter = 1758.2350638937373
+448. Rectangle: (14; 863); (472; 443); Color = YELLOW
+Perimeter = 1756
+449. Rectangle: (11; 837); (830; 778); Color = ORANGE
+Perimeter = 1756
+450. Rectangle: (773; 967); (895; 213); Color = RED
+Perimeter = 1752
+451. Triangle: (291; 805), (114; 614); (659; 135); Color = BLUE
+Perimeter = 1750.3941854638122
+452. Triangle: (692; 138), (115; 330); (844; 498); Color = VIOLET
+Perimeter = 1746.9872805910172
+453. Triangle: (237; 164), (703; 776); (769; 377); Color = BLUE
+Perimeter = 1746.6980377473274
+454. Triangle: (684; 419), (837; 86); (117; 459); Color = BLUE
+Perimeter = 1745.7577178665526
+455. Rectangle: (846; 710); (155; 530); Color = LIGHT_BLUE
+Perimeter = 1742
+456. Triangle: (330; 732), (502; 177); (917; 304); Color = ORANGE
+Perimeter = 1741.505106287962
+457. Triangle: (288; 637), (493; 792); (746; 77); Color = GREEN
+Perimeter = 1738.8827784369003
+458. Rectangle: (235; 752); (632; 282); Color = RED
+Perimeter = 1734
+459. Triangle: (221; 277), (35; 463); (828; 558); Color = ORANGE
+Perimeter = 1730.6010027514565
+460. Triangle: (890; 827), (520; 555); (521; 100); Color = VIOLET
+Perimeter = 1729.5074047185244
+461. Circle: (128; 856); radius = 275; Color = ORANGE
+Perimeter = 1727.8759594743863
+462. Triangle: (245; 179), (163; 245); (537; 950); Color = LIGHT_BLUE
+Perimeter = 1727.7645892599767
+463. Triangle: (139; 201), (609; 170); (754; 645); Color = YELLOW
+Perimeter = 1726.1854760239767
+464. Rectangle: (319; 908); (40; 324); Color = BLUE
+Perimeter = 1726
+465. Triangle: (987; 394), (279; 863); (645; 733); Color = GREEN
+Perimeter = 1719.195913057097
+466. Triangle: (15; 778), (120; 20); (353; 403); Color = ORANGE
+Perimeter = 1718.3890917136898
+467. Triangle: (142; 966), (178; 117); (231; 231); Color = VIOLET
+Perimeter = 1715.8496733733705
+468. Triangle: (636; 806), (814; 27); (486; 538); Color = YELLOW
+Perimeter = 1713.4105553052095
+469. Triangle: (781; 649), (20; 650); (47; 841); Color = LIGHT_BLUE
+Perimeter = 1712.5958444556995
+470. Rectangle: (163; 918); (936; 836); Color = GREEN
+Perimeter = 1710
+471. Circle: (187; 230); radius = 272; Color = LIGHT_BLUE
+Perimeter = 1709.0264035528476
+472. Triangle: (825; 541), (339; 852); (727; 191); Color = RED
+Perimeter = 1706.913394908884
+473. Triangle: (269; 759), (23; 811); (266; 77); Color = BLUE
+Perimeter = 1706.6209793416542
+474. Circle: (817; 711); radius = 271; Color = BLUE
+Perimeter = 1702.7432182456678
+475. Triangle: (441; 556), (292; 937); (146; 155); Color = RED
+Perimeter = 1702.4326765620942
+476. Triangle: (14; 528), (269; 98); (683; 413); Color = LIGHT_BLUE
+Perimeter = 1698.949648859287
+477. Triangle: (190; 561), (391; 764); (623; 56); Color = ORANGE
+Perimeter = 1695.9341785296274
+478. Triangle: (294; 221), (838; 90); (429; 645); Color = GREEN
+Perimeter = 1693.9481431120817
+479. Triangle: (516; 105), (971; 474); (499; 688); Color = BLUE
+Perimeter = 1687.315640300189
+480. Rectangle: (239; 372); (780; 674); Color = VIOLET
+Perimeter = 1686
+481. Triangle: (696; 540), (413; 433); (3; 884); Color = RED
+Perimeter = 1685.744044947777
+482. Circle: (855; 845); radius = 268; Color = YELLOW
+Perimeter = 1683.893662324129
+483. Rectangle: (101; 936); (775; 775); Color = VIOLET
+Perimeter = 1670
+484. Triangle: (528; 438), (497; 159); (492; 992); Color = BLUE
+Perimeter = 1668.9003880566966
+485. Triangle: (920; 368), (531; 390); (207; 25); Color = BLUE
+Perimeter = 1668.8930022708576
+486. Circle: (345; 706); radius = 265; Color = GREEN
+Perimeter = 1665.0441064025904
+487. Triangle: (309; 88), (641; 764); (170; 249); Color = GREEN
+Perimeter = 1663.7296234921075
+488. Rectangle: (663; 796); (118; 511); Color = BLUE
+Perimeter = 1660
+489. Circle: (908; 225); radius = 264; Color = ORANGE
+Perimeter = 1658.7609210954108
+490. Triangle: (979; 401), (996; 152); (294; 277); Color = GREEN
+Perimeter = 1658.7546107132762
+491. Rectangle: (132; 586); (553; 994); Color = VIOLET
+Perimeter = 1658
+492. Triangle: (221; 557), (449; 97); (839; 429); Color = LIGHT_BLUE
+Perimeter = 1656.6965462067985
+493. Rectangle: (335; 636); (573; 46); Color = GREEN
+Perimeter = 1656
+494. Rectangle: (257; 790); (36; 183); Color = BLUE
+Perimeter = 1656
+495. Triangle: (873; 131), (698; 939); (814; 323); Color = BLUE
+Perimeter = 1654.4215135085583
+496. Triangle: (42; 768), (582; 191); (379; 201); Color = BLUE
+Perimeter = 1653.1068946533535
+497. Rectangle: (216; 982); (883; 823); Color = YELLOW
+Perimeter = 1652
+498. Rectangle: (49; 991); (771; 887); Color = YELLOW
+Perimeter = 1652
+499. Rectangle: (202; 22); (595; 454); Color = GREEN
+Perimeter = 1650
+500. Circle: (511; 280); radius = 262; Color = ORANGE
+Perimeter = 1646.1945504810517
+501. Triangle: (69; 672), (635; 643); (855; 815); Color = VIOLET
+Perimeter = 1644.900972732793
+502. Rectangle: (987; 151); (465; 451); Color = VIOLET
+Perimeter = 1644
+503. Triangle: (490; 769), (915; 793); (139; 564); Color = RED
+Perimeter = 1641.2411695073965
+504. Rectangle: (403; 815); (776; 369); Color = BLUE
+Perimeter = 1638
+505. Triangle: (164; 659), (941; 790); (845; 652); Color = BLUE
+Perimeter = 1637.1088195639932
+506. Triangle: (879; 954), (926; 700); (856; 140); Color = LIGHT_BLUE
+Perimeter = 1636.994743187805
+507. Triangle: (538; 519), (765; 129); (204; 704); Color = GREEN
+Perimeter = 1636.3997836908864
+508. Rectangle: (139; 600); (863; 506); Color = BLUE
+Perimeter = 1636
+509. Triangle: (747; 998), (861; 654); (663; 214); Color = LIGHT_BLUE
+Perimeter = 1633.3823991823515
+510. Rectangle: (657; 64); (660; 876); Color = ORANGE
+Perimeter = 1630
+511. Triangle: (464; 930), (458; 434); (90; 293); Color = LIGHT_BLUE
+Perimeter = 1628.8017156783776
+512. Triangle: (949; 682), (801; 872); (346; 345); Color = ORANGE
+Perimeter = 1627.8636874702993
+513. Rectangle: (860; 49); (665; 667); Color = ORANGE
+Perimeter = 1626
+514. Triangle: (84; 823), (310; 901); (832; 598); Color = LIGHT_BLUE
+Perimeter = 1623.7560207495321
+515. Rectangle: (68; 867); (343; 332); Color = BLUE
+Perimeter = 1620
+516. Triangle: (338; 233), (597; 112); (753; 758); Color = YELLOW
+Perimeter = 1619.655592545449
+517. Rectangle: (600; 379); (991; 796); Color = GREEN
+Perimeter = 1616
+518. Circle: (983; 934); radius = 257; Color = YELLOW
+Perimeter = 1614.7786239451536
+519. Rectangle: (417; 978); (961; 715); Color = RED
+Perimeter = 1614
+520. Triangle: (411; 5), (785; 180); (345; 596); Color = LIGHT_BLUE
+Perimeter = 1613.1127905791495
+521. Rectangle: (39; 320); (448; 717); Color = LIGHT_BLUE
+Perimeter = 1612
+522. Triangle: (180; 268), (567; 813); (757; 655); Color = VIOLET
+Perimeter = 1610.302529869187
+523. Triangle: (272; 50), (226; 209); (965; 176); Color = BLUE
+Perimeter = 1609.6182439567228
+524. Triangle: (860; 183), (149; 102); (108; 235); Color = BLUE
+Perimeter = 1608.5709254272792
+525. Rectangle: (762; 899); (410; 447); Color = YELLOW
+Perimeter = 1608
+526. Triangle: (226; 397), (976; 184); (581; 431); Color = LIGHT_BLUE
+Perimeter = 1602.1530737342634
+527. Triangle: (392; 881), (874; 692); (514; 327); Color = VIOLET
+Perimeter = 1597.66941679809
+528. Triangle: (80; 452), (870; 459); (268; 525); Color = GREEN
+Perimeter = 1597.3136273299137
+529. Rectangle: (544; 975); (397; 327); Color = VIOLET
+Perimeter = 1590
+530. Triangle: (464; 205), (775; 392); (988; 784); Color = ORANGE
+Perimeter = 1589.9301199535503
+531. Triangle: (172; 826), (45; 668); (758; 980); Color = RED
+Perimeter = 1586.8874236020006
+532. Rectangle: (360; 603); (915; 366); Color = BLUE
+Perimeter = 1584
+533. Triangle: (850; 380), (382; 883); (279; 920); Color = LIGHT_BLUE
+Perimeter = 1582.392020689944
+534. Triangle: (882; 354), (319; 716); (975; 279); Color = RED
+Perimeter = 1577.0406065306308
+535. Triangle: (563; 723), (391; 687); (299; 32); Color = YELLOW
+Perimeter = 1576.8707075607724
+536. Rectangle: (200; 695); (901; 610); Color = RED
+Perimeter = 1572
+537. Triangle: (351; 2), (232; 628); (622; 153); Color = RED
+Perimeter = 1562.0326355589814
+538. Triangle: (337; 935), (960; 492); (821; 721); Color = ORANGE
+Perimeter = 1561.529903476546
+539. Triangle: (201; 325), (344; 235); (358; 966); Color = BLUE
+Perimeter = 1560.0455115142056
+540. Triangle: (262; 101), (809; 340); (881; 11); Color = LIGHT_BLUE
+Perimeter = 1559.2287076265306
+541. Rectangle: (844; 803); (117; 752); Color = BLUE
+Perimeter = 1556
+542. Triangle: (240; 914), (336; 700); (112; 176); Color = BLUE
+Perimeter = 1553.4345551476245
+543. Circle: (72; 287); radius = 247; Color = ORANGE
+Perimeter = 1551.9467708733578
+544. Rectangle: (281; 289); (955; 188); Color = LIGHT_BLUE
+Perimeter = 1550
+545. Triangle: (559; 25), (368; 109); (3; 552); Color = ORANGE
+Perimeter = 1548.7246213614594
+546. Circle: (700; 415); radius = 246; Color = VIOLET
+Perimeter = 1545.6635855661782
+547. Rectangle: (166; 169); (808; 39); Color = YELLOW
+Perimeter = 1544
+548. Triangle: (398; 900), (247; 721); (694; 284); Color = YELLOW
+Perimeter = 1542.7327368970373
+549. Triangle: (54; 26), (33; 452); (545; 115); Color = RED
+Perimeter = 1538.4726148630991
+550. Rectangle: (803; 139); (520; 625); Color = VIOLET
+Perimeter = 1538
+551. Rectangle: (474; 452); (804; 14); Color = RED
+Perimeter = 1536
+552. Rectangle: (890; 334); (316; 140); Color = BLUE
+Perimeter = 1536
+553. Rectangle: (47; 571); (725; 482); Color = RED
+Perimeter = 1534
+554. Circle: (334; 512); radius = 244; Color = ORANGE
+Perimeter = 1533.097214951819
+555. Rectangle: (463; 793); (483; 48); Color = ORANGE
+Perimeter = 1530
+556. Triangle: (784; 676), (911; 972); (535; 308); Color = RED
+Perimeter = 1529.4875315684014
+557. Triangle: (794; 450), (371; 920); (710; 988); Color = VIOLET
+Perimeter = 1522.5912676835617
+558. Triangle: (490; 221), (60; 153); (308; 686); Color = BLUE
+Perimeter = 1522.5637027673022
+559. Rectangle: (795; 147); (39; 148); Color = VIOLET
+Perimeter = 1514
+560. Triangle: (191; 109), (686; 386); (186; 534); Color = GREEN
+Perimeter = 1513.7071971729943
+561. Rectangle: (260; 434); (957; 493); Color = GREEN
+Perimeter = 1512
+562. Triangle: (125; 389), (746; 229); (510; 587); Color = YELLOW
+Perimeter = 1503.0004525374852
+563. Triangle: (104; 755), (565; 177); (407; 520); Color = LIGHT_BLUE
+Perimeter = 1500.4188884255661
+564. Triangle: (412; 87), (502; 584); (29; 277); Color = ORANGE
+Perimeter = 1496.5168442148392
+565. Rectangle: (62; 495); (772; 529); Color = BLUE
+Perimeter = 1488
+566. Triangle: (341; 323), (57; 764); (491; 824); Color = YELLOW
+Perimeter = 1485.6360980938553
+567. Triangle: (896; 608), (368; 642); (809; 254); Color = YELLOW
+Perimeter = 1481.0158007920138
+568. Circle: (120; 145); radius = 235; Color = GREEN
+Perimeter = 1476.5485471872028
+569. Rectangle: (426; 631); (34; 977); Color = RED
+Perimeter = 1476
+570. Circle: (298; 939); radius = 234; Color = RED
+Perimeter = 1470.2653618800232
+571. Triangle: (156; 536), (674; 204); (66; 611); Color = BLUE
+Perimeter = 1464.0671637500154
+572. Circle: (313; 641); radius = 233; Color = LIGHT_BLUE
+Perimeter = 1463.9821765728436
+573. Triangle: (384; 525), (39; 838); (395; 231); Color = RED
+Perimeter = 1463.7256836401052
+574. Rectangle: (347; 722); (503; 150); Color = LIGHT_BLUE
+Perimeter = 1456
+575. Rectangle: (347; 847); (626; 399); Color = RED
+Perimeter = 1454
+576. Rectangle: (870; 826); (605; 364); Color = LIGHT_BLUE
+Perimeter = 1454
+577. Triangle: (464; 646), (255; 636); (131; 71); Color = YELLOW
+Perimeter = 1452.1513551148114
+578. Circle: (354; 797); radius = 231; Color = LIGHT_BLUE
+Perimeter = 1451.4158059584845
+579. Rectangle: (893; 597); (372; 393); Color = ORANGE
+Perimeter = 1450
+580. Triangle: (103; 639), (678; 373); (281; 274); Color = LIGHT_BLUE
+Perimeter = 1448.7939305260766
+581. Circle: (961; 151); radius = 230; Color = RED
+Perimeter = 1445.132620651305
+582. Rectangle: (201; 980); (840; 898); Color = GREEN
+Perimeter = 1442
+583. Rectangle: (562; 938); (911; 567); Color = YELLOW
+Perimeter = 1440
+584. Triangle: (840; 405), (498; 288); (261; 1); Color = YELLOW
+Perimeter = 1439.6813453615894
+585. Triangle: (63; 814), (267; 208); (414; 499); Color = RED
+Perimeter = 1437.0574398860122
+586. Triangle: (848; 350), (974; 719); (515; 210); Color = RED
+Perimeter = 1436.543693162353
+587. Rectangle: (732; 725); (156; 865); Color = GREEN
+Perimeter = 1432
+588. Triangle: (401; 774), (825; 528); (204; 522); Color = VIOLET
+Perimeter = 1431.0888976607512
+589. Circle: (757; 585); radius = 227; Color = VIOLET
+Perimeter = 1426.283064729766
+590. Circle: (63; 371); radius = 227; Color = VIOLET
+Perimeter = 1426.283064729766
+591. Triangle: (43; 677), (15; 508); (512; 200); Color = ORANGE
+Perimeter = 1424.9498251760574
+592. Rectangle: (359; 787); (355; 80); Color = ORANGE
+Perimeter = 1422
+593. Triangle: (321; 625), (934; 612); (499; 370); Color = GREEN
+Perimeter = 1421.9026276991242
+594. Rectangle: (653; 621); (88; 477); Color = VIOLET
+Perimeter = 1418
+595. Rectangle: (712; 512); (960; 51); Color = GREEN
+Perimeter = 1418
+596. Triangle: (818; 184), (470; 631); (378; 737); Color = VIOLET
+Perimeter = 1413.5372817677687
+597. Triangle: (760; 39), (549; 626); (740; 635); Color = BLUE
+Perimeter = 1411.3181916045498
+598. Triangle: (356; 176), (734; 202); (887; 551); Color = RED
+Perimeter = 1410.0235742890252
+599. Rectangle: (600; 136); (19; 13); Color = GREEN
+Perimeter = 1408
+600. Rectangle: (141; 569); (412; 1000); Color = VIOLET
+Perimeter = 1404
+601. Triangle: (713; 927), (412; 675); (79; 821); Color = GREEN
+Perimeter = 1398.9622764596702
+602. Rectangle: (936; 117); (434; 314); Color = VIOLET
+Perimeter = 1398
+603. Rectangle: (851; 45); (534; 425); Color = RED
+Perimeter = 1394
+604. Rectangle: (39; 585); (204; 55); Color = YELLOW
+Perimeter = 1390
+605. Triangle: (638; 984), (604; 976); (892; 361); Color = YELLOW
+Perimeter = 1386.8117194832598
+606. Triangle: (243; 769), (880; 945); (680; 741); Color = ORANGE
+Perimeter = 1384.4481027419451
+607. Triangle: (718; 129), (882; 230); (417; 625); Color = RED
+Perimeter = 1382.9157923117477
+608. Circle: (294; 528); radius = 220; Color = YELLOW
+Perimeter = 1382.300767579509
+609. Rectangle: (332; 522); (712; 211); Color = BLUE
+Perimeter = 1382
+610. Rectangle: (760; 691); (414; 347); Color = BLUE
+Perimeter = 1380
+611. Rectangle: (198; 121); (441; 567); Color = BLUE
+Perimeter = 1378
+612. Triangle: (257; 430), (406; 882); (60; 308); Color = GREEN
+Perimeter = 1377.8607897653715
+613. Rectangle: (518; 271); (945; 10); Color = BLUE
+Perimeter = 1376
+614. Rectangle: (805; 328); (874; 946); Color = LIGHT_BLUE
+Perimeter = 1374
+615. Triangle: (844; 464), (975; 997); (595; 669); Color = LIGHT_BLUE
+Perimeter = 1373.3731579900675
+616. Triangle: (207; 548), (630; 539); (55; 272); Color = VIOLET
+Perimeter = 1372.1498994467966
+617. Circle: (475; 324); radius = 218; Color = ORANGE
+Perimeter = 1369.7343969651497
+618. Rectangle: (273; 803); (891; 869); Color = RED
+Perimeter = 1368
+619. Triangle: (558; 235), (131; 532); (740; 329); Color = BLUE
+Perimeter = 1366.9164424612552
+620. Rectangle: (327; 841); (234; 252); Color = GREEN
+Perimeter = 1364
+621. Rectangle: (279; 701); (669; 993); Color = RED
+Perimeter = 1364
+622. Triangle: (627; 35), (687; 651); (846; 540); Color = RED
+Perimeter = 1363.2691721731683
+623. Rectangle: (648; 259); (827; 759); Color = VIOLET
+Perimeter = 1358
+624. Rectangle: (700; 909); (43; 928); Color = VIOLET
+Perimeter = 1352
+625. Triangle: (201; 482), (408; 450); (654; 906); Color = VIOLET
+Perimeter = 1348.0539587326998
+626. Triangle: (915; 107), (695; 154); (530; 610); Color = BLUE
+Perimeter = 1343.3288012121884
+627. Rectangle: (308; 172); (412; 739); Color = YELLOW
+Perimeter = 1342
+628. Rectangle: (809; 583); (377; 822); Color = RED
+Perimeter = 1342
+629. Triangle: (417; 628), (134; 244); (658; 568); Color = GREEN
+Perimeter = 1341.4512868065046
+630. Triangle: (862; 373), (287; 573); (326; 382); Color = ORANGE
+Perimeter = 1339.806354191172
+631. Triangle: (103; 293), (49; 415); (638; 141); Color = ORANGE
+Perimeter = 1339.2031364046866
+632. Rectangle: (178; 204); (314; 733); Color = ORANGE
+Perimeter = 1330
+633. Rectangle: (663; 683); (359; 323); Color = LIGHT_BLUE
+Perimeter = 1328
+634. Triangle: (346; 727), (470; 125); (553; 133); Color = RED
+Perimeter = 1327.0577309499838
+635. Triangle: (395; 777), (844; 487); (743; 897); Color = YELLOW
+Perimeter = 1324.8757663658116
+636. Rectangle: (565; 873); (712; 358); Color = LIGHT_BLUE
+Perimeter = 1324
+637. Circle: (649; 24); radius = 210; Color = ORANGE
+Perimeter = 1319.4689145077132
+638. Triangle: (361; 336), (167; 368); (824; 372); Color = YELLOW
+Perimeter = 1318.0310992590387
+639. Rectangle: (379; 200); (294; 772); Color = LIGHT_BLUE
+Perimeter = 1314
+640. Triangle: (474; 143), (172; 299); (671; 522); Color = YELLOW
+Perimeter = 1313.6153977836884
+641. Triangle: (857; 789), (238; 662); (595; 606); Color = YELLOW
+Perimeter = 1312.8419846237741
+642. Triangle: (243; 737), (590; 338); (729; 316); Color = BLUE
+Perimeter = 1312.5025255121172
+643. Triangle: (715; 604), (797; 789); (955; 184); Color = YELLOW
+Perimeter = 1311.3851896938902
+644. Rectangle: (577; 301); (735; 798); Color = YELLOW
+Perimeter = 1310
+645. Triangle: (309; 148), (274; 702); (96; 204); Color = BLUE
+Perimeter = 1304.19836949747
+646. Rectangle: (553; 723); (60; 564); Color = GREEN
+Perimeter = 1304
+647. Rectangle: (790; 641); (238; 544); Color = YELLOW
+Perimeter = 1298
+648. Rectangle: (269; 487); (454; 951); Color = VIOLET
+Perimeter = 1298
+649. Triangle: (310; 315), (479; 705); (202; 119); Color = BLUE
+Perimeter = 1296.998464782272
+650. Circle: (286; 825); radius = 206; Color = YELLOW
+Perimeter = 1294.3361732789947
+651. Rectangle: (549; 350); (50; 204); Color = YELLOW
+Perimeter = 1290
+652. Circle: (182; 385); radius = 205; Color = YELLOW
+Perimeter = 1288.0529879718151
+653. Triangle: (321; 55), (789; 495); (576; 250); Color = YELLOW
+Perimeter = 1288.016594801139
+654. Rectangle: (818; 135); (315; 276); Color = LIGHT_BLUE
+Perimeter = 1288
+655. Rectangle: (241; 927); (100; 424); Color = YELLOW
+Perimeter = 1288
+656. Rectangle: (929; 187); (513; 414); Color = VIOLET
+Perimeter = 1286
+657. Triangle: (603; 359), (551; 611); (627; 995); Color = BLUE
+Perimeter = 1285.2104134453
+658. Triangle: (803; 459), (442; 786); (663; 270); Color = VIOLET
+Perimeter = 1283.6223375808536
+659. Circle: (66; 424); radius = 204; Color = VIOLET
+Perimeter = 1281.7698026646356
+660. Circle: (242; 586); radius = 204; Color = LIGHT_BLUE
+Perimeter = 1281.7698026646356
+661. Triangle: (741; 975), (600; 362); (585; 685); Color = ORANGE
+Perimeter = 1281.6514830316064
+662. Rectangle: (882; 358); (701; 815); Color = ORANGE
+Perimeter = 1276
+663. Circle: (645; 737); radius = 203; Color = GREEN
+Perimeter = 1275.486617357456
+664. Rectangle: (854; 819); (473; 563); Color = VIOLET
+Perimeter = 1274
+665. Rectangle: (570; 658); (235; 357); Color = RED
+Perimeter = 1272
+666. Rectangle: (28; 482); (205; 939); Color = ORANGE
+Perimeter = 1268
+667. Triangle: (606; 673), (377; 953); (453; 382); Color = YELLOW
+Perimeter = 1266.525530394293
+668. Rectangle: (739; 812); (237; 684); Color = LIGHT_BLUE
+Perimeter = 1260
+669. Rectangle: (703; 536); (870; 998); Color = GREEN
+Perimeter = 1258
+670. Circle: (339; 107); radius = 199; Color = YELLOW
+Perimeter = 1250.3538761287377
+671. Triangle: (985; 621), (726; 102); (690; 402); Color = YELLOW
+Perimeter = 1249.592894591475
+672. Triangle: (312; 503), (726; 870); (527; 443); Color = BLUE
+Perimeter = 1247.5591048515707
+673. Rectangle: (277; 417); (567; 750); Color = VIOLET
+Perimeter = 1246
+674. Rectangle: (700; 188); (110; 219); Color = RED
+Perimeter = 1242
+675. Rectangle: (432; 416); (167; 61); Color = ORANGE
+Perimeter = 1240
+676. Triangle: (501; 242), (864; 227); (269; 106); Color = YELLOW
+Perimeter = 1239.4122878229737
+677. Triangle: (316; 970), (475; 372); (407; 682); Color = VIOLET
+Perimeter = 1238.1822318319287
+678. Triangle: (647; 818), (598; 324); (894; 533); Color = VIOLET
+Perimeter = 1235.9127243483063
+679. Triangle: (74; 776), (363; 307); (187; 835); Color = BLUE
+Perimeter = 1234.92835996489
+680. Rectangle: (893; 712); (802; 186); Color = RED
+Perimeter = 1234
+681. Rectangle: (888; 405); (687; 821); Color = ORANGE
+Perimeter = 1234
+682. Circle: (277; 642); radius = 196; Color = LIGHT_BLUE
+Perimeter = 1231.5043202071988
+683. Triangle: (83; 266), (664; 401); (489; 460); Color = GREEN
+Perimeter = 1231.1249823770977
+684. Triangle: (922; 485), (806; 81); (910; 683); Color = VIOLET
+Perimeter = 1229.6043308710778
+685. Rectangle: (157; 328); (539; 559); Color = RED
+Perimeter = 1226
+686. Triangle: (423; 385), (646; 920); (549; 412); Color = RED
+Perimeter = 1225.6536983848032
+687. Circle: (181; 176); radius = 195; Color = LIGHT_BLUE
+Perimeter = 1225.2211349000193
+688. Rectangle: (421; 704); (456; 127); Color = YELLOW
+Perimeter = 1224
+689. Triangle: (68; 952), (342; 459); (403; 677); Color = ORANGE
+Perimeter = 1223.8159523207803
+690. Rectangle: (196; 694); (500; 387); Color = YELLOW
+Perimeter = 1222
+691. Triangle: (537; 973), (963; 946); (430; 771); Color = YELLOW
+Perimeter = 1216.4376884460635
+692. Triangle: (262; 100), (98; 681); (136; 392); Color = BLUE
+Perimeter = 1213.2154617165154
+693. Triangle: (505; 917), (152; 640); (446; 488); Color = RED
+Perimeter = 1212.7134123533622
+694. Rectangle: (797; 414); (506; 99); Color = GREEN
+Perimeter = 1212
+695. Triangle: (955; 336), (529; 285); (370; 392); Color = LIGHT_BLUE
+Perimeter = 1208.36690944928
+696. Rectangle: (133; 653); (579; 495); Color = BLUE
+Perimeter = 1208
+697. Triangle: (394; 751), (860; 398); (820; 535); Color = GREEN
+Perimeter = 1204.958368248815
+698. Rectangle: (723; 831); (674; 278); Color = YELLOW
+Perimeter = 1204
+699. Rectangle: (774; 699); (808; 132); Color = LIGHT_BLUE
+Perimeter = 1202
+700. Rectangle: (317; 776); (831; 863); Color = GREEN
+Perimeter = 1202
+701. Triangle: (473; 467), (851; 910); (721; 597); Color = VIOLET
+Perimeter = 1201.2817064885521
+702. Circle: (589; 625); radius = 191; Color = GREEN
+Perimeter = 1200.088393671301
+703. Triangle: (385; 425), (138; 739); (609; 408); Color = LIGHT_BLUE
+Perimeter = 1199.8253636318295
+704. Circle: (906; 139); radius = 190; Color = GREEN
+Perimeter = 1193.8052083641214
+705. Rectangle: (730; 322); (830; 815); Color = RED
+Perimeter = 1186
+706. Rectangle: (366; 716); (537; 296); Color = RED
+Perimeter = 1182
+707. Rectangle: (139; 630); (531; 828); Color = VIOLET
+Perimeter = 1180
+708. Rectangle: (425; 753); (858; 599); Color = VIOLET
+Perimeter = 1174
+709. Triangle: (64; 470), (382; 711); (562; 506); Color = RED
+Perimeter = 1171.113979126715
+710. Triangle: (418; 175), (439; 737); (534; 353); Color = YELLOW
+Perimeter = 1170.4307672218083
+711. Circle: (936; 116); radius = 185; Color = VIOLET
+Perimeter = 1162.3892818282234
+712. Rectangle: (368; 961); (780; 793); Color = GREEN
+Perimeter = 1160
+713. Circle: (31; 13); radius = 184; Color = YELLOW
+Perimeter = 1156.1060965210438
+714. Rectangle: (566; 519); (425; 83); Color = BLUE
+Perimeter = 1154
+715. Rectangle: (133; 801); (296; 389); Color = GREEN
+Perimeter = 1150
+716. Circle: (719; 950); radius = 183; Color = GREEN
+Perimeter = 1149.8229112138642
+717. Triangle: (97; 615), (617; 603); (364; 432); Color = ORANGE
+Perimeter = 1149.2013730290432
+718. Triangle: (78; 113), (597; 353); (460; 326); Color = RED
+Perimeter = 1148.8108280873082
+719. Rectangle: (216; 673); (550; 434); Color = GREEN
+Perimeter = 1146
+720. Circle: (455; 125); radius = 182; Color = ORANGE
+Perimeter = 1143.5397259066847
+721. Rectangle: (482; 151); (699; 505); Color = YELLOW
+Perimeter = 1142
+722. Triangle: (769; 630), (508; 887); (880; 995); Color = LIGHT_BLUE
+Perimeter = 1135.157445235847
+723. Triangle: (155; 349), (146; 891); (46; 493); Color = RED
+Perimeter = 1133.0470542064122
+724. Triangle: (640; 635), (578; 389); (957; 763); Color = RED
+Perimeter = 1128.022804968513
+725. Rectangle: (110; 372); (529; 231); Color = ORANGE
+Perimeter = 1120
+726. Triangle: (393; 489), (246; 642); (711; 339); Color = VIOLET
+Perimeter = 1118.7846123455322
+727. Circle: (81; 270); radius = 178; Color = VIOLET
+Perimeter = 1118.4069846779664
+728. Triangle: (151; 472), (265; 71); (486; 274); Color = RED
+Perimeter = 1106.1117881378073
+729. Rectangle: (908; 630); (427; 558); Color = VIOLET
+Perimeter = 1106
+730. Triangle: (270; 365), (752; 632); (619; 579); Color = ORANGE
+Perimeter = 1103.568241147058
+731. Rectangle: (422; 309); (760; 522); Color = LIGHT_BLUE
+Perimeter = 1102
+732. Circle: (183; 623); radius = 175; Color = YELLOW
+Perimeter = 1099.5574287564275
+733. Rectangle: (332; 439); (760; 559); Color = GREEN
+Perimeter = 1096
+734. Rectangle: (401; 449); (567; 826); Color = VIOLET
+Perimeter = 1086
+735. Rectangle: (272; 806); (209; 328); Color = GREEN
+Perimeter = 1082
+736. Circle: (182; 244); radius = 172; Color = RED
+Perimeter = 1080.7078728348888
+737. Rectangle: (368; 411); (814; 505); Color = ORANGE
+Perimeter = 1080
+738. Rectangle: (470; 140); (964; 98); Color = GREEN
+Perimeter = 1072
+739. Rectangle: (539; 415); (40; 384); Color = LIGHT_BLUE
+Perimeter = 1060
+740. Triangle: (413; 989), (139; 564); (300; 628); Color = YELLOW
+Perimeter = 1057.1954011908454
+741. Rectangle: (291; 805); (663; 649); Color = YELLOW
+Perimeter = 1056
+742. Circle: (71; 398); radius = 168; Color = YELLOW
+Perimeter = 1055.5751316061705
+743. Triangle: (752; 683), (916; 281); (846; 768); Color = LIGHT_BLUE
+Perimeter = 1052.9029488908009
+744. Rectangle: (114; 786); (470; 955); Color = GREEN
+Perimeter = 1050
+745. Rectangle: (503; 794); (598; 366); Color = LIGHT_BLUE
+Perimeter = 1046
+746. Rectangle: (976; 713); (990; 204); Color = LIGHT_BLUE
+Perimeter = 1046
+747. Circle: (924; 479); radius = 166; Color = RED
+Perimeter = 1043.0087609918114
+748. Rectangle: (314; 965); (242; 516); Color = LIGHT_BLUE
+Perimeter = 1042
+749. Rectangle: (592; 414); (593; 934); Color = YELLOW
+Perimeter = 1042
+750. Triangle: (516; 547), (598; 251); (350; 689); Color = RED
+Perimeter = 1028.9341167758594
+751. Rectangle: (597; 516); (228; 661); Color = ORANGE
+Perimeter = 1028
+752. Triangle: (352; 522), (452; 437); (842; 542); Color = RED
+Perimeter = 1025.5394014287237
+753. Triangle: (740; 820), (478; 578); (334; 796); Color = ORANGE
+Perimeter = 1024.637194088459
+754. Rectangle: (322; 892); (824; 884); Color = ORANGE
+Perimeter = 1020
+755. Rectangle: (941; 812); (813; 430); Color = LIGHT_BLUE
+Perimeter = 1020
+756. Triangle: (744; 731), (373; 501); (308; 468); Color = YELLOW
+Perimeter = 1018.5879251504747
+757. Triangle: (44; 27), (424; 333); (397; 362); Color = ORANGE
+Perimeter = 1014.1684931807326
+758. Triangle: (716; 209), (211; 248); (250; 253); Color = BLUE
+Perimeter = 1013.8955522994423
+759. Triangle: (410; 567), (870; 534); (401; 487); Color = RED
+Perimeter = 1013.0359623409558
+760. Circle: (646; 344); radius = 161; Color = ORANGE
+Perimeter = 1011.5928344559134
+761. Rectangle: (275; 793); (207; 357); Color = GREEN
+Perimeter = 1008
+762. Rectangle: (619; 135); (961; 296); Color = BLUE
+Perimeter = 1006
+763. Rectangle: (401; 508); (751; 356); Color = VIOLET
+Perimeter = 1004
+764. Rectangle: (646; 836); (401; 580); Color = BLUE
+Perimeter = 1002
+765. Triangle: (339; 69), (801; 27); (520; 180); Color = YELLOW
+Perimeter = 996.1835065298642
+766. Rectangle: (432; 241); (764; 75); Color = ORANGE
+Perimeter = 996
+767. Circle: (879; 106); radius = 158; Color = YELLOW
+Perimeter = 992.7432785343747
+768. Triangle: (173; 450), (348; 870); (318; 490); Color = LIGHT_BLUE
+Perimeter = 986.5984606158315
+769. Triangle: (594; 315), (613; 658); (859; 384); Color = YELLOW
+Perimeter = 985.5897432956549
+770. Rectangle: (174; 710); (304; 348); Color = VIOLET
+Perimeter = 984
+771. Rectangle: (410; 502); (197; 781); Color = YELLOW
+Perimeter = 984
+772. Rectangle: (359; 350); (131; 610); Color = VIOLET
+Perimeter = 976
+773. Rectangle: (414; 451); (29; 349); Color = YELLOW
+Perimeter = 974
+774. Rectangle: (891; 279); (839; 713); Color = VIOLET
+Perimeter = 972
+775. Triangle: (631; 673), (151; 744); (398; 718); Color = LIGHT_BLUE
+Perimeter = 970.892990587655
+776. Triangle: (173; 283), (557; 186); (643; 233); Color = RED
+Perimeter = 966.7190576864975
+777. Rectangle: (782; 206); (475; 31); Color = BLUE
+Perimeter = 964
+778. Circle: (517; 459); radius = 153; Color = LIGHT_BLUE
+Perimeter = 961.3273519984767
+779. Circle: (265; 45); radius = 153; Color = GREEN
+Perimeter = 961.3273519984767
+780. Rectangle: (945; 410); (480; 424); Color = LIGHT_BLUE
+Perimeter = 958
+781. Rectangle: (256; 773); (621; 659); Color = YELLOW
+Perimeter = 958
+782. Triangle: (594; 179), (681; 400); (879; 553); Color = LIGHT_BLUE
+Perimeter = 957.9475737135459
+783. Triangle: (301; 387), (515; 772); (236; 461); Color = VIOLET
+Perimeter = 956.7779790635554
+784. Rectangle: (671; 565); (638; 120); Color = LIGHT_BLUE
+Perimeter = 956
+785. Rectangle: (344; 825); (727; 919); Color = YELLOW
+Perimeter = 954
+786. Rectangle: (111; 527); (483; 426); Color = LIGHT_BLUE
+Perimeter = 946
+787. Triangle: (445; 581), (749; 593); (877; 456); Color = BLUE
+Perimeter = 941.4491076863154
+788. Triangle: (758; 358), (861; 71); (625; 469); Color = YELLOW
+Perimeter = 940.8662990006137
+789. Triangle: (553; 377), (339; 697); (592; 676); Color = VIOLET
+Perimeter = 940.3651324390578
+790. Rectangle: (355; 38); (550; 312); Color = GREEN
+Perimeter = 938
+791. Rectangle: (303; 70); (698; 141); Color = ORANGE
+Perimeter = 932
+792. Triangle: (726; 611), (532; 584); (966; 460); Color = RED
+Perimeter = 930.7873688196512
+793. Rectangle: (407; 974); (12; 905); Color = BLUE
+Perimeter = 928
+794. Rectangle: (674; 807); (600; 419); Color = ORANGE
+Perimeter = 924
+795. Circle: (877; 287); radius = 147; Color = GREEN
+Perimeter = 923.6282401553992
+796. Circle: (539; 330); radius = 146; Color = YELLOW
+Perimeter = 917.3450548482195
+797. Rectangle: (229; 461); (552; 596); Color = YELLOW
+Perimeter = 916
+798. Triangle: (702; 464), (847; 74); (888; 54); Color = ORANGE
+Perimeter = 911.9186284455793
+799. Rectangle: (158; 249); (312; 549); Color = VIOLET
+Perimeter = 908
+800. Rectangle: (22; 389); (331; 244); Color = BLUE
+Perimeter = 908
+801. Triangle: (118; 487), (306; 881); (254; 579); Color = YELLOW
+Perimeter = 907.1938211862621
+802. Triangle: (205; 448), (162; 101); (48; 480); Color = VIOLET
+Perimeter = 905.6560027746785
+803. Triangle: (421; 757), (186; 485); (527; 608); Color = YELLOW
+Perimeter = 904.8195749081294
+804. Rectangle: (973; 887); (940; 468); Color = LIGHT_BLUE
+Perimeter = 904
+805. Triangle: (27; 261), (127; 176); (190; 582); Color = GREEN
+Perimeter = 902.1167926482649
+806. Triangle: (275; 303), (340; 269); (666; 81); Color = GREEN
+Perimeter = 899.3072516533268
+807. Circle: (758; 223); radius = 143; Color = GREEN
+Perimeter = 898.4954989266809
+808. Rectangle: (707; 481); (473; 268); Color = GREEN
+Perimeter = 894
+809. Rectangle: (105; 783); (358; 976); Color = RED
+Perimeter = 892
+810. Rectangle: (811; 288); (495; 417); Color = LIGHT_BLUE
+Perimeter = 890
+811. Rectangle: (422; 434); (262; 149); Color = GREEN
+Perimeter = 890
+812. Rectangle: (666; 658); (383; 498); Color = RED
+Perimeter = 886
+813. Circle: (908; 290); radius = 141; Color = YELLOW
+Perimeter = 885.9291283123216
+814. Rectangle: (564; 305); (961; 349); Color = LIGHT_BLUE
+Perimeter = 882
+815. Triangle: (840; 550), (548; 438); (845; 310); Color = BLUE
+Perimeter = 876.2031939610437
+816. Rectangle: (580; 658); (152; 650); Color = RED
+Perimeter = 872
+817. Triangle: (143; 615), (121; 582); (528; 723); Color = LIGHT_BLUE
+Perimeter = 870.25422515598
+818. Rectangle: (322; 621); (265; 998); Color = RED
+Perimeter = 868
+819. Rectangle: (748; 822); (879; 520); Color = YELLOW
+Perimeter = 866
+820. Rectangle: (469; 504); (335; 209); Color = GREEN
+Perimeter = 858
+821. Rectangle: (287; 965); (118; 708); Color = VIOLET
+Perimeter = 852
+822. Circle: (924; 735); radius = 135; Color = GREEN
+Perimeter = 848.2300164692441
+823. Rectangle: (388; 485); (664; 632); Color = RED
+Perimeter = 846
+824. Rectangle: (626; 142); (940; 249); Color = GREEN
+Perimeter = 842
+825. Rectangle: (695; 307); (550; 583); Color = ORANGE
+Perimeter = 842
+826. Triangle: (679; 761), (523; 850); (928; 809); Color = ORANGE
+Perimeter = 840.2566625700704
+827. Rectangle: (588; 411); (597; 819); Color = ORANGE
+Perimeter = 834
+828. Rectangle: (235; 106); (516; 241); Color = YELLOW
+Perimeter = 832
+829. Rectangle: (213; 597); (425; 801); Color = RED
+Perimeter = 832
+830. Rectangle: (44; 447); (396; 510); Color = RED
+Perimeter = 830
+831. Triangle: (440; 647), (730; 893); (678; 693); Color = ORANGE
+Perimeter = 829.3381863894616
+832. Triangle: (357; 305), (80; 209); (479; 285); Color = ORANGE
+Perimeter = 822.9658606392704
+833. Rectangle: (476; 425); (642; 665); Color = RED
+Perimeter = 812
+834. Triangle: (177; 394), (526; 471); (365; 573); Color = ORANGE
+Perimeter = 807.5707354448994
+835. Triangle: (625; 715), (892; 515); (582; 569); Color = ORANGE
+Perimeter = 800.4686646681794
+836. Rectangle: (688; 914); (353; 979); Color = VIOLET
+Perimeter = 800
+837. Rectangle: (116; 568); (95; 946); Color = RED
+Perimeter = 798
+838. Rectangle: (412; 703); (500; 392); Color = LIGHT_BLUE
+Perimeter = 798
+839. Circle: (489; 449); radius = 127; Color = YELLOW
+Perimeter = 797.9645340118075
+840. Rectangle: (751; 375); (584; 605); Color = LIGHT_BLUE
+Perimeter = 794
+841. Rectangle: (664; 707); (814; 462); Color = VIOLET
+Perimeter = 790
+842. Rectangle: (105; 390); (216; 672); Color = BLUE
+Perimeter = 786
+843. Rectangle: (485; 503); (844; 472); Color = BLUE
+Perimeter = 780
+844. Circle: (218; 462); radius = 124; Color = GREEN
+Perimeter = 779.1149780902687
+845. Triangle: (700; 451), (547; 639); (867; 454); Color = YELLOW
+Perimeter = 779.0453168190227
+846. Triangle: (124; 708), (395; 446); (227; 690); Color = ORANGE
+Perimeter = 777.7457704142703
+847. Rectangle: (484; 190); (221; 70); Color = GREEN
+Perimeter = 766
+848. Rectangle: (364; 304); (132; 153); Color = GREEN
+Perimeter = 766
+849. Circle: (574; 155); radius = 121; Color = RED
+Perimeter = 760.26542216873
+850. Rectangle: (643; 550); (344; 629); Color = GREEN
+Perimeter = 756
+851. Triangle: (619; 599), (880; 715); (973; 652); Color = GREEN
+Perimeter = 755.8922741950902
+852. Rectangle: (585; 913); (251; 872); Color = LIGHT_BLUE
+Perimeter = 750
+853. Rectangle: (495; 373); (577; 664); Color = LIGHT_BLUE
+Perimeter = 746
+854. Rectangle: (180; 444); (118; 134); Color = RED
+Perimeter = 744
+855. Rectangle: (770; 226); (464; 290); Color = ORANGE
+Perimeter = 740
+856. Rectangle: (853; 32); (799; 344); Color = BLUE
+Perimeter = 732
+857. Rectangle: (110; 510); (428; 463); Color = RED
+Perimeter = 730
+858. Rectangle: (270; 364); (524; 475); Color = ORANGE
+Perimeter = 730
+859. Rectangle: (263; 277); (76; 100); Color = RED
+Perimeter = 728
+860. Rectangle: (42; 837); (383; 815); Color = ORANGE
+Perimeter = 726
+861. Rectangle: (685; 758); (562; 521); Color = RED
+Perimeter = 720
+862. Triangle: (633; 615), (675; 605); (596; 940); Color = VIOLET
+Perimeter = 714.4623411919382
+863. Rectangle: (198; 197); (441; 310); Color = RED
+Perimeter = 712
+864. Rectangle: (575; 393); (619; 81); Color = RED
+Perimeter = 712
+865. Triangle: (130; 563), (310; 815); (357; 681); Color = LIGHT_BLUE
+Perimeter = 707.5250699620623
+866. Rectangle: (445; 455); (606; 265); Color = YELLOW
+Perimeter = 702
+867. Rectangle: (210; 587); (503; 643); Color = RED
+Perimeter = 698
+868. Circle: (625; 602); radius = 111; Color = ORANGE
+Perimeter = 697.4335690969341
+869. Circle: (435; 785); radius = 111; Color = VIOLET
+Perimeter = 697.4335690969341
+870. Rectangle: (817; 446); (743; 717); Color = BLUE
+Perimeter = 690
+871. Circle: (934; 343); radius = 109; Color = ORANGE
+Perimeter = 684.8671984825748
+872. Triangle: (667; 604), (631; 574); (667; 273); Color = GREEN
+Perimeter = 681.0066777961048
+873. Rectangle: (336; 887); (642; 920); Color = BLUE
+Perimeter = 678
+874. Rectangle: (556; 377); (867; 405); Color = BLUE
+Perimeter = 678
+875. Triangle: (180; 377), (460; 406); (288; 524); Color = RED
+Perimeter = 672.4923749018105
+876. Circle: (899; 420); radius = 107; Color = YELLOW
+Perimeter = 672.3008278682157
+877. Circle: (807; 548); radius = 106; Color = RED
+Perimeter = 666.0176425610362
+878. Rectangle: (706; 774); (441; 706); Color = RED
+Perimeter = 666
+879. Rectangle: (999; 657); (948; 378); Color = VIOLET
+Perimeter = 660
+880. Circle: (780; 99); radius = 105; Color = RED
+Perimeter = 659.7344572538566
+881. Circle: (455; 797); radius = 105; Color = VIOLET
+Perimeter = 659.7344572538566
+882. Rectangle: (985; 671); (987; 997); Color = VIOLET
+Perimeter = 656
+883. Rectangle: (276; 231); (452; 382); Color = VIOLET
+Perimeter = 654
+884. Triangle: (29; 102), (175; 42); (345; 57); Color = LIGHT_BLUE
+Perimeter = 647.6965421948697
+885. Circle: (980; 538); radius = 103; Color = VIOLET
+Perimeter = 647.1680866394973
+886. Rectangle: (586; 495); (520; 239); Color = LIGHT_BLUE
+Perimeter = 644
+887. Circle: (626; 761); radius = 102; Color = BLUE
+Perimeter = 640.8849013323178
+888. Circle: (55; 148); radius = 100; Color = GREEN
+Perimeter = 628.3185307179587
+889. Circle: (755; 786); radius = 99; Color = BLUE
+Perimeter = 622.0353454107791
+890. Triangle: (788; 534), (963; 291); (937; 424); Color = BLUE
+Perimeter = 620.1789917978779
+891. Rectangle: (469; 745); (584; 940); Color = VIOLET
+Perimeter = 620
+892. Rectangle: (562; 576); (534; 849); Color = VIOLET
+Perimeter = 602
+893. Rectangle: (916; 744); (868; 996); Color = LIGHT_BLUE
+Perimeter = 600
+894. Triangle: (542; 549), (380; 683); (524; 768); Color = YELLOW
+Perimeter = 597.1918712530877
+895. Rectangle: (550; 552); (610; 789); Color = GREEN
+Perimeter = 594
+896. Rectangle: (756; 288); (622; 128); Color = VIOLET
+Perimeter = 588
+897. Rectangle: (438; 778); (626; 881); Color = ORANGE
+Perimeter = 582
+898. Rectangle: (671; 715); (917; 760); Color = ORANGE
+Perimeter = 582
+899. Rectangle: (246; 616); (143; 801); Color = ORANGE
+Perimeter = 576
+900. Circle: (20; 266); radius = 91; Color = GREEN
+Perimeter = 571.7698629533423
+901. Rectangle: (107; 126); (317; 198); Color = LIGHT_BLUE
+Perimeter = 564
+902. Circle: (800; 134); radius = 88; Color = ORANGE
+Perimeter = 552.9203070318035
+903. Circle: (873; 497); radius = 88; Color = GREEN
+Perimeter = 552.9203070318035
+904. Circle: (388; 289); radius = 87; Color = BLUE
+Perimeter = 546.637121724624
+905. Rectangle: (904; 340); (750; 223); Color = VIOLET
+Perimeter = 542
+906. Triangle: (389; 474), (390; 362); (197; 496); Color = GREEN
+Perimeter = 540.218213646616
+907. Rectangle: (621; 494); (542; 682); Color = YELLOW
+Perimeter = 534
+908. Rectangle: (426; 147); (417; 404); Color = RED
+Perimeter = 532
+909. Circle: (966; 450); radius = 84; Color = BLUE
+Perimeter = 527.7875658030853
+910. Rectangle: (76; 971); (237; 871); Color = VIOLET
+Perimeter = 522
+911. Rectangle: (113; 780); (304; 710); Color = ORANGE
+Perimeter = 522
+912. Circle: (544; 495); radius = 83; Color = ORANGE
+Perimeter = 521.5043804959057
+913. Circle: (715; 547); radius = 82; Color = BLUE
+Perimeter = 515.221195188726
+914. Rectangle: (912; 586); (954; 800); Color = VIOLET
+Perimeter = 512
+915. Rectangle: (13; 471); (12; 217); Color = YELLOW
+Perimeter = 510
+916. Rectangle: (12; 49); (76; 237); Color = RED
+Perimeter = 504
+917. Triangle: (646; 607), (809; 572); (569; 642); Color = RED
+Perimeter = 501.296648045236
+918. Rectangle: (908; 812); (946; 601); Color = RED
+Perimeter = 498
+919. Circle: (532; 738); radius = 79; Color = VIOLET
+Perimeter = 496.37163926718733
+920. Rectangle: (450; 931); (651; 973); Color = VIOLET
+Perimeter = 486
+921. Circle: (80; 44); radius = 77; Color = RED
+Perimeter = 483.80526865282815
+922. Rectangle: (88; 837); (30; 655); Color = BLUE
+Perimeter = 480
+923. Rectangle: (194; 427); (219; 638); Color = VIOLET
+Perimeter = 472
+924. Rectangle: (818; 618); (994; 560); Color = BLUE
+Perimeter = 468
+925. Rectangle: (451; 766); (282; 703); Color = LIGHT_BLUE
+Perimeter = 464
+926. Rectangle: (281; 878); (494; 895); Color = GREEN
+Perimeter = 460
+927. Circle: (709; 101); radius = 73; Color = VIOLET
+Perimeter = 458.6725274241098
+928. Rectangle: (271; 584); (280; 792); Color = RED
+Perimeter = 434
+929. Circle: (512; 688); radius = 69; Color = ORANGE
+Perimeter = 433.53978619539146
+930. Circle: (854; 814); radius = 69; Color = VIOLET
+Perimeter = 433.53978619539146
+931. Rectangle: (506; 265); (623; 362); Color = GREEN
+Perimeter = 428
+932. Circle: (288; 401); radius = 68; Color = LIGHT_BLUE
+Perimeter = 427.2566008882119
+933. Circle: (781; 645); radius = 67; Color = LIGHT_BLUE
+Perimeter = 420.97341558103227
+934. Rectangle: (582; 435); (477; 332); Color = RED
+Perimeter = 416
+935. Circle: (505; 415); radius = 66; Color = LIGHT_BLUE
+Perimeter = 414.6902302738527
+936. Circle: (335; 497); radius = 66; Color = VIOLET
+Perimeter = 414.6902302738527
+937. Rectangle: (819; 341); (704; 427); Color = VIOLET
+Perimeter = 402
+938. Rectangle: (743; 416); (556; 403); Color = ORANGE
+Perimeter = 400
+939. Triangle: (272; 477), (225; 353); (160; 488); Color = BLUE
+Perimeter = 394.9805689939001
+940. Rectangle: (150; 863); (58; 968); Color = YELLOW
+Perimeter = 394
+941. Rectangle: (740; 131); (658; 243); Color = VIOLET
+Perimeter = 388
+942. Rectangle: (646; 184); (553; 86); Color = LIGHT_BLUE
+Perimeter = 382
+943. Rectangle: (571; 789); (670; 879); Color = YELLOW
+Perimeter = 378
+944. Rectangle: (414; 792); (337; 904); Color = BLUE
+Perimeter = 378
+945. Rectangle: (789; 321); (946; 290); Color = BLUE
+Perimeter = 376
+946. Rectangle: (802; 704); (952; 741); Color = GREEN
+Perimeter = 374
+947. Rectangle: (647; 649); (752; 568); Color = LIGHT_BLUE
+Perimeter = 372
+948. Triangle: (329; 787), (395; 738); (234; 824); Color = BLUE
+Perimeter = 366.68139151638695
+949. Circle: (581; 733); radius = 58; Color = GREEN
+Perimeter = 364.424747816416
+950. Circle: (450; 186); radius = 58; Color = GREEN
+Perimeter = 364.424747816416
+951. Rectangle: (127; 326); (192; 443); Color = BLUE
+Perimeter = 364
+952. Rectangle: (8; 90); (33; 244); Color = GREEN
+Perimeter = 358
+953. Rectangle: (565; 677); (461; 602); Color = BLUE
+Perimeter = 358
+954. Rectangle: (135; 808); (3; 852); Color = RED
+Perimeter = 352
+955. Circle: (674; 785); radius = 55; Color = BLUE
+Perimeter = 345.57519189487726
+956. Rectangle: (232; 157); (73; 168); Color = VIOLET
+Perimeter = 340
+957. Rectangle: (290; 858); (168; 814); Color = BLUE
+Perimeter = 332
+958. Triangle: (902; 626), (746; 625); (870; 604); Color = YELLOW
+Perimeter = 320.6018358623131
+959. Circle: (217; 739); radius = 51; Color = ORANGE
+Perimeter = 320.4424506661589
+960. Circle: (701; 123); radius = 50; Color = YELLOW
+Perimeter = 314.1592653589793
+961. Rectangle: (426; 377); (486; 472); Color = ORANGE
+Perimeter = 310
+962. Circle: (201; 952); radius = 48; Color = YELLOW
+Perimeter = 301.59289474462014
+963. Rectangle: (467; 893); (608; 886); Color = VIOLET
+Perimeter = 296
+964. Rectangle: (882; 109); (758; 90); Color = YELLOW
+Perimeter = 286
+965. Circle: (407; 187); radius = 45; Color = VIOLET
+Perimeter = 282.7433388230814
+966. Rectangle: (371; 520); (484; 546); Color = RED
+Perimeter = 278
+967. Rectangle: (601; 581); (524; 522); Color = BLUE
+Perimeter = 272
+968. Circle: (958; 192); radius = 43; Color = RED
+Perimeter = 270.1769682087222
+969. Rectangle: (460; 165); (402; 91); Color = GREEN
+Perimeter = 264
+970. Rectangle: (207; 801); (211; 927); Color = LIGHT_BLUE
+Perimeter = 260
+971. Rectangle: (919; 485); (970; 563); Color = LIGHT_BLUE
+Perimeter = 258
+972. Rectangle: (16; 529); (131; 543); Color = LIGHT_BLUE
+Perimeter = 258
+973. Rectangle: (132; 637); (137; 759); Color = RED
+Perimeter = 254
+974. Rectangle: (214; 966); (101; 979); Color = RED
+Perimeter = 252
+975. Rectangle: (12; 608); (87; 557); Color = ORANGE
+Perimeter = 252
+976. Rectangle: (917; 380); (847; 435); Color = BLUE
+Perimeter = 250
+977. Rectangle: (332; 556); (361; 638); Color = GREEN
+Perimeter = 222
+978. Circle: (159; 824); radius = 35; Color = LIGHT_BLUE
+Perimeter = 219.9114857512855
+979. Circle: (385; 907); radius = 35; Color = GREEN
+Perimeter = 219.9114857512855
+980. Rectangle: (209; 489); (238; 565); Color = BLUE
+Perimeter = 210
+981. Rectangle: (599; 850); (633; 920); Color = ORANGE
+Perimeter = 208
+982. Rectangle: (619; 349); (543; 323); Color = LIGHT_BLUE
+Perimeter = 204
+983. Rectangle: (395; 128); (491; 124); Color = BLUE
+Perimeter = 200
+984. Rectangle: (467; 859); (516; 904); Color = YELLOW
+Perimeter = 188
+985. Rectangle: (415; 604); (443; 558); Color = LIGHT_BLUE
+Perimeter = 148
+986. Rectangle: (409; 667); (354; 682); Color = GREEN
+Perimeter = 140
+987. Rectangle: (609; 723); (647; 695); Color = YELLOW
+Perimeter = 132
+988. Rectangle: (999; 865); (946; 875); Color = VIOLET
+Perimeter = 126
+989. Circle: (423; 835); radius = 18; Color = ORANGE
+Perimeter = 113.09733552923255
+990. Rectangle: (414; 427); (377; 442); Color = ORANGE
+Perimeter = 104
+991. Rectangle: (556; 414); (585; 435); Color = GREEN
+Perimeter = 100
+992. Circle: (249; 591); radius = 13; Color = LIGHT_BLUE
+Perimeter = 81.68140899333463
+993. Circle: (851; 251); radius = 12; Color = VIOLET
+Perimeter = 75.39822368615503
+994. Rectangle: (49; 77); (39; 52); Color = LIGHT_BLUE
+Perimeter = 70
+995. Rectangle: (75; 723); (53; 710); Color = YELLOW
+Perimeter = 70
+996. Circle: (153; 136); radius = 8; Color = GREEN
+Perimeter = 50.26548245743669
+997. Circle: (17; 66); radius = 7; Color = VIOLET
+Perimeter = 43.982297150257104
+998. Circle: (143; 466); radius = 6; Color = VIOLET
+Perimeter = 37.69911184307752
+999. Circle: (621; 78); radius = 1; Color = GREEN
+Perimeter = 6.283185307179586
