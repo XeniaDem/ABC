@@ -1,0 +1,5 @@
+Total number of shapes is 3 
+Shapes are:
+0: Rectangle, x_up_left = 12, y_up_left = 195, x_down_right = 142, y_down_right = 44, perimeter = 562, color = LIGHT_BLUE
+1: Circle, x = 4, y = 84, radius = 78, perimeter = 489.84, color = YELLOW
+2: Triangle, x1 = 79, y1 = 168, x2 = 14, y2 = 18, x3 = 139, y3 = 174, perimeter = 423.68, color = GREEN

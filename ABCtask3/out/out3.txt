@@ -1,0 +1,1002 @@
+Total number of shapes is 1000 
+Shapes are:
+0: Circle, x = 105, y = 198, radius = 200, perimeter = 1256, color = GREEN
+1: Circle, x = 33, y = 60, radius = 199, perimeter = 1249.72, color = GREEN
+2: Circle, x = 93, y = 43, radius = 199, perimeter = 1249.72, color = ORANGE
+3: Circle, x = 165, y = 90, radius = 199, perimeter = 1249.72, color = YELLOW
+4: Circle, x = 111, y = 94, radius = 199, perimeter = 1249.72, color = BLUE
+5: Circle, x = 118, y = 157, radius = 198, perimeter = 1243.44, color = LIGHT_BLUE
+6: Circle, x = 173, y = 49, radius = 197, perimeter = 1237.16, color = YELLOW
+7: Circle, x = 71, y = 21, radius = 196, perimeter = 1230.88, color = RED
+8: Circle, x = 167, y = 168, radius = 196, perimeter = 1230.88, color = LIGHT_BLUE
+9: Circle, x = 87, y = 20, radius = 196, perimeter = 1230.88, color = GREEN
+10: Circle, x = 147, y = 104, radius = 196, perimeter = 1230.88, color = GREEN
+11: Circle, x = 38, y = 167, radius = 195, perimeter = 1224.6, color = ORANGE
+12: Circle, x = 31, y = 15, radius = 195, perimeter = 1224.6, color = RED
+13: Circle, x = 24, y = 158, radius = 194, perimeter = 1218.32, color = YELLOW
+14: Circle, x = 144, y = 46, radius = 193, perimeter = 1212.04, color = LIGHT_BLUE
+15: Circle, x = 9, y = 52, radius = 193, perimeter = 1212.04, color = RED
+16: Circle, x = 9, y = 49, radius = 192, perimeter = 1205.76, color = GREEN
+17: Circle, x = 38, y = 16, radius = 191, perimeter = 1199.48, color = VIOLET
+18: Circle, x = 182, y = 196, radius = 189, perimeter = 1186.92, color = ORANGE
+19: Circle, x = 104, y = 122, radius = 188, perimeter = 1180.64, color = RED
+20: Circle, x = 8, y = 28, radius = 187, perimeter = 1174.36, color = LIGHT_BLUE
+21: Circle, x = 158, y = 188, radius = 187, perimeter = 1174.36, color = GREEN
+22: Circle, x = 189, y = 7, radius = 187, perimeter = 1174.36, color = BLUE
+23: Circle, x = 175, y = 109, radius = 185, perimeter = 1161.8, color = RED
+24: Circle, x = 172, y = 5, radius = 185, perimeter = 1161.8, color = BLUE
+25: Circle, x = 119, y = 127, radius = 185, perimeter = 1161.8, color = ORANGE
+26: Circle, x = 49, y = 74, radius = 184, perimeter = 1155.52, color = BLUE
+27: Circle, x = 190, y = 28, radius = 183, perimeter = 1149.24, color = BLUE
+28: Circle, x = 137, y = 56, radius = 181, perimeter = 1136.68, color = YELLOW
+29: Circle, x = 135, y = 168, radius = 181, perimeter = 1136.68, color = GREEN
+30: Circle, x = 126, y = 66, radius = 181, perimeter = 1136.68, color = LIGHT_BLUE
+31: Circle, x = 40, y = 73, radius = 180, perimeter = 1130.4, color = YELLOW
+32: Circle, x = 131, y = 123, radius = 179, perimeter = 1124.12, color = LIGHT_BLUE
+33: Circle, x = 199, y = 12, radius = 178, perimeter = 1117.84, color = ORANGE
+34: Circle, x = 49, y = 153, radius = 178, perimeter = 1117.84, color = YELLOW
+35: Circle, x = 188, y = 87, radius = 178, perimeter = 1117.84, color = GREEN
+36: Circle, x = 102, y = 170, radius = 177, perimeter = 1111.56, color = RED
+37: Circle, x = 128, y = 108, radius = 175, perimeter = 1099, color = GREEN
+38: Circle, x = 187, y = 137, radius = 174, perimeter = 1092.72, color = GREEN
+39: Circle, x = 67, y = 98, radius = 173, perimeter = 1086.44, color = YELLOW
+40: Circle, x = 170, y = 96, radius = 172, perimeter = 1080.16, color = RED
+41: Circle, x = 199, y = 116, radius = 172, perimeter = 1080.16, color = YELLOW
+42: Circle, x = 64, y = 159, radius = 172, perimeter = 1080.16, color = RED
+43: Circle, x = 47, y = 3, radius = 171, perimeter = 1073.88, color = ORANGE
+44: Circle, x = 106, y = 194, radius = 169, perimeter = 1061.32, color = BLUE
+45: Circle, x = 169, y = 29, radius = 168, perimeter = 1055.04, color = BLUE
+46: Circle, x = 80, y = 163, radius = 167, perimeter = 1048.76, color = GREEN
+47: Circle, x = 198, y = 62, radius = 167, perimeter = 1048.76, color = ORANGE
+48: Circle, x = 31, y = 49, radius = 165, perimeter = 1036.2, color = ORANGE
+49: Circle, x = 166, y = 170, radius = 165, perimeter = 1036.2, color = RED
+50: Circle, x = 39, y = 102, radius = 164, perimeter = 1029.92, color = YELLOW
+51: Circle, x = 47, y = 109, radius = 164, perimeter = 1029.92, color = LIGHT_BLUE
+52: Circle, x = 50, y = 50, radius = 164, perimeter = 1029.92, color = ORANGE
+53: Circle, x = 185, y = 100, radius = 164, perimeter = 1029.92, color = YELLOW
+54: Circle, x = 134, y = 139, radius = 163, perimeter = 1023.64, color = VIOLET
+55: Circle, x = 151, y = 81, radius = 162, perimeter = 1017.36, color = RED
+56: Circle, x = 187, y = 41, radius = 160, perimeter = 1004.8, color = VIOLET
+57: Circle, x = 24, y = 97, radius = 159, perimeter = 998.52, color = GREEN
+58: Circle, x = 109, y = 96, radius = 158, perimeter = 992.24, color = RED
+59: Circle, x = 172, y = 140, radius = 157, perimeter = 985.96, color = YELLOW
+60: Circle, x = 46, y = 189, radius = 157, perimeter = 985.96, color = LIGHT_BLUE
+61: Circle, x = 39, y = 161, radius = 157, perimeter = 985.96, color = YELLOW
+62: Circle, x = 153, y = 191, radius = 156, perimeter = 979.68, color = LIGHT_BLUE
+63: Circle, x = 192, y = 191, radius = 155, perimeter = 973.4, color = YELLOW
+64: Circle, x = 77, y = 153, radius = 153, perimeter = 960.84, color = VIOLET
+65: Circle, x = 186, y = 169, radius = 153, perimeter = 960.84, color = BLUE
+66: Circle, x = 23, y = 24, radius = 152, perimeter = 954.56, color = ORANGE
+67: Circle, x = 193, y = 160, radius = 152, perimeter = 954.56, color = ORANGE
+68: Circle, x = 98, y = 94, radius = 152, perimeter = 954.56, color = GREEN
+69: Circle, x = 145, y = 103, radius = 151, perimeter = 948.28, color = ORANGE
+70: Circle, x = 23, y = 64, radius = 151, perimeter = 948.28, color = VIOLET
+71: Circle, x = 7, y = 9, radius = 150, perimeter = 942, color = VIOLET
+72: Circle, x = 64, y = 46, radius = 149, perimeter = 935.72, color = YELLOW
+73: Circle, x = 74, y = 65, radius = 146, perimeter = 916.88, color = VIOLET
+74: Circle, x = 167, y = 84, radius = 146, perimeter = 916.88, color = BLUE
+75: Circle, x = 126, y = 47, radius = 146, perimeter = 916.88, color = BLUE
+76: Circle, x = 34, y = 28, radius = 146, perimeter = 916.88, color = RED
+77: Circle, x = 61, y = 185, radius = 145, perimeter = 910.6, color = VIOLET
+78: Circle, x = 114, y = 108, radius = 144, perimeter = 904.32, color = LIGHT_BLUE
+79: Circle, x = 63, y = 77, radius = 144, perimeter = 904.32, color = LIGHT_BLUE
+80: Circle, x = 70, y = 157, radius = 144, perimeter = 904.32, color = RED
+81: Circle, x = 132, y = 98, radius = 143, perimeter = 898.04, color = YELLOW
+82: Circle, x = 64, y = 127, radius = 143, perimeter = 898.04, color = VIOLET
+83: Circle, x = 40, y = 36, radius = 142, perimeter = 891.76, color = YELLOW
+84: Circle, x = 136, y = 70, radius = 142, perimeter = 891.76, color = GREEN
+85: Circle, x = 11, y = 40, radius = 141, perimeter = 885.48, color = ORANGE
+86: Circle, x = 66, y = 71, radius = 141, perimeter = 885.48, color = YELLOW
+87: Circle, x = 126, y = 29, radius = 140, perimeter = 879.2, color = BLUE
+88: Circle, x = 130, y = 171, radius = 140, perimeter = 879.2, color = GREEN
+89: Circle, x = 86, y = 72, radius = 139, perimeter = 872.92, color = RED
+90: Circle, x = 141, y = 153, radius = 138, perimeter = 866.64, color = VIOLET
+91: Circle, x = 77, y = 74, radius = 138, perimeter = 866.64, color = YELLOW
+92: Circle, x = 101, y = 156, radius = 136, perimeter = 854.08, color = ORANGE
+93: Circle, x = 170, y = 192, radius = 134, perimeter = 841.52, color = LIGHT_BLUE
+94: Circle, x = 137, y = 104, radius = 134, perimeter = 841.52, color = RED
+95: Circle, x = 193, y = 168, radius = 133, perimeter = 835.24, color = RED
+96: Circle, x = 173, y = 127, radius = 133, perimeter = 835.24, color = RED
+97: Circle, x = 185, y = 113, radius = 133, perimeter = 835.24, color = BLUE
+98: Circle, x = 108, y = 6, radius = 132, perimeter = 828.96, color = ORANGE
+99: Circle, x = 56, y = 158, radius = 132, perimeter = 828.96, color = RED
+100: Circle, x = 142, y = 110, radius = 131, perimeter = 822.68, color = YELLOW
+101: Circle, x = 155, y = 150, radius = 131, perimeter = 822.68, color = GREEN
+102: Circle, x = 96, y = 110, radius = 129, perimeter = 810.12, color = LIGHT_BLUE
+103: Circle, x = 69, y = 101, radius = 128, perimeter = 803.84, color = GREEN
+104: Circle, x = 59, y = 171, radius = 128, perimeter = 803.84, color = LIGHT_BLUE
+105: Circle, x = 77, y = 34, radius = 128, perimeter = 803.84, color = VIOLET
+106: Circle, x = 141, y = 183, radius = 128, perimeter = 803.84, color = LIGHT_BLUE
+107: Circle, x = 157, y = 193, radius = 128, perimeter = 803.84, color = RED
+108: Circle, x = 42, y = 113, radius = 127, perimeter = 797.56, color = LIGHT_BLUE
+109: Circle, x = 56, y = 93, radius = 124, perimeter = 778.72, color = ORANGE
+110: Circle, x = 195, y = 27, radius = 123, perimeter = 772.44, color = YELLOW
+111: Circle, x = 138, y = 87, radius = 122, perimeter = 766.16, color = BLUE
+112: Circle, x = 59, y = 50, radius = 122, perimeter = 766.16, color = ORANGE
+113: Circle, x = 156, y = 90, radius = 121, perimeter = 759.88, color = ORANGE
+114: Circle, x = 40, y = 10, radius = 121, perimeter = 759.88, color = RED
+115: Circle, x = 121, y = 97, radius = 121, perimeter = 759.88, color = RED
+116: Circle, x = 117, y = 7, radius = 120, perimeter = 753.6, color = ORANGE
+117: Circle, x = 197, y = 37, radius = 119, perimeter = 747.32, color = BLUE
+118: Circle, x = 132, y = 197, radius = 119, perimeter = 747.32, color = GREEN
+119: Circle, x = 142, y = 76, radius = 119, perimeter = 747.32, color = LIGHT_BLUE
+120: Circle, x = 24, y = 32, radius = 119, perimeter = 747.32, color = ORANGE
+121: Circle, x = 128, y = 69, radius = 118, perimeter = 741.04, color = LIGHT_BLUE
+122: Circle, x = 50, y = 152, radius = 116, perimeter = 728.48, color = VIOLET
+123: Circle, x = 168, y = 99, radius = 114, perimeter = 715.92, color = RED
+124: Circle, x = 125, y = 38, radius = 113, perimeter = 709.64, color = YELLOW
+125: Circle, x = 32, y = 149, radius = 112, perimeter = 703.36, color = VIOLET
+126: Circle, x = 117, y = 105, radius = 110, perimeter = 690.8, color = VIOLET
+127: Circle, x = 129, y = 72, radius = 109, perimeter = 684.52, color = GREEN
+128: Circle, x = 81, y = 142, radius = 109, perimeter = 684.52, color = ORANGE
+129: Circle, x = 108, y = 188, radius = 109, perimeter = 684.52, color = RED
+130: Circle, x = 109, y = 2, radius = 109, perimeter = 684.52, color = YELLOW
+131: Circle, x = 163, y = 101, radius = 107, perimeter = 671.96, color = VIOLET
+132: Circle, x = 142, y = 123, radius = 106, perimeter = 665.68, color = GREEN
+133: Circle, x = 149, y = 17, radius = 106, perimeter = 665.68, color = RED
+134: Circle, x = 163, y = 80, radius = 105, perimeter = 659.4, color = VIOLET
+135: Circle, x = 189, y = 56, radius = 104, perimeter = 653.12, color = LIGHT_BLUE
+136: Circle, x = 77, y = 168, radius = 104, perimeter = 653.12, color = GREEN
+137: Circle, x = 2, y = 105, radius = 103, perimeter = 646.84, color = BLUE
+138: Circle, x = 139, y = 15, radius = 102, perimeter = 640.56, color = YELLOW
+139: Circle, x = 43, y = 186, radius = 102, perimeter = 640.56, color = RED
+140: Rectangle, x_up_left = 30, y_up_left = 155, x_down_right = 200, y_down_right = 7, perimeter = 636, color = BLUE
+141: Circle, x = 180, y = 33, radius = 101, perimeter = 634.28, color = ORANGE
+142: Circle, x = 95, y = 27, radius = 101, perimeter = 634.28, color = GREEN
+143: Circle, x = 199, y = 146, radius = 101, perimeter = 634.28, color = RED
+144: Circle, x = 171, y = 171, radius = 101, perimeter = 634.28, color = YELLOW
+145: Circle, x = 117, y = 29, radius = 99, perimeter = 621.72, color = YELLOW
+146: Circle, x = 13, y = 57, radius = 99, perimeter = 621.72, color = VIOLET
+147: Rectangle, x_up_left = 25, y_up_left = 197, x_down_right = 145, y_down_right = 9, perimeter = 616, color = RED
+148: Rectangle, x_up_left = 17, y_up_left = 164, x_down_right = 175, y_down_right = 14, perimeter = 616, color = RED
+149: Circle, x = 164, y = 101, radius = 98, perimeter = 615.44, color = YELLOW
+150: Rectangle, x_up_left = 48, y_up_left = 195, x_down_right = 197, y_down_right = 37, perimeter = 614, color = BLUE
+151: Rectangle, x_up_left = 38, y_up_left = 164, x_down_right = 184, y_down_right = 5, perimeter = 610, color = LIGHT_BLUE
+152: Rectangle, x_up_left = 42, y_up_left = 185, x_down_right = 190, y_down_right = 28, perimeter = 610, color = ORANGE
+153: Circle, x = 71, y = 16, radius = 97, perimeter = 609.16, color = VIOLET
+154: Circle, x = 81, y = 70, radius = 97, perimeter = 609.16, color = RED
+155: Circle, x = 176, y = 101, radius = 96, perimeter = 602.88, color = ORANGE
+156: Circle, x = 65, y = 54, radius = 96, perimeter = 602.88, color = BLUE
+157: Rectangle, x_up_left = 3, y_up_left = 183, x_down_right = 175, y_down_right = 56, perimeter = 598, color = ORANGE
+158: Circle, x = 74, y = 200, radius = 95, perimeter = 596.6, color = RED
+159: Circle, x = 23, y = 194, radius = 94, perimeter = 590.32, color = LIGHT_BLUE
+160: Circle, x = 88, y = 67, radius = 94, perimeter = 590.32, color = GREEN
+161: Circle, x = 83, y = 85, radius = 94, perimeter = 590.32, color = GREEN
+162: Rectangle, x_up_left = 3, y_up_left = 155, x_down_right = 147, y_down_right = 4, perimeter = 590, color = VIOLET
+163: Circle, x = 106, y = 39, radius = 93, perimeter = 584.04, color = LIGHT_BLUE
+164: Circle, x = 200, y = 189, radius = 93, perimeter = 584.04, color = GREEN
+165: Rectangle, x_up_left = 42, y_up_left = 155, x_down_right = 184, y_down_right = 6, perimeter = 582, color = VIOLET
+166: Circle, x = 22, y = 131, radius = 91, perimeter = 571.48, color = VIOLET
+167: Circle, x = 148, y = 116, radius = 91, perimeter = 571.48, color = LIGHT_BLUE
+168: Circle, x = 51, y = 95, radius = 91, perimeter = 571.48, color = RED
+169: Circle, x = 115, y = 24, radius = 90, perimeter = 565.2, color = VIOLET
+170: Circle, x = 152, y = 28, radius = 90, perimeter = 565.2, color = YELLOW
+171: Circle, x = 32, y = 31, radius = 90, perimeter = 565.2, color = RED
+172: Circle, x = 162, y = 102, radius = 90, perimeter = 565.2, color = VIOLET
+173: Circle, x = 90, y = 61, radius = 90, perimeter = 565.2, color = LIGHT_BLUE
+174: Circle, x = 46, y = 20, radius = 90, perimeter = 565.2, color = YELLOW
+175: Rectangle, x_up_left = 51, y_up_left = 182, x_down_right = 151, y_down_right = 1, perimeter = 562, color = YELLOW
+176: Rectangle, x_up_left = 34, y_up_left = 186, x_down_right = 139, y_down_right = 11, perimeter = 560, color = LIGHT_BLUE
+177: Circle, x = 180, y = 146, radius = 89, perimeter = 558.92, color = YELLOW
+178: Rectangle, x_up_left = 49, y_up_left = 172, x_down_right = 197, y_down_right = 43, perimeter = 554, color = GREEN
+179: Circle, x = 140, y = 53, radius = 88, perimeter = 552.64, color = RED
+180: Rectangle, x_up_left = 54, y_up_left = 191, x_down_right = 152, y_down_right = 13, perimeter = 552, color = LIGHT_BLUE
+181: Rectangle, x_up_left = 51, y_up_left = 174, x_down_right = 159, y_down_right = 7, perimeter = 550, color = RED
+182: Rectangle, x_up_left = 28, y_up_left = 184, x_down_right = 193, y_down_right = 75, perimeter = 548, color = VIOLET
+183: Circle, x = 42, y = 118, radius = 87, perimeter = 546.36, color = VIOLET
+184: Rectangle, x_up_left = 29, y_up_left = 160, x_down_right = 169, y_down_right = 28, perimeter = 544, color = BLUE
+185: Triangle, x1 = 172, y1 = 12, x2 = 154, y2 = 179, x3 = 4, y3 = 43, perimeter = 541.278, color = LIGHT_BLUE
+186: Circle, x = 120, y = 109, radius = 86, perimeter = 540.08, color = GREEN
+187: Circle, x = 35, y = 112, radius = 86, perimeter = 540.08, color = RED
+188: Rectangle, x_up_left = 48, y_up_left = 199, x_down_right = 197, y_down_right = 78, perimeter = 540, color = GREEN
+189: Rectangle, x_up_left = 9, y_up_left = 98, x_down_right = 195, y_down_right = 17, perimeter = 534, color = YELLOW
+190: Rectangle, x_up_left = 53, y_up_left = 187, x_down_right = 141, y_down_right = 8, perimeter = 534, color = ORANGE
+191: Circle, x = 64, y = 129, radius = 84, perimeter = 527.52, color = LIGHT_BLUE
+192: Circle, x = 61, y = 65, radius = 84, perimeter = 527.52, color = RED
+193: Circle, x = 145, y = 90, radius = 84, perimeter = 527.52, color = GREEN
+194: Circle, x = 58, y = 101, radius = 84, perimeter = 527.52, color = GREEN
+195: Triangle, x1 = 188, y1 = 13, x2 = 192, y2 = 174, x3 = 36, y3 = 35, perimeter = 523.576, color = GREEN
+196: Circle, x = 4, y = 134, radius = 83, perimeter = 521.24, color = BLUE
+197: Circle, x = 9, y = 142, radius = 83, perimeter = 521.24, color = GREEN
+198: Triangle, x1 = 191, y1 = 10, x2 = 21, y2 = 37, x3 = 65, y3 = 173, perimeter = 521.093, color = LIGHT_BLUE
+199: Rectangle, x_up_left = 11, y_up_left = 177, x_down_right = 154, y_down_right = 61, perimeter = 518, color = RED
+200: Triangle, x1 = 192, y1 = 167, x2 = 36, y2 = 125, x3 = 194, y3 = 8, perimeter = 517.171, color = ORANGE
+201: Triangle, x1 = 35, y1 = 200, x2 = 173, y2 = 12, x3 = 63, y3 = 32, perimeter = 515.333, color = RED
+202: Circle, x = 131, y = 47, radius = 82, perimeter = 514.96, color = BLUE
+203: Circle, x = 1, y = 146, radius = 82, perimeter = 514.96, color = VIOLET
+204: Rectangle, x_up_left = 96, y_up_left = 173, x_down_right = 196, y_down_right = 17, perimeter = 512, color = RED
+205: Rectangle, x_up_left = 2, y_up_left = 188, x_down_right = 186, y_down_right = 117, perimeter = 510, color = ORANGE
+206: Circle, x = 116, y = 46, radius = 81, perimeter = 508.68, color = VIOLET
+207: Circle, x = 88, y = 200, radius = 81, perimeter = 508.68, color = YELLOW
+208: Rectangle, x_up_left = 73, y_up_left = 200, x_down_right = 171, y_down_right = 44, perimeter = 508, color = ORANGE
+209: Triangle, x1 = 70, y1 = 174, x2 = 41, y2 = 23, x3 = 197, y3 = 24, perimeter = 506.305, color = BLUE
+210: Rectangle, x_up_left = 66, y_up_left = 130, x_down_right = 191, y_down_right = 3, perimeter = 504, color = GREEN
+211: Circle, x = 130, y = 20, radius = 80, perimeter = 502.4, color = VIOLET
+212: Circle, x = 132, y = 56, radius = 80, perimeter = 502.4, color = LIGHT_BLUE
+213: Circle, x = 4, y = 36, radius = 80, perimeter = 502.4, color = BLUE
+214: Rectangle, x_up_left = 1, y_up_left = 179, x_down_right = 105, y_down_right = 32, perimeter = 502, color = VIOLET
+215: Rectangle, x_up_left = 52, y_up_left = 197, x_down_right = 114, y_down_right = 9, perimeter = 500, color = ORANGE
+216: Triangle, x1 = 16, y1 = 142, x2 = 194, y2 = 145, x3 = 138, y3 = 13, perimeter = 498.966, color = LIGHT_BLUE
+217: Rectangle, x_up_left = 16, y_up_left = 76, x_down_right = 191, y_down_right = 2, perimeter = 498, color = LIGHT_BLUE
+218: Triangle, x1 = 29, y1 = 109, x2 = 197, y2 = 26, x3 = 168, y3 = 178, perimeter = 497.31, color = RED
+219: Triangle, x1 = 165, y1 = 17, x2 = 26, y2 = 199, x3 = 116, y3 = 187, perimeter = 496.726, color = GREEN
+220: Circle, x = 131, y = 90, radius = 79, perimeter = 496.12, color = VIOLET
+221: Circle, x = 9, y = 169, radius = 79, perimeter = 496.12, color = GREEN
+222: Rectangle, x_up_left = 67, y_up_left = 150, x_down_right = 169, y_down_right = 4, perimeter = 496, color = VIOLET
+223: Rectangle, x_up_left = 63, y_up_left = 184, x_down_right = 162, y_down_right = 36, perimeter = 494, color = GREEN
+224: Triangle, x1 = 169, y1 = 3, x2 = 5, y2 = 185, x3 = 64, y3 = 90, perimeter = 493.18, color = RED
+225: Rectangle, x_up_left = 33, y_up_left = 185, x_down_right = 153, y_down_right = 59, perimeter = 492, color = BLUE
+226: Circle, x = 58, y = 155, radius = 78, perimeter = 489.84, color = RED
+227: Rectangle, x_up_left = 2, y_up_left = 136, x_down_right = 185, y_down_right = 75, perimeter = 488, color = LIGHT_BLUE
+228: Triangle, x1 = 75, y1 = 169, x2 = 9, y2 = 49, x3 = 200, y3 = 169, perimeter = 487.521, color = LIGHT_BLUE
+229: Triangle, x1 = 154, y1 = 64, x2 = 103, y2 = 191, x3 = 2, y3 = 26, perimeter = 486.994, color = GREEN
+230: Rectangle, x_up_left = 42, y_up_left = 125, x_down_right = 177, y_down_right = 17, perimeter = 486, color = VIOLET
+231: Rectangle, x_up_left = 78, y_up_left = 183, x_down_right = 178, y_down_right = 40, perimeter = 486, color = ORANGE
+232: Rectangle, x_up_left = 51, y_up_left = 150, x_down_right = 157, y_down_right = 13, perimeter = 486, color = RED
+233: Rectangle, x_up_left = 18, y_up_left = 200, x_down_right = 194, y_down_right = 133, perimeter = 486, color = RED
+234: Rectangle, x_up_left = 20, y_up_left = 149, x_down_right = 167, y_down_right = 53, perimeter = 486, color = GREEN
+235: Circle, x = 155, y = 105, radius = 77, perimeter = 483.56, color = LIGHT_BLUE
+236: Circle, x = 131, y = 86, radius = 77, perimeter = 483.56, color = GREEN
+237: Circle, x = 196, y = 187, radius = 77, perimeter = 483.56, color = YELLOW
+238: Circle, x = 169, y = 168, radius = 77, perimeter = 483.56, color = VIOLET
+239: Triangle, x1 = 37, y1 = 38, x2 = 188, y2 = 185, x3 = 34, y3 = 5, perimeter = 480.761, color = GREEN
+240: Circle, x = 151, y = 42, radius = 76, perimeter = 477.28, color = GREEN
+241: Circle, x = 191, y = 138, radius = 76, perimeter = 477.28, color = GREEN
+242: Circle, x = 40, y = 89, radius = 76, perimeter = 477.28, color = GREEN
+243: Circle, x = 61, y = 166, radius = 76, perimeter = 477.28, color = BLUE
+244: Rectangle, x_up_left = 87, y_up_left = 196, x_down_right = 199, y_down_right = 70, perimeter = 476, color = RED
+245: Rectangle, x_up_left = 26, y_up_left = 135, x_down_right = 174, y_down_right = 45, perimeter = 476, color = ORANGE
+246: Triangle, x1 = 2, y1 = 26, x2 = 125, y2 = 24, x3 = 194, y3 = 135, perimeter = 474.497, color = LIGHT_BLUE
+247: Rectangle, x_up_left = 38, y_up_left = 135, x_down_right = 199, y_down_right = 60, perimeter = 472, color = RED
+248: Circle, x = 52, y = 109, radius = 75, perimeter = 471, color = VIOLET
+249: Circle, x = 54, y = 69, radius = 75, perimeter = 471, color = YELLOW
+250: Circle, x = 87, y = 154, radius = 75, perimeter = 471, color = VIOLET
+251: Rectangle, x_up_left = 11, y_up_left = 122, x_down_right = 150, y_down_right = 26, perimeter = 470, color = VIOLET
+252: Rectangle, x_up_left = 38, y_up_left = 94, x_down_right = 185, y_down_right = 6, perimeter = 470, color = BLUE
+253: Rectangle, x_up_left = 26, y_up_left = 171, x_down_right = 113, y_down_right = 23, perimeter = 470, color = ORANGE
+254: Rectangle, x_up_left = 43, y_up_left = 146, x_down_right = 166, y_down_right = 35, perimeter = 468, color = BLUE
+255: Rectangle, x_up_left = 21, y_up_left = 123, x_down_right = 157, y_down_right = 25, perimeter = 468, color = YELLOW
+256: Triangle, x1 = 13, y1 = 145, x2 = 195, y2 = 89, x3 = 149, y3 = 14, perimeter = 467.234, color = LIGHT_BLUE
+257: Rectangle, x_up_left = 3, y_up_left = 142, x_down_right = 192, y_down_right = 98, perimeter = 466, color = YELLOW
+258: Rectangle, x_up_left = 26, y_up_left = 125, x_down_right = 179, y_down_right = 45, perimeter = 466, color = BLUE
+259: Triangle, x1 = 25, y1 = 24, x2 = 104, y2 = 100, x3 = 181, y3 = 196, perimeter = 464.894, color = GREEN
+260: Circle, x = 196, y = 148, radius = 74, perimeter = 464.72, color = ORANGE
+261: Circle, x = 44, y = 104, radius = 74, perimeter = 464.72, color = GREEN
+262: Triangle, x1 = 44, y1 = 125, x2 = 63, y2 = 3, x3 = 179, y3 = 165, perimeter = 463.521, color = GREEN
+263: Triangle, x1 = 65, y1 = 16, x2 = 196, y2 = 90, x3 = 75, y3 = 178, perimeter = 462.38, color = ORANGE
+264: Rectangle, x_up_left = 20, y_up_left = 180, x_down_right = 78, y_down_right = 7, perimeter = 462, color = BLUE
+265: Triangle, x1 = 199, y1 = 180, x2 = 81, y2 = 79, x3 = 7, y3 = 165, perimeter = 461.362, color = VIOLET
+266: Rectangle, x_up_left = 21, y_up_left = 107, x_down_right = 197, y_down_right = 53, perimeter = 460, color = RED
+267: Rectangle, x_up_left = 67, y_up_left = 165, x_down_right = 200, y_down_right = 68, perimeter = 460, color = YELLOW
+268: Triangle, x1 = 21, y1 = 161, x2 = 95, y2 = 21, x3 = 181, y3 = 129, perimeter = 459.581, color = BLUE
+269: Circle, x = 189, y = 9, radius = 73, perimeter = 458.44, color = YELLOW
+270: Rectangle, x_up_left = 107, y_up_left = 186, x_down_right = 167, y_down_right = 18, perimeter = 456, color = GREEN
+271: Rectangle, x_up_left = 107, y_up_left = 197, x_down_right = 139, y_down_right = 2, perimeter = 454, color = VIOLET
+272: Triangle, x1 = 10, y1 = 1, x2 = 104, y2 = 87, x3 = 199, y3 = 123, perimeter = 453.953, color = BLUE
+273: Triangle, x1 = 35, y1 = 102, x2 = 199, y2 = 72, x3 = 29, y3 = 184, perimeter = 452.519, color = GREEN
+274: Circle, x = 172, y = 31, radius = 72, perimeter = 452.16, color = ORANGE
+275: Rectangle, x_up_left = 36, y_up_left = 112, x_down_right = 158, y_down_right = 8, perimeter = 452, color = VIOLET
+276: Triangle, x1 = 159, y1 = 23, x2 = 17, y2 = 182, x3 = 169, y3 = 72, perimeter = 450.816, color = LIGHT_BLUE
+277: Rectangle, x_up_left = 15, y_up_left = 105, x_down_right = 167, y_down_right = 32, perimeter = 450, color = RED
+278: Triangle, x1 = 14, y1 = 168, x2 = 150, y2 = 193, x3 = 162, y3 = 64, perimeter = 448.722, color = BLUE
+279: Rectangle, x_up_left = 63, y_up_left = 184, x_down_right = 116, y_down_right = 13, perimeter = 448, color = LIGHT_BLUE
+280: Triangle, x1 = 67, y1 = 193, x2 = 132, y2 = 120, x3 = 19, y3 = 8, perimeter = 447.971, color = BLUE
+281: Circle, x = 69, y = 63, radius = 71, perimeter = 445.88, color = YELLOW
+282: Circle, x = 178, y = 30, radius = 71, perimeter = 445.88, color = BLUE
+283: Circle, x = 104, y = 112, radius = 71, perimeter = 445.88, color = BLUE
+284: Rectangle, x_up_left = 4, y_up_left = 80, x_down_right = 149, y_down_right = 3, perimeter = 444, color = BLUE
+285: Rectangle, x_up_left = 1, y_up_left = 197, x_down_right = 33, y_down_right = 9, perimeter = 440, color = RED
+286: Rectangle, x_up_left = 40, y_up_left = 154, x_down_right = 169, y_down_right = 64, perimeter = 438, color = YELLOW
+287: Triangle, x1 = 56, y1 = 46, x2 = 98, y2 = 153, x3 = 197, y3 = 7, perimeter = 437.642, color = LIGHT_BLUE
+288: Rectangle, x_up_left = 77, y_up_left = 163, x_down_right = 135, y_down_right = 3, perimeter = 436, color = RED
+289: Triangle, x1 = 130, y1 = 164, x2 = 30, y2 = 168, x3 = 47, y3 = 9, perimeter = 435.81, color = ORANGE
+290: Rectangle, x_up_left = 1, y_up_left = 153, x_down_right = 127, y_down_right = 62, perimeter = 434, color = YELLOW
+291: Rectangle, x_up_left = 77, y_up_left = 151, x_down_right = 150, y_down_right = 7, perimeter = 434, color = LIGHT_BLUE
+292: Circle, x = 153, y = 32, radius = 69, perimeter = 433.32, color = VIOLET
+293: Circle, x = 160, y = 197, radius = 69, perimeter = 433.32, color = YELLOW
+294: Triangle, x1 = 123, y1 = 10, x2 = 81, y2 = 177, x3 = 192, y3 = 22, perimeter = 432.882, color = ORANGE
+295: Triangle, x1 = 199, y1 = 50, x2 = 42, y2 = 5, x3 = 171, y3 = 133, perimeter = 432.645, color = ORANGE
+296: Rectangle, x_up_left = 2, y_up_left = 160, x_down_right = 153, y_down_right = 95, perimeter = 432, color = RED
+297: Triangle, x1 = 31, y1 = 2, x2 = 148, y2 = 145, x3 = 102, y3 = 178, perimeter = 431.159, color = GREEN
+298: Rectangle, x_up_left = 99, y_up_left = 172, x_down_right = 160, y_down_right = 18, perimeter = 430, color = ORANGE
+299: Rectangle, x_up_left = 49, y_up_left = 200, x_down_right = 86, y_down_right = 23, perimeter = 428, color = VIOLET
+300: Rectangle, x_up_left = 28, y_up_left = 165, x_down_right = 188, y_down_right = 111, perimeter = 428, color = RED
+301: Circle, x = 184, y = 28, radius = 68, perimeter = 427.04, color = GREEN
+302: Triangle, x1 = 21, y1 = 11, x2 = 113, y2 = 196, x3 = 102, y3 = 91, perimeter = 426.034, color = ORANGE
+303: Rectangle, x_up_left = 84, y_up_left = 109, x_down_right = 191, y_down_right = 3, perimeter = 426, color = BLUE
+304: Triangle, x1 = 4, y1 = 6, x2 = 108, y2 = 22, x3 = 94, y3 = 161, perimeter = 424.161, color = RED
+305: Triangle, x1 = 116, y1 = 177, x2 = 21, y2 = 124, x3 = 107, y3 = 8, perimeter = 422.426, color = BLUE
+306: Triangle, x1 = 108, y1 = 15, x2 = 147, y2 = 184, x3 = 46, y3 = 29, perimeter = 422.005, color = GREEN
+307: Rectangle, x_up_left = 72, y_up_left = 174, x_down_right = 150, y_down_right = 41, perimeter = 422, color = ORANGE
+308: Triangle, x1 = 159, y1 = 180, x2 = 198, y2 = 139, x3 = 72, y3 = 14, perimeter = 421.488, color = GREEN
+309: Triangle, x1 = 192, y1 = 68, x2 = 91, y2 = 27, x3 = 94, y3 = 186, perimeter = 421.421, color = BLUE
+310: Circle, x = 168, y = 150, radius = 67, perimeter = 420.76, color = ORANGE
+311: Rectangle, x_up_left = 11, y_up_left = 161, x_down_right = 76, y_down_right = 16, perimeter = 420, color = ORANGE
+312: Triangle, x1 = 133, y1 = 123, x2 = 111, y2 = 7, x3 = 14, y3 = 156, perimeter = 419.351, color = ORANGE
+313: Triangle, x1 = 54, y1 = 93, x2 = 152, y2 = 192, x3 = 157, y3 = 32, perimeter = 419.088, color = VIOLET
+314: Triangle, x1 = 70, y1 = 198, x2 = 111, y2 = 74, x3 = 167, y3 = 15, perimeter = 419.066, color = YELLOW
+315: Triangle, x1 = 200, y1 = 81, x2 = 66, y2 = 25, x3 = 13, y3 = 91, perimeter = 417.144, color = RED
+316: Triangle, x1 = 107, y1 = 132, x2 = 38, y2 = 170, x3 = 174, y3 = 17, perimeter = 416.573, color = GREEN
+317: Triangle, x1 = 133, y1 = 170, x2 = 193, y2 = 183, x3 = 101, y3 = 13, perimeter = 414.918, color = ORANGE
+318: Triangle, x1 = 110, y1 = 173, x2 = 152, y2 = 3, x3 = 145, y3 = 199, perimeter = 414.837, color = LIGHT_BLUE
+319: Triangle, x1 = 16, y1 = 166, x2 = 124, y2 = 11, x3 = 23, y3 = 48, perimeter = 414.687, color = LIGHT_BLUE
+320: Circle, x = 6, y = 144, radius = 66, perimeter = 414.48, color = ORANGE
+321: Circle, x = 74, y = 113, radius = 66, perimeter = 414.48, color = RED
+322: Triangle, x1 = 93, y1 = 147, x2 = 164, y2 = 198, x3 = 126, y3 = 14, perimeter = 412.334, color = GREEN
+323: Triangle, x1 = 38, y1 = 11, x2 = 108, y2 = 142, x3 = 167, y3 = 22, perimeter = 411.717, color = LIGHT_BLUE
+324: Rectangle, x_up_left = 12, y_up_left = 168, x_down_right = 50, y_down_right = 1, perimeter = 410, color = BLUE
+325: Rectangle, x_up_left = 41, y_up_left = 191, x_down_right = 189, y_down_right = 134, perimeter = 410, color = BLUE
+326: Rectangle, x_up_left = 30, y_up_left = 58, x_down_right = 186, y_down_right = 9, perimeter = 410, color = LIGHT_BLUE
+327: Circle, x = 49, y = 153, radius = 65, perimeter = 408.2, color = BLUE
+328: Circle, x = 192, y = 51, radius = 65, perimeter = 408.2, color = LIGHT_BLUE
+329: Rectangle, x_up_left = 68, y_up_left = 189, x_down_right = 121, y_down_right = 38, perimeter = 408, color = LIGHT_BLUE
+330: Triangle, x1 = 160, y1 = 190, x2 = 88, y2 = 167, x3 = 6, y3 = 63, perimeter = 407.635, color = BLUE
+331: Triangle, x1 = 30, y1 = 160, x2 = 180, y2 = 24, x3 = 176, y3 = 38, perimeter = 407.298, color = VIOLET
+332: Triangle, x1 = 27, y1 = 64, x2 = 33, y2 = 164, x3 = 162, y3 = 51, perimeter = 407.298, color = RED
+333: Triangle, x1 = 200, y1 = 155, x2 = 26, y2 = 81, x3 = 129, y3 = 66, perimeter = 407.019, color = ORANGE
+334: Rectangle, x_up_left = 76, y_up_left = 145, x_down_right = 195, y_down_right = 61, perimeter = 406, color = BLUE
+335: Triangle, x1 = 124, y1 = 140, x2 = 157, y2 = 14, x3 = 23, y3 = 46, perimeter = 405.992, color = YELLOW
+336: Triangle, x1 = 21, y1 = 191, x2 = 80, y2 = 128, x3 = 183, y3 = 71, perimeter = 405.637, color = BLUE
+337: Triangle, x1 = 17, y1 = 13, x2 = 159, y2 = 9, x3 = 194, y3 = 76, perimeter = 405.525, color = LIGHT_BLUE
+338: Triangle, x1 = 175, y1 = 101, x2 = 106, y2 = 180, x3 = 193, y3 = 1, perimeter = 405.52, color = GREEN
+339: Triangle, x1 = 90, y1 = 143, x2 = 20, y2 = 23, x3 = 2, y3 = 189, perimeter = 405.195, color = YELLOW
+340: Triangle, x1 = 173, y1 = 53, x2 = 89, y2 = 83, x3 = 6, y3 = 163, perimeter = 404.447, color = ORANGE
+341: Triangle, x1 = 158, y1 = 47, x2 = 93, y2 = 167, x3 = 21, y3 = 183, perimeter = 403.271, color = RED
+342: Triangle, x1 = 81, y1 = 126, x2 = 25, y2 = 198, x3 = 173, y3 = 63, perimeter = 403.04, color = YELLOW
+343: Triangle, x1 = 5, y1 = 72, x2 = 157, y2 = 198, x3 = 24, y3 = 117, perimeter = 402.004, color = BLUE
+344: Rectangle, x_up_left = 20, y_up_left = 112, x_down_right = 193, y_down_right = 84, perimeter = 402, color = BLUE
+345: Triangle, x1 = 169, y1 = 172, x2 = 54, y2 = 93, x3 = 26, y3 = 35, perimeter = 401.961, color = YELLOW
+346: Circle, x = 32, y = 170, radius = 64, perimeter = 401.92, color = BLUE
+347: Triangle, x1 = 191, y1 = 153, x2 = 111, y2 = 11, x3 = 59, y3 = 84, perimeter = 401.558, color = YELLOW
+348: Triangle, x1 = 197, y1 = 103, x2 = 3, y2 = 151, x3 = 36, y3 = 133, perimeter = 401.211, color = ORANGE
+349: Triangle, x1 = 29, y1 = 79, x2 = 114, y2 = 22, x3 = 90, y3 = 191, perimeter = 400.573, color = YELLOW
+350: Rectangle, x_up_left = 47, y_up_left = 195, x_down_right = 192, y_down_right = 140, perimeter = 400, color = VIOLET
+351: Triangle, x1 = 31, y1 = 77, x2 = 126, y2 = 193, x3 = 130, y3 = 47, perimeter = 399.437, color = GREEN
+352: Triangle, x1 = 6, y1 = 91, x2 = 193, y2 = 62, x3 = 5, y3 = 107, perimeter = 398.577, color = RED
+353: Rectangle, x_up_left = 14, y_up_left = 102, x_down_right = 170, y_down_right = 59, perimeter = 398, color = ORANGE
+354: Triangle, x1 = 35, y1 = 171, x2 = 180, y2 = 62, x3 = 16, y3 = 145, perimeter = 397.41, color = LIGHT_BLUE
+355: Triangle, x1 = 26, y1 = 157, x2 = 145, y2 = 194, x3 = 13, y3 = 68, perimeter = 397.047, color = ORANGE
+356: Triangle, x1 = 8, y1 = 77, x2 = 153, y2 = 133, x3 = 169, y3 = 56, perimeter = 396.447, color = RED
+357: Triangle, x1 = 142, y1 = 25, x2 = 108, y2 = 10, x3 = 39, y3 = 174, perimeter = 396.221, color = YELLOW
+358: Triangle, x1 = 24, y1 = 142, x2 = 42, y2 = 177, x3 = 124, y3 = 7, perimeter = 396.104, color = ORANGE
+359: Circle, x = 86, y = 59, radius = 63, perimeter = 395.64, color = RED
+360: Circle, x = 170, y = 194, radius = 63, perimeter = 395.64, color = RED
+361: Circle, x = 173, y = 15, radius = 63, perimeter = 395.64, color = YELLOW
+362: Circle, x = 150, y = 107, radius = 63, perimeter = 395.64, color = RED
+363: Triangle, x1 = 179, y1 = 128, x2 = 170, y2 = 139, x3 = 16, y3 = 29, perimeter = 394.173, color = YELLOW
+364: Rectangle, x_up_left = 67, y_up_left = 132, x_down_right = 177, y_down_right = 45, perimeter = 394, color = RED
+365: Triangle, x1 = 30, y1 = 116, x2 = 2, y2 = 80, x3 = 166, y3 = 186, perimeter = 393.839, color = BLUE
+366: Triangle, x1 = 99, y1 = 74, x2 = 104, y2 = 196, x3 = 125, y3 = 2, perimeter = 393.786, color = RED
+367: Rectangle, x_up_left = 60, y_up_left = 177, x_down_right = 83, y_down_right = 4, perimeter = 392, color = GREEN
+368: Triangle, x1 = 89, y1 = 109, x2 = 183, y2 = 28, x3 = 15, y3 = 46, perimeter = 390.232, color = LIGHT_BLUE
+369: Triangle, x1 = 121, y1 = 17, x2 = 134, y2 = 165, x3 = 188, y3 = 1, perimeter = 390.115, color = RED
+370: Triangle, x1 = 183, y1 = 107, x2 = 143, y2 = 9, x3 = 183, y3 = 198, perimeter = 390.035, color = GREEN
+371: Rectangle, x_up_left = 148, y_up_left = 190, x_down_right = 199, y_down_right = 46, perimeter = 390, color = YELLOW
+372: Triangle, x1 = 193, y1 = 118, x2 = 62, y2 = 168, x3 = 17, y3 = 111, perimeter = 388.979, color = LIGHT_BLUE
+373: Triangle, x1 = 128, y1 = 14, x2 = 166, y2 = 191, x3 = 103, y3 = 134, perimeter = 388.568, color = BLUE
+374: Rectangle, x_up_left = 104, y_up_left = 200, x_down_right = 186, y_down_right = 88, perimeter = 388, color = YELLOW
+375: Rectangle, x_up_left = 52, y_up_left = 200, x_down_right = 55, y_down_right = 9, perimeter = 388, color = VIOLET
+376: Rectangle, x_up_left = 43, y_up_left = 80, x_down_right = 197, y_down_right = 40, perimeter = 388, color = YELLOW
+377: Rectangle, x_up_left = 42, y_up_left = 95, x_down_right = 162, y_down_right = 21, perimeter = 388, color = LIGHT_BLUE
+378: Triangle, x1 = 164, y1 = 182, x2 = 51, y2 = 127, x3 = 63, y3 = 40, perimeter = 387.753, color = ORANGE
+379: Triangle, x1 = 53, y1 = 156, x2 = 199, y2 = 39, x3 = 149, y3 = 41, perimeter = 386.939, color = YELLOW
+380: Triangle, x1 = 165, y1 = 140, x2 = 170, y2 = 192, x3 = 128, y3 = 4, perimeter = 385.817, color = BLUE
+381: Triangle, x1 = 40, y1 = 89, x2 = 171, y2 = 64, x3 = 49, y3 = 175, perimeter = 384.773, color = RED
+382: Rectangle, x_up_left = 142, y_up_left = 182, x_down_right = 197, y_down_right = 45, perimeter = 384, color = BLUE
+383: Triangle, x1 = 7, y1 = 149, x2 = 113, y2 = 190, x3 = 41, y3 = 46, perimeter = 383.116, color = GREEN
+384: Circle, x = 124, y = 7, radius = 61, perimeter = 383.08, color = RED
+385: Triangle, x1 = 178, y1 = 13, x2 = 7, y2 = 38, x3 = 152, y3 = 69, perimeter = 382.836, color = RED
+386: Triangle, x1 = 28, y1 = 55, x2 = 143, y2 = 15, x3 = 198, y3 = 84, perimeter = 382.452, color = GREEN
+387: Triangle, x1 = 74, y1 = 142, x2 = 134, y2 = 147, x3 = 7, y3 = 18, perimeter = 382.176, color = LIGHT_BLUE
+388: Rectangle, x_up_left = 30, y_up_left = 134, x_down_right = 119, y_down_right = 32, perimeter = 382, color = LIGHT_BLUE
+389: Rectangle, x_up_left = 64, y_up_left = 141, x_down_right = 156, y_down_right = 42, perimeter = 382, color = YELLOW
+390: Rectangle, x_up_left = 21, y_up_left = 184, x_down_right = 70, y_down_right = 42, perimeter = 382, color = ORANGE
+391: Triangle, x1 = 9, y1 = 193, x2 = 97, y2 = 179, x3 = 194, y3 = 149, perimeter = 380.8, color = VIOLET
+392: Triangle, x1 = 82, y1 = 66, x2 = 193, y2 = 190, x3 = 53, y3 = 110, perimeter = 380.367, color = ORANGE
+393: Triangle, x1 = 135, y1 = 157, x2 = 137, y2 = 58, x3 = 5, y3 = 94, perimeter = 380.302, color = YELLOW
+394: Triangle, x1 = 123, y1 = 56, x2 = 76, y2 = 14, x3 = 197, y3 = 160, perimeter = 380.295, color = VIOLET
+395: Rectangle, x_up_left = 7, y_up_left = 197, x_down_right = 105, y_down_right = 105, perimeter = 380, color = BLUE
+396: Triangle, x1 = 132, y1 = 156, x2 = 38, y2 = 62, x3 = 11, y3 = 11, perimeter = 379.497, color = BLUE
+397: Triangle, x1 = 11, y1 = 30, x2 = 93, y2 = 80, x3 = 79, y3 = 189, perimeter = 378.868, color = GREEN
+398: Triangle, x1 = 154, y1 = 105, x2 = 1, y2 = 51, x3 = 114, y3 = 154, perimeter = 378.402, color = LIGHT_BLUE
+399: Triangle, x1 = 76, y1 = 1, x2 = 9, y2 = 23, x3 = 44, y3 = 162, perimeter = 378.008, color = GREEN
+400: Rectangle, x_up_left = 122, y_up_left = 188, x_down_right = 181, y_down_right = 58, perimeter = 378, color = BLUE
+401: Rectangle, x_up_left = 18, y_up_left = 182, x_down_right = 127, y_down_right = 102, perimeter = 378, color = GREEN
+402: Triangle, x1 = 176, y1 = 122, x2 = 137, y2 = 17, x3 = 67, y3 = 152, perimeter = 377.131, color = YELLOW
+403: Circle, x = 44, y = 28, radius = 60, perimeter = 376.8, color = BLUE
+404: Rectangle, x_up_left = 13, y_up_left = 151, x_down_right = 174, y_down_right = 124, perimeter = 376, color = YELLOW
+405: Rectangle, x_up_left = 44, y_up_left = 121, x_down_right = 190, y_down_right = 79, perimeter = 376, color = VIOLET
+406: Triangle, x1 = 165, y1 = 99, x2 = 62, y2 = 73, x3 = 1, y3 = 15, perimeter = 374.664, color = VIOLET
+407: Rectangle, x_up_left = 16, y_up_left = 126, x_down_right = 152, y_down_right = 75, perimeter = 374, color = ORANGE
+408: Triangle, x1 = 189, y1 = 129, x2 = 8, y2 = 174, x3 = 18, y3 = 173, perimeter = 373.13, color = BLUE
+409: Triangle, x1 = 131, y1 = 115, x2 = 200, y2 = 80, x3 = 23, y3 = 134, perimeter = 372.082, color = RED
+410: Circle, x = 116, y = 24, radius = 59, perimeter = 370.52, color = LIGHT_BLUE
+411: Triangle, x1 = 100, y1 = 196, x2 = 88, y2 = 27, x3 = 42, y3 = 94, perimeter = 368.034, color = LIGHT_BLUE
+412: Triangle, x1 = 54, y1 = 196, x2 = 146, y2 = 74, x3 = 90, y3 = 48, perimeter = 366.857, color = GREEN
+413: Triangle, x1 = 121, y1 = 2, x2 = 190, y2 = 168, x3 = 164, y3 = 153, perimeter = 366.789, color = RED
+414: Triangle, x1 = 172, y1 = 147, x2 = 59, y2 = 199, x3 = 150, y3 = 68, perimeter = 365.902, color = YELLOW
+415: Triangle, x1 = 77, y1 = 75, x2 = 53, y2 = 155, x3 = 160, y3 = 13, perimeter = 364.923, color = BLUE
+416: Triangle, x1 = 148, y1 = 162, x2 = 3, y2 = 52, x3 = 33, y3 = 83, perimeter = 364.663, color = RED
+417: Triangle, x1 = 31, y1 = 45, x2 = 139, y2 = 127, x3 = 30, y3 = 160, perimeter = 364.493, color = BLUE
+418: Circle, x = 99, y = 36, radius = 58, perimeter = 364.24, color = ORANGE
+419: Circle, x = 10, y = 91, radius = 58, perimeter = 364.24, color = ORANGE
+420: Circle, x = 197, y = 189, radius = 58, perimeter = 364.24, color = YELLOW
+421: Triangle, x1 = 3, y1 = 91, x2 = 157, y2 = 181, x3 = 57, y3 = 96, perimeter = 363.845, color = YELLOW
+422: Triangle, x1 = 124, y1 = 78, x2 = 66, y2 = 170, x3 = 196, y3 = 50, perimeter = 362.928, color = BLUE
+423: Triangle, x1 = 146, y1 = 95, x2 = 31, y2 = 39, x3 = 179, y3 = 140, perimeter = 362.892, color = RED
+424: Triangle, x1 = 152, y1 = 109, x2 = 142, y2 = 187, x3 = 17, y3 = 106, perimeter = 362.621, color = LIGHT_BLUE
+425: Triangle, x1 = 27, y1 = 192, x2 = 125, y2 = 48, x3 = 116, y3 = 123, perimeter = 362.336, color = ORANGE
+426: Rectangle, x_up_left = 64, y_up_left = 117, x_down_right = 168, y_down_right = 40, perimeter = 362, color = BLUE
+427: Rectangle, x_up_left = 139, y_up_left = 159, x_down_right = 176, y_down_right = 15, perimeter = 362, color = LIGHT_BLUE
+428: Triangle, x1 = 116, y1 = 57, x2 = 4, y2 = 2, x3 = 101, y3 = 131, perimeter = 361.681, color = GREEN
+429: Triangle, x1 = 154, y1 = 4, x2 = 171, y2 = 81, x3 = 109, y3 = 171, perimeter = 361.1, color = VIOLET
+430: Triangle, x1 = 53, y1 = 114, x2 = 180, y2 = 56, x3 = 137, y3 = 169, perimeter = 360.926, color = RED
+431: Triangle, x1 = 173, y1 = 177, x2 = 105, y2 = 147, x3 = 165, y3 = 26, perimeter = 360.595, color = ORANGE
+432: Triangle, x1 = 70, y1 = 117, x2 = 170, y2 = 179, x3 = 16, y3 = 187, perimeter = 360.276, color = BLUE
+433: Rectangle, x_up_left = 19, y_up_left = 89, x_down_right = 186, y_down_right = 76, perimeter = 360, color = GREEN
+434: Triangle, x1 = 8, y1 = 180, x2 = 104, y2 = 31, x3 = 68, y3 = 54, perimeter = 359.525, color = BLUE
+435: Circle, x = 65, y = 184, radius = 57, perimeter = 357.96, color = GREEN
+436: Triangle, x1 = 58, y1 = 173, x2 = 98, y2 = 120, x3 = 127, y3 = 10, perimeter = 357.162, color = BLUE
+437: Rectangle, x_up_left = 120, y_up_left = 132, x_down_right = 184, y_down_right = 18, perimeter = 356, color = YELLOW
+438: Rectangle, x_up_left = 86, y_up_left = 178, x_down_right = 180, y_down_right = 94, perimeter = 356, color = ORANGE
+439: Triangle, x1 = 161, y1 = 105, x2 = 26, y2 = 9, x3 = 124, y3 = 22, perimeter = 355.385, color = ORANGE
+440: Triangle, x1 = 111, y1 = 15, x2 = 167, y2 = 82, x3 = 196, y3 = 169, perimeter = 354.928, color = VIOLET
+441: Rectangle, x_up_left = 7, y_up_left = 184, x_down_right = 94, y_down_right = 94, perimeter = 354, color = LIGHT_BLUE
+442: Rectangle, x_up_left = 129, y_up_left = 193, x_down_right = 141, y_down_right = 28, perimeter = 354, color = GREEN
+443: Triangle, x1 = 138, y1 = 78, x2 = 153, y2 = 181, x3 = 41, y3 = 77, perimeter = 353.931, color = RED
+444: Triangle, x1 = 50, y1 = 61, x2 = 194, y2 = 155, x3 = 148, y3 = 154, perimeter = 353.08, color = BLUE
+445: Rectangle, x_up_left = 66, y_up_left = 83, x_down_right = 188, y_down_right = 29, perimeter = 352, color = VIOLET
+446: Rectangle, x_up_left = 99, y_up_left = 139, x_down_right = 149, y_down_right = 13, perimeter = 352, color = VIOLET
+447: Rectangle, x_up_left = 6, y_up_left = 199, x_down_right = 152, y_down_right = 169, perimeter = 352, color = BLUE
+448: Triangle, x1 = 146, y1 = 76, x2 = 200, y2 = 184, x3 = 102, y3 = 40, perimeter = 351.782, color = YELLOW
+449: Circle, x = 79, y = 92, radius = 56, perimeter = 351.68, color = ORANGE
+450: Circle, x = 9, y = 114, radius = 56, perimeter = 351.68, color = VIOLET
+451: Triangle, x1 = 171, y1 = 140, x2 = 1, y2 = 125, x3 = 6, y3 = 140, perimeter = 351.472, color = RED
+452: Triangle, x1 = 152, y1 = 170, x2 = 165, y2 = 142, x3 = 8, y3 = 103, perimeter = 351.466, color = GREEN
+453: Triangle, x1 = 161, y1 = 97, x2 = 85, y2 = 179, x3 = 37, y3 = 76, perimeter = 351.204, color = LIGHT_BLUE
+454: Triangle, x1 = 65, y1 = 167, x2 = 139, y2 = 19, x3 = 83, y3 = 44, perimeter = 351.106, color = YELLOW
+455: Triangle, x1 = 77, y1 = 19, x2 = 24, y2 = 103, x3 = 27, y3 = 183, perimeter = 350.832, color = ORANGE
+456: Triangle, x1 = 19, y1 = 92, x2 = 1, y2 = 16, x3 = 123, y3 = 125, perimeter = 350.813, color = ORANGE
+457: Triangle, x1 = 68, y1 = 15, x2 = 32, y2 = 148, x3 = 99, y3 = 157, perimeter = 350.732, color = GREEN
+458: Rectangle, x_up_left = 88, y_up_left = 144, x_down_right = 153, y_down_right = 34, perimeter = 350, color = GREEN
+459: Rectangle, x_up_left = 10, y_up_left = 59, x_down_right = 181, y_down_right = 55, perimeter = 350, color = BLUE
+460: Triangle, x1 = 87, y1 = 52, x2 = 185, y2 = 193, x3 = 160, y3 = 118, perimeter = 349.181, color = ORANGE
+461: Triangle, x1 = 24, y1 = 79, x2 = 138, y2 = 154, x3 = 40, y3 = 187, perimeter = 349.045, color = RED
+462: Triangle, x1 = 157, y1 = 156, x2 = 36, y2 = 48, x3 = 153, y3 = 96, perimeter = 348.785, color = YELLOW
+463: Rectangle, x_up_left = 29, y_up_left = 138, x_down_right = 170, y_down_right = 105, perimeter = 348, color = GREEN
+464: Rectangle, x_up_left = 95, y_up_left = 194, x_down_right = 180, y_down_right = 105, perimeter = 348, color = BLUE
+465: Triangle, x1 = 140, y1 = 51, x2 = 57, y2 = 152, x3 = 169, y3 = 19, perimeter = 347.791, color = YELLOW
+466: Triangle, x1 = 193, y1 = 84, x2 = 43, y2 = 163, x3 = 114, y3 = 97, perimeter = 346.532, color = LIGHT_BLUE
+467: Triangle, x1 = 196, y1 = 67, x2 = 91, y2 = 179, x3 = 197, y3 = 45, perimeter = 346.401, color = BLUE
+468: Triangle, x1 = 25, y1 = 155, x2 = 114, y2 = 98, x3 = 138, y3 = 30, perimeter = 346.304, color = VIOLET
+469: Rectangle, x_up_left = 6, y_up_left = 93, x_down_right = 138, y_down_right = 52, perimeter = 346, color = BLUE
+470: Rectangle, x_up_left = 34, y_up_left = 52, x_down_right = 157, y_down_right = 2, perimeter = 346, color = YELLOW
+471: Rectangle, x_up_left = 66, y_up_left = 179, x_down_right = 169, y_down_right = 109, perimeter = 346, color = RED
+472: Rectangle, x_up_left = 83, y_up_left = 183, x_down_right = 191, y_down_right = 118, perimeter = 346, color = YELLOW
+473: Triangle, x1 = 30, y1 = 17, x2 = 100, y2 = 77, x3 = 178, y3 = 103, perimeter = 345.587, color = BLUE
+474: Circle, x = 73, y = 31, radius = 55, perimeter = 345.4, color = YELLOW
+475: Circle, x = 188, y = 112, radius = 55, perimeter = 345.4, color = YELLOW
+476: Circle, x = 41, y = 28, radius = 55, perimeter = 345.4, color = VIOLET
+477: Triangle, x1 = 78, y1 = 41, x2 = 118, y2 = 142, x3 = 194, y3 = 49, perimeter = 345.012, color = RED
+478: Rectangle, x_up_left = 11, y_up_left = 134, x_down_right = 76, y_down_right = 27, perimeter = 344, color = LIGHT_BLUE
+479: Rectangle, x_up_left = 69, y_up_left = 144, x_down_right = 165, y_down_right = 68, perimeter = 344, color = VIOLET
+480: Triangle, x1 = 53, y1 = 158, x2 = 129, y2 = 46, x3 = 74, y3 = 15, perimeter = 343.02, color = BLUE
+481: Rectangle, x_up_left = 99, y_up_left = 119, x_down_right = 170, y_down_right = 19, perimeter = 342, color = VIOLET
+482: Triangle, x1 = 168, y1 = 162, x2 = 83, y2 = 19, x3 = 171, y3 = 125, perimeter = 341.244, color = VIOLET
+483: Triangle, x1 = 156, y1 = 166, x2 = 166, y2 = 7, x3 = 125, y3 = 44, perimeter = 340.418, color = ORANGE
+484: Rectangle, x_up_left = 90, y_up_left = 76, x_down_right = 198, y_down_right = 14, perimeter = 340, color = YELLOW
+485: Rectangle, x_up_left = 13, y_up_left = 178, x_down_right = 125, y_down_right = 120, perimeter = 340, color = GREEN
+486: Triangle, x1 = 143, y1 = 156, x2 = 157, y2 = 53, x3 = 46, y3 = 131, perimeter = 339.782, color = GREEN
+487: Triangle, x1 = 41, y1 = 136, x2 = 130, y2 = 125, x3 = 143, y3 = 26, perimeter = 339.54, color = VIOLET
+488: Circle, x = 164, y = 85, radius = 54, perimeter = 339.12, color = ORANGE
+489: Circle, x = 22, y = 96, radius = 54, perimeter = 339.12, color = BLUE
+490: Circle, x = 129, y = 18, radius = 54, perimeter = 339.12, color = VIOLET
+491: Triangle, x1 = 73, y1 = 65, x2 = 166, y2 = 101, x3 = 119, y3 = 193, perimeter = 339.05, color = RED
+492: Triangle, x1 = 26, y1 = 118, x2 = 100, y2 = 169, x3 = 97, y3 = 32, perimeter = 338.426, color = RED
+493: Triangle, x1 = 147, y1 = 23, x2 = 81, y2 = 27, x3 = 37, y3 = 134, perimeter = 338.087, color = RED
+494: Rectangle, x_up_left = 38, y_up_left = 136, x_down_right = 135, y_down_right = 64, perimeter = 338, color = RED
+495: Rectangle, x_up_left = 95, y_up_left = 181, x_down_right = 133, y_down_right = 50, perimeter = 338, color = BLUE
+496: Triangle, x1 = 99, y1 = 46, x2 = 81, y2 = 179, x3 = 13, y3 = 124, perimeter = 337.774, color = GREEN
+497: Triangle, x1 = 131, y1 = 23, x2 = 76, y2 = 180, x3 = 70, y3 = 159, perimeter = 337.249, color = BLUE
+498: Triangle, x1 = 23, y1 = 193, x2 = 131, y2 = 117, x3 = 151, y3 = 191, perimeter = 336.731, color = BLUE
+499: Rectangle, x_up_left = 72, y_up_left = 119, x_down_right = 188, y_down_right = 67, perimeter = 336, color = RED
+500: Triangle, x1 = 99, y1 = 22, x2 = 74, y2 = 34, x3 = 104, y3 = 180, perimeter = 334.86, color = VIOLET
+501: Triangle, x1 = 107, y1 = 20, x2 = 144, y2 = 93, x3 = 113, y3 = 180, perimeter = 334.312, color = ORANGE
+502: Rectangle, x_up_left = 15, y_up_left = 44, x_down_right = 156, y_down_right = 18, perimeter = 334, color = BLUE
+503: Triangle, x1 = 52, y1 = 67, x2 = 162, y2 = 78, x3 = 173, y3 = 152, perimeter = 333.233, color = LIGHT_BLUE
+504: Triangle, x1 = 48, y1 = 188, x2 = 14, y2 = 156, x3 = 24, y3 = 30, perimeter = 332.899, color = BLUE
+505: Circle, x = 79, y = 22, radius = 53, perimeter = 332.84, color = ORANGE
+506: Circle, x = 160, y = 37, radius = 53, perimeter = 332.84, color = YELLOW
+507: Triangle, x1 = 22, y1 = 21, x2 = 147, y2 = 25, x3 = 123, y3 = 100, perimeter = 332.037, color = ORANGE
+508: Rectangle, x_up_left = 85, y_up_left = 153, x_down_right = 102, y_down_right = 4, perimeter = 332, color = YELLOW
+509: Rectangle, x_up_left = 4, y_up_left = 117, x_down_right = 83, y_down_right = 30, perimeter = 332, color = ORANGE
+510: Triangle, x1 = 114, y1 = 191, x2 = 192, y2 = 128, x3 = 43, y3 = 157, perimeter = 330.782, color = ORANGE
+511: Triangle, x1 = 43, y1 = 179, x2 = 57, y2 = 19, x3 = 78, y3 = 98, perimeter = 330.593, color = GREEN
+512: Triangle, x1 = 195, y1 = 13, x2 = 200, y2 = 117, x3 = 100, y3 = 89, perimeter = 329.626, color = GREEN
+513: Triangle, x1 = 158, y1 = 25, x2 = 55, y2 = 143, x3 = 125, y3 = 117, perimeter = 329.042, color = RED
+514: Triangle, x1 = 91, y1 = 41, x2 = 12, y2 = 70, x3 = 69, y3 = 169, perimeter = 328.268, color = VIOLET
+515: Triangle, x1 = 22, y1 = 180, x2 = 25, y2 = 197, x3 = 175, y3 = 155, perimeter = 328.061, color = YELLOW
+516: Rectangle, x_up_left = 58, y_up_left = 83, x_down_right = 153, y_down_right = 14, perimeter = 328, color = VIOLET
+517: Triangle, x1 = 133, y1 = 31, x2 = 160, y2 = 188, x3 = 144, y3 = 181, perimeter = 327.172, color = GREEN
+518: Circle, x = 38, y = 157, radius = 52, perimeter = 326.56, color = VIOLET
+519: Circle, x = 70, y = 104, radius = 52, perimeter = 326.56, color = RED
+520: Circle, x = 68, y = 31, radius = 52, perimeter = 326.56, color = VIOLET
+521: Triangle, x1 = 116, y1 = 146, x2 = 26, y2 = 63, x3 = 132, y3 = 50, perimeter = 326.548, color = YELLOW
+522: Triangle, x1 = 34, y1 = 188, x2 = 87, y2 = 46, x3 = 92, y3 = 153, perimeter = 326.427, color = BLUE
+523: Triangle, x1 = 24, y1 = 74, x2 = 14, y2 = 40, x3 = 88, y3 = 185, perimeter = 326.36, color = RED
+524: Triangle, x1 = 104, y1 = 138, x2 = 64, y2 = 6, x3 = 151, y3 = 85, perimeter = 326.281, color = VIOLET
+525: Triangle, x1 = 15, y1 = 143, x2 = 57, y2 = 95, x3 = 160, y3 = 151, perimeter = 326.24, color = YELLOW
+526: Rectangle, x_up_left = 67, y_up_left = 156, x_down_right = 100, y_down_right = 26, perimeter = 326, color = VIOLET
+527: Rectangle, x_up_left = 154, y_up_left = 177, x_down_right = 177, y_down_right = 37, perimeter = 326, color = GREEN
+528: Rectangle, x_up_left = 45, y_up_left = 148, x_down_right = 106, y_down_right = 46, perimeter = 326, color = ORANGE
+529: Rectangle, x_up_left = 68, y_up_left = 168, x_down_right = 167, y_down_right = 104, perimeter = 326, color = VIOLET
+530: Triangle, x1 = 123, y1 = 176, x2 = 117, y2 = 112, x3 = 30, y3 = 52, perimeter = 324.964, color = GREEN
+531: Triangle, x1 = 153, y1 = 137, x2 = 118, y2 = 126, x3 = 2, y3 = 184, perimeter = 324.525, color = LIGHT_BLUE
+532: Triangle, x1 = 97, y1 = 66, x2 = 28, y2 = 122, x3 = 174, y3 = 66, perimeter = 322.236, color = VIOLET
+533: Triangle, x1 = 94, y1 = 165, x2 = 58, y2 = 189, x3 = 132, y3 = 50, perimeter = 321.853, color = YELLOW
+534: Triangle, x1 = 188, y1 = 88, x2 = 33, y2 = 93, x3 = 104, y3 = 61, perimeter = 321.191, color = GREEN
+535: Triangle, x1 = 42, y1 = 111, x2 = 170, y2 = 22, x3 = 175, y3 = 22, perimeter = 320.932, color = YELLOW
+536: Circle, x = 51, y = 99, radius = 51, perimeter = 320.28, color = RED
+537: Circle, x = 24, y = 79, radius = 51, perimeter = 320.28, color = GREEN
+538: Rectangle, x_up_left = 102, y_up_left = 110, x_down_right = 190, y_down_right = 38, perimeter = 320, color = ORANGE
+539: Rectangle, x_up_left = 107, y_up_left = 144, x_down_right = 199, y_down_right = 76, perimeter = 320, color = BLUE
+540: Triangle, x1 = 189, y1 = 120, x2 = 200, y2 = 11, x3 = 119, y3 = 125, perimeter = 319.578, color = YELLOW
+541: Triangle, x1 = 116, y1 = 44, x2 = 99, y2 = 191, x3 = 69, y3 = 171, perimeter = 319.453, color = YELLOW
+542: Triangle, x1 = 29, y1 = 123, x2 = 183, y2 = 164, x3 = 160, y3 = 162, perimeter = 319.133, color = VIOLET
+543: Triangle, x1 = 84, y1 = 27, x2 = 162, y2 = 107, x3 = 140, y3 = 163, perimeter = 318.976, color = RED
+544: Rectangle, x_up_left = 98, y_up_left = 125, x_down_right = 160, y_down_right = 28, perimeter = 318, color = ORANGE
+545: Rectangle, x_up_left = 2, y_up_left = 141, x_down_right = 72, y_down_right = 52, perimeter = 318, color = BLUE
+546: Rectangle, x_up_left = 92, y_up_left = 176, x_down_right = 162, y_down_right = 87, perimeter = 318, color = ORANGE
+547: Triangle, x1 = 17, y1 = 118, x2 = 134, y2 = 24, x3 = 137, y3 = 57, perimeter = 317.834, color = LIGHT_BLUE
+548: Triangle, x1 = 103, y1 = 200, x2 = 114, y2 = 87, x3 = 25, y3 = 128, perimeter = 317.675, color = YELLOW
+549: Triangle, x1 = 99, y1 = 105, x2 = 178, y2 = 14, x3 = 147, y3 = 145, perimeter = 317.607, color = ORANGE
+550: Triangle, x1 = 170, y1 = 66, x2 = 48, y2 = 48, x3 = 192, y3 = 24, perimeter = 316.72, color = ORANGE
+551: Triangle, x1 = 162, y1 = 89, x2 = 86, y2 = 96, x3 = 9, y3 = 126, perimeter = 316.37, color = VIOLET
+552: Rectangle, x_up_left = 66, y_up_left = 113, x_down_right = 150, y_down_right = 39, perimeter = 316, color = VIOLET
+553: Triangle, x1 = 176, y1 = 41, x2 = 85, y2 = 126, x3 = 50, y3 = 78, perimeter = 315.249, color = VIOLET
+554: Triangle, x1 = 69, y1 = 197, x2 = 1, y2 = 157, x3 = 114, y3 = 98, perimeter = 315.115, color = YELLOW
+555: Rectangle, x_up_left = 54, y_up_left = 92, x_down_right = 125, y_down_right = 6, perimeter = 314, color = VIOLET
+556: Rectangle, x_up_left = 3, y_up_left = 24, x_down_right = 159, y_down_right = 23, perimeter = 314, color = RED
+557: Circle, x = 26, y = 144, radius = 50, perimeter = 314, color = VIOLET
+558: Triangle, x1 = 157, y1 = 32, x2 = 18, y2 = 91, x3 = 135, y3 = 20, perimeter = 312.921, color = VIOLET
+559: Triangle, x1 = 118, y1 = 35, x2 = 18, y2 = 142, x3 = 71, y3 = 36, perimeter = 311.977, color = VIOLET
+560: Triangle, x1 = 11, y1 = 93, x2 = 143, y2 = 11, x3 = 92, y3 = 51, perimeter = 311.453, color = BLUE
+561: Triangle, x1 = 94, y1 = 77, x2 = 50, y2 = 12, x3 = 100, y3 = 156, perimeter = 310.153, color = LIGHT_BLUE
+562: Rectangle, x_up_left = 103, y_up_left = 155, x_down_right = 111, y_down_right = 8, perimeter = 310, color = YELLOW
+563: Rectangle, x_up_left = 6, y_up_left = 126, x_down_right = 73, y_down_right = 38, perimeter = 310, color = VIOLET
+564: Triangle, x1 = 191, y1 = 86, x2 = 71, y2 = 32, x3 = 127, y3 = 121, perimeter = 309.688, color = YELLOW
+565: Triangle, x1 = 29, y1 = 40, x2 = 37, y2 = 6, x3 = 155, y3 = 83, perimeter = 308.964, color = ORANGE
+566: Triangle, x1 = 74, y1 = 113, x2 = 197, y2 = 93, x3 = 108, y3 = 40, perimeter = 308.731, color = BLUE
+567: Triangle, x1 = 200, y1 = 42, x2 = 75, y2 = 89, x3 = 125, y3 = 10, perimeter = 308.579, color = RED
+568: Triangle, x1 = 158, y1 = 20, x2 = 11, y2 = 55, x3 = 28, y3 = 35, perimeter = 308.221, color = LIGHT_BLUE
+569: Triangle, x1 = 200, y1 = 41, x2 = 143, y2 = 151, x3 = 103, y3 = 84, perimeter = 308.027, color = RED
+570: Rectangle, x_up_left = 60, y_up_left = 188, x_down_right = 79, y_down_right = 53, perimeter = 308, color = VIOLET
+571: Circle, x = 64, y = 120, radius = 49, perimeter = 307.72, color = YELLOW
+572: Triangle, x1 = 44, y1 = 75, x2 = 22, y2 = 116, x3 = 139, y3 = 20, perimeter = 307.646, color = GREEN
+573: Triangle, x1 = 52, y1 = 56, x2 = 115, y2 = 177, x3 = 26, y3 = 64, perimeter = 307.462, color = LIGHT_BLUE
+574: Triangle, x1 = 105, y1 = 89, x2 = 174, y2 = 76, x3 = 159, y3 = 194, perimeter = 307.236, color = LIGHT_BLUE
+575: Triangle, x1 = 14, y1 = 68, x2 = 117, y2 = 56, x3 = 154, y3 = 18, perimeter = 305.395, color = GREEN
+576: Triangle, x1 = 185, y1 = 157, x2 = 46, y2 = 94, x3 = 142, y3 = 138, perimeter = 305.224, color = RED
+577: Triangle, x1 = 132, y1 = 187, x2 = 61, y2 = 63, x3 = 49, y3 = 112, perimeter = 305.202, color = YELLOW
+578: Triangle, x1 = 33, y1 = 96, x2 = 81, y2 = 104, x3 = 162, y3 = 172, perimeter = 304.144, color = BLUE
+579: Rectangle, x_up_left = 18, y_up_left = 200, x_down_right = 59, y_down_right = 89, perimeter = 304, color = ORANGE
+580: Rectangle, x_up_left = 32, y_up_left = 186, x_down_right = 57, y_down_right = 59, perimeter = 304, color = ORANGE
+581: Triangle, x1 = 123, y1 = 85, x2 = 7, y2 = 55, x3 = 80, y3 = 3, perimeter = 302.034, color = GREEN
+582: Rectangle, x_up_left = 45, y_up_left = 186, x_down_right = 142, y_down_right = 132, perimeter = 302, color = LIGHT_BLUE
+583: Rectangle, x_up_left = 9, y_up_left = 50, x_down_right = 148, y_down_right = 38, perimeter = 302, color = YELLOW
+584: Circle, x = 37, y = 165, radius = 48, perimeter = 301.44, color = ORANGE
+585: Triangle, x1 = 120, y1 = 187, x2 = 87, y2 = 54, x3 = 116, y3 = 52, perimeter = 301.161, color = VIOLET
+586: Triangle, x1 = 156, y1 = 40, x2 = 88, y2 = 145, x3 = 191, y3 = 52, perimeter = 300.869, color = RED
+587: Triangle, x1 = 80, y1 = 91, x2 = 189, y2 = 188, x3 = 163, y3 = 134, perimeter = 299.321, color = YELLOW
+588: Triangle, x1 = 72, y1 = 153, x2 = 146, y2 = 40, x3 = 50, y3 = 137, perimeter = 298.75, color = ORANGE
+589: Rectangle, x_up_left = 47, y_up_left = 154, x_down_right = 160, y_down_right = 118, perimeter = 298, color = RED
+590: Rectangle, x_up_left = 156, y_up_left = 149, x_down_right = 171, y_down_right = 15, perimeter = 298, color = LIGHT_BLUE
+591: Rectangle, x_up_left = 53, y_up_left = 162, x_down_right = 103, y_down_right = 63, perimeter = 298, color = YELLOW
+592: Rectangle, x_up_left = 35, y_up_left = 48, x_down_right = 171, y_down_right = 35, perimeter = 298, color = LIGHT_BLUE
+593: Rectangle, x_up_left = 28, y_up_left = 191, x_down_right = 133, y_down_right = 147, perimeter = 298, color = YELLOW
+594: Triangle, x1 = 131, y1 = 68, x2 = 82, y2 = 141, x3 = 162, y3 = 183, perimeter = 297.38, color = LIGHT_BLUE
+595: Rectangle, x_up_left = 142, y_up_left = 181, x_down_right = 185, y_down_right = 76, perimeter = 296, color = VIOLET
+596: Rectangle, x_up_left = 44, y_up_left = 72, x_down_right = 165, y_down_right = 45, perimeter = 296, color = RED
+597: Triangle, x1 = 159, y1 = 107, x2 = 84, y2 = 21, x3 = 151, y3 = 146, perimeter = 295.745, color = VIOLET
+598: Triangle, x1 = 10, y1 = 124, x2 = 28, y2 = 82, x3 = 123, y3 = 35, perimeter = 295.525, color = VIOLET
+599: Triangle, x1 = 15, y1 = 38, x2 = 146, y2 = 74, x3 = 37, y3 = 83, perimeter = 295.317, color = BLUE
+600: Circle, x = 92, y = 52, radius = 47, perimeter = 295.16, color = LIGHT_BLUE
+601: Triangle, x1 = 30, y1 = 19, x2 = 146, y2 = 2, x3 = 132, y3 = 66, perimeter = 295.06, color = ORANGE
+602: Triangle, x1 = 154, y1 = 65, x2 = 85, y2 = 106, x3 = 24, y3 = 49, perimeter = 294.73, color = LIGHT_BLUE
+603: Triangle, x1 = 195, y1 = 21, x2 = 106, y2 = 97, x3 = 77, y3 = 107, perimeter = 293.724, color = YELLOW
+604: Triangle, x1 = 24, y1 = 131, x2 = 35, y2 = 46, x3 = 100, y3 = 19, perimeter = 291.445, color = BLUE
+605: Triangle, x1 = 134, y1 = 176, x2 = 57, y2 = 84, x3 = 156, y3 = 111, perimeter = 291.209, color = LIGHT_BLUE
+606: Triangle, x1 = 108, y1 = 53, x2 = 77, y2 = 81, x3 = 121, y3 = 187, perimeter = 291.172, color = BLUE
+607: Triangle, x1 = 165, y1 = 33, x2 = 198, y2 = 51, x3 = 71, y3 = 101, perimeter = 290.095, color = BLUE
+608: Rectangle, x_up_left = 63, y_up_left = 99, x_down_right = 134, y_down_right = 25, perimeter = 290, color = VIOLET
+609: Rectangle, x_up_left = 103, y_up_left = 160, x_down_right = 199, y_down_right = 111, perimeter = 290, color = LIGHT_BLUE
+610: Triangle, x1 = 132, y1 = 61, x2 = 53, y2 = 167, x3 = 101, y3 = 52, perimeter = 289.096, color = ORANGE
+611: Circle, x = 76, y = 137, radius = 46, perimeter = 288.88, color = LIGHT_BLUE
+612: Circle, x = 163, y = 14, radius = 46, perimeter = 288.88, color = VIOLET
+613: Circle, x = 108, y = 91, radius = 46, perimeter = 288.88, color = VIOLET
+614: Triangle, x1 = 56, y1 = 36, x2 = 189, y2 = 68, x3 = 77, y3 = 17, perimeter = 288.18, color = GREEN
+615: Rectangle, x_up_left = 82, y_up_left = 135, x_down_right = 110, y_down_right = 19, perimeter = 288, color = GREEN
+616: Triangle, x1 = 126, y1 = 122, x2 = 1, y2 = 84, x3 = 55, y3 = 57, perimeter = 287.282, color = VIOLET
+617: Triangle, x1 = 175, y1 = 89, x2 = 142, y2 = 120, x3 = 53, y3 = 163, perimeter = 286.809, color = VIOLET
+618: Rectangle, x_up_left = 90, y_up_left = 188, x_down_right = 97, y_down_right = 52, perimeter = 286, color = GREEN
+619: Triangle, x1 = 124, y1 = 93, x2 = 152, y2 = 168, x3 = 62, y3 = 188, perimeter = 285.693, color = YELLOW
+620: Triangle, x1 = 121, y1 = 85, x2 = 194, y2 = 159, x3 = 75, y3 = 113, perimeter = 285.38, color = BLUE
+621: Rectangle, x_up_left = 58, y_up_left = 64, x_down_right = 172, y_down_right = 36, perimeter = 284, color = GREEN
+622: Rectangle, x_up_left = 99, y_up_left = 183, x_down_right = 132, y_down_right = 74, perimeter = 284, color = GREEN
+623: Circle, x = 1, y = 63, radius = 45, perimeter = 282.6, color = YELLOW
+624: Triangle, x1 = 191, y1 = 115, x2 = 59, y2 = 65, x3 = 91, y3 = 76, perimeter = 282.326, color = GREEN
+625: Triangle, x1 = 155, y1 = 61, x2 = 123, y2 = 169, x3 = 154, y3 = 192, perimeter = 282.245, color = RED
+626: Rectangle, x_up_left = 23, y_up_left = 132, x_down_right = 74, y_down_right = 42, perimeter = 282, color = ORANGE
+627: Triangle, x1 = 103, y1 = 129, x2 = 147, y2 = 32, x3 = 197, y3 = 54, perimeter = 281.393, color = VIOLET
+628: Triangle, x1 = 83, y1 = 187, x2 = 37, y2 = 65, x3 = 28, y3 = 59, perimeter = 280.517, color = GREEN
+629: Triangle, x1 = 200, y1 = 68, x2 = 92, y2 = 52, x3 = 170, y3 = 125, perimeter = 280.423, color = LIGHT_BLUE
+630: Rectangle, x_up_left = 95, y_up_left = 140, x_down_right = 106, y_down_right = 11, perimeter = 280, color = YELLOW
+631: Rectangle, x_up_left = 45, y_up_left = 155, x_down_right = 89, y_down_right = 59, perimeter = 280, color = LIGHT_BLUE
+632: Triangle, x1 = 153, y1 = 28, x2 = 166, y2 = 115, x3 = 75, y3 = 83, perimeter = 279.869, color = BLUE
+633: Triangle, x1 = 101, y1 = 83, x2 = 47, y2 = 77, x3 = 167, y3 = 141, perimeter = 278.196, color = VIOLET
+634: Rectangle, x_up_left = 79, y_up_left = 136, x_down_right = 182, y_down_right = 100, perimeter = 278, color = YELLOW
+635: Rectangle, x_up_left = 119, y_up_left = 162, x_down_right = 192, y_down_right = 96, perimeter = 278, color = LIGHT_BLUE
+636: Rectangle, x_up_left = 114, y_up_left = 164, x_down_right = 196, y_down_right = 107, perimeter = 278, color = VIOLET
+637: Rectangle, x_up_left = 74, y_up_left = 71, x_down_right = 167, y_down_right = 25, perimeter = 278, color = BLUE
+638: Rectangle, x_up_left = 17, y_up_left = 120, x_down_right = 121, y_down_right = 85, perimeter = 278, color = BLUE
+639: Rectangle, x_up_left = 28, y_up_left = 78, x_down_right = 143, y_down_right = 54, perimeter = 278, color = RED
+640: Triangle, x1 = 50, y1 = 186, x2 = 20, y2 = 58, x3 = 1, y3 = 78, perimeter = 277.651, color = LIGHT_BLUE
+641: Circle, x = 56, y = 22, radius = 44, perimeter = 276.32, color = ORANGE
+642: Circle, x = 74, y = 181, radius = 44, perimeter = 276.32, color = YELLOW
+643: Circle, x = 156, y = 32, radius = 44, perimeter = 276.32, color = VIOLET
+644: Triangle, x1 = 126, y1 = 161, x2 = 165, y2 = 151, x3 = 137, y3 = 40, perimeter = 276.238, color = VIOLET
+645: Triangle, x1 = 7, y1 = 57, x2 = 93, y2 = 91, x3 = 62, y3 = 155, perimeter = 275.968, color = GREEN
+646: Triangle, x1 = 27, y1 = 148, x2 = 54, y2 = 107, x3 = 13, y3 = 19, perimeter = 275.932, color = ORANGE
+647: Triangle, x1 = 156, y1 = 69, x2 = 115, y2 = 155, x3 = 59, y3 = 143, perimeter = 274.549, color = YELLOW
+648: Triangle, x1 = 83, y1 = 62, x2 = 65, y2 = 11, x3 = 130, y3 = 131, perimeter = 274.043, color = BLUE
+649: Rectangle, x_up_left = 81, y_up_left = 81, x_down_right = 165, y_down_right = 28, perimeter = 274, color = ORANGE
+650: Rectangle, x_up_left = 80, y_up_left = 191, x_down_right = 152, y_down_right = 126, perimeter = 274, color = ORANGE
+651: Rectangle, x_up_left = 29, y_up_left = 144, x_down_right = 108, y_down_right = 86, perimeter = 274, color = GREEN
+652: Rectangle, x_up_left = 126, y_up_left = 128, x_down_right = 161, y_down_right = 26, perimeter = 274, color = YELLOW
+653: Triangle, x1 = 24, y1 = 192, x2 = 12, y2 = 192, x3 = 107, y3 = 96, perimeter = 273.965, color = GREEN
+654: Triangle, x1 = 57, y1 = 118, x2 = 87, y2 = 174, x3 = 105, y3 = 49, perimeter = 273.872, color = RED
+655: Triangle, x1 = 159, y1 = 54, x2 = 119, y2 = 113, x3 = 108, y3 = 179, perimeter = 273.195, color = ORANGE
+656: Triangle, x1 = 89, y1 = 86, x2 = 75, y2 = 67, x3 = 11, y3 = 178, perimeter = 272.345, color = GREEN
+657: Rectangle, x_up_left = 132, y_up_left = 137, x_down_right = 177, y_down_right = 46, perimeter = 272, color = YELLOW
+658: Rectangle, x_up_left = 43, y_up_left = 161, x_down_right = 178, y_down_right = 160, perimeter = 272, color = RED
+659: Rectangle, x_up_left = 39, y_up_left = 130, x_down_right = 81, y_down_right = 36, perimeter = 272, color = YELLOW
+660: Triangle, x1 = 40, y1 = 49, x2 = 104, y2 = 156, x3 = 39, y3 = 122, perimeter = 271.042, color = LIGHT_BLUE
+661: Triangle, x1 = 1, y1 = 128, x2 = 133, y2 = 156, x3 = 103, y3 = 146, perimeter = 270.136, color = YELLOW
+662: Circle, x = 187, y = 36, radius = 43, perimeter = 270.04, color = RED
+663: Circle, x = 184, y = 96, radius = 43, perimeter = 270.04, color = VIOLET
+664: Rectangle, x_up_left = 46, y_up_left = 118, x_down_right = 116, y_down_right = 53, perimeter = 270, color = BLUE
+665: Rectangle, x_up_left = 113, y_up_left = 151, x_down_right = 158, y_down_right = 61, perimeter = 270, color = RED
+666: Triangle, x1 = 109, y1 = 172, x2 = 112, y2 = 113, x3 = 10, y3 = 134, perimeter = 269.258, color = ORANGE
+667: Triangle, x1 = 191, y1 = 51, x2 = 100, y2 = 19, x3 = 140, y3 = 107, perimeter = 268.87, color = RED
+668: Triangle, x1 = 16, y1 = 68, x2 = 26, y2 = 88, x3 = 142, y3 = 98, perimeter = 268.313, color = ORANGE
+669: Rectangle, x_up_left = 39, y_up_left = 166, x_down_right = 107, y_down_right = 100, perimeter = 268, color = ORANGE
+670: Triangle, x1 = 125, y1 = 84, x2 = 20, y2 = 163, x3 = 71, y3 = 102, perimeter = 267.832, color = ORANGE
+671: Triangle, x1 = 52, y1 = 109, x2 = 132, y2 = 90, x3 = 52, y3 = 26, perimeter = 267.675, color = LIGHT_BLUE
+672: Rectangle, x_up_left = 23, y_up_left = 185, x_down_right = 56, y_down_right = 85, perimeter = 266, color = RED
+673: Triangle, x1 = 180, y1 = 23, x2 = 113, y2 = 118, x3 = 111, y3 = 40, perimeter = 265.339, color = LIGHT_BLUE
+674: Triangle, x1 = 105, y1 = 82, x2 = 116, y2 = 139, x3 = 22, y3 = 156, perimeter = 264.775, color = LIGHT_BLUE
+675: Triangle, x1 = 95, y1 = 64, x2 = 43, y2 = 182, x3 = 66, y3 = 85, perimeter = 264.444, color = LIGHT_BLUE
+676: Rectangle, x_up_left = 83, y_up_left = 180, x_down_right = 186, y_down_right = 151, perimeter = 264, color = LIGHT_BLUE
+677: Triangle, x1 = 126, y1 = 116, x2 = 36, y2 = 200, x3 = 113, y3 = 104, perimeter = 263.867, color = YELLOW
+678: Circle, x = 165, y = 166, radius = 42, perimeter = 263.76, color = VIOLET
+679: Circle, x = 86, y = 78, radius = 42, perimeter = 263.76, color = ORANGE
+680: Triangle, x1 = 87, y1 = 21, x2 = 116, y2 = 96, x3 = 28, y3 = 10, perimeter = 263.473, color = BLUE
+681: Triangle, x1 = 92, y1 = 90, x2 = 85, y2 = 174, x3 = 131, y3 = 56, perimeter = 262.68, color = LIGHT_BLUE
+682: Rectangle, x_up_left = 79, y_up_left = 106, x_down_right = 111, y_down_right = 7, perimeter = 262, color = YELLOW
+683: Rectangle, x_up_left = 81, y_up_left = 200, x_down_right = 157, y_down_right = 145, perimeter = 262, color = BLUE
+684: Triangle, x1 = 137, y1 = 84, x2 = 184, y2 = 199, x3 = 151, y3 = 184, perimeter = 261.458, color = GREEN
+685: Rectangle, x_up_left = 25, y_up_left = 65, x_down_right = 104, y_down_right = 14, perimeter = 260, color = BLUE
+686: Rectangle, x_up_left = 76, y_up_left = 170, x_down_right = 151, y_down_right = 115, perimeter = 260, color = GREEN
+687: Triangle, x1 = 10, y1 = 81, x2 = 15, y2 = 138, x3 = 107, y3 = 132, perimeter = 259.004, color = VIOLET
+688: Triangle, x1 = 145, y1 = 84, x2 = 47, y2 = 81, x3 = 17, y3 = 93, perimeter = 258.673, color = RED
+689: Triangle, x1 = 129, y1 = 186, x2 = 37, y2 = 188, x3 = 160, y3 = 160, perimeter = 258.628, color = LIGHT_BLUE
+690: Triangle, x1 = 68, y1 = 30, x2 = 174, y2 = 98, x3 = 98, y3 = 72, perimeter = 257.875, color = VIOLET
+691: Circle, x = 67, y = 114, radius = 41, perimeter = 257.48, color = LIGHT_BLUE
+692: Circle, x = 35, y = 195, radius = 41, perimeter = 257.48, color = LIGHT_BLUE
+693: Circle, x = 60, y = 10, radius = 41, perimeter = 257.48, color = LIGHT_BLUE
+694: Circle, x = 194, y = 131, radius = 41, perimeter = 257.48, color = ORANGE
+695: Triangle, x1 = 99, y1 = 101, x2 = 108, y2 = 66, x3 = 4, y3 = 129, perimeter = 256.773, color = YELLOW
+696: Triangle, x1 = 199, y1 = 28, x2 = 76, y2 = 45, x3 = 151, y3 = 12, perimeter = 256.705, color = ORANGE
+697: Rectangle, x_up_left = 124, y_up_left = 193, x_down_right = 148, y_down_right = 89, perimeter = 256, color = ORANGE
+698: Rectangle, x_up_left = 15, y_up_left = 196, x_down_right = 87, y_down_right = 140, perimeter = 256, color = ORANGE
+699: Rectangle, x_up_left = 27, y_up_left = 106, x_down_right = 134, y_down_right = 85, perimeter = 256, color = ORANGE
+700: Rectangle, x_up_left = 82, y_up_left = 82, x_down_right = 132, y_down_right = 4, perimeter = 256, color = GREEN
+701: Triangle, x1 = 149, y1 = 165, x2 = 83, y2 = 103, x3 = 76, y3 = 190, perimeter = 254.997, color = RED
+702: Rectangle, x_up_left = 31, y_up_left = 120, x_down_right = 103, y_down_right = 65, perimeter = 254, color = VIOLET
+703: Rectangle, x_up_left = 81, y_up_left = 108, x_down_right = 160, y_down_right = 60, perimeter = 254, color = LIGHT_BLUE
+704: Triangle, x1 = 124, y1 = 42, x2 = 90, y2 = 106, x3 = 186, y3 = 38, perimeter = 252.243, color = BLUE
+705: Rectangle, x_up_left = 66, y_up_left = 31, x_down_right = 174, y_down_right = 13, perimeter = 252, color = RED
+706: Rectangle, x_up_left = 96, y_up_left = 144, x_down_right = 165, y_down_right = 87, perimeter = 252, color = LIGHT_BLUE
+707: Circle, x = 136, y = 3, radius = 40, perimeter = 251.2, color = YELLOW
+708: Triangle, x1 = 3, y1 = 101, x2 = 97, y2 = 177, x3 = 86, y3 = 141, perimeter = 250.659, color = RED
+709: Triangle, x1 = 155, y1 = 17, x2 = 132, y2 = 137, x3 = 164, y3 = 73, perimeter = 250.457, color = BLUE
+710: Rectangle, x_up_left = 36, y_up_left = 195, x_down_right = 97, y_down_right = 131, perimeter = 250, color = ORANGE
+711: Triangle, x1 = 39, y1 = 186, x2 = 117, y2 = 89, x3 = 92, y3 = 109, perimeter = 249.964, color = RED
+712: Rectangle, x_up_left = 43, y_up_left = 24, x_down_right = 165, y_down_right = 22, perimeter = 248, color = BLUE
+713: Triangle, x1 = 19, y1 = 187, x2 = 20, y2 = 159, x3 = 128, y3 = 173, perimeter = 246.817, color = RED
+714: Triangle, x1 = 197, y1 = 138, x2 = 145, y2 = 50, x3 = 130, y3 = 124, perimeter = 246.167, color = ORANGE
+715: Rectangle, x_up_left = 113, y_up_left = 115, x_down_right = 192, y_down_right = 71, perimeter = 246, color = VIOLET
+716: Rectangle, x_up_left = 57, y_up_left = 90, x_down_right = 156, y_down_right = 66, perimeter = 246, color = LIGHT_BLUE
+717: Triangle, x1 = 46, y1 = 102, x2 = 105, y2 = 108, x3 = 159, y3 = 67, perimeter = 245.402, color = GREEN
+718: Triangle, x1 = 35, y1 = 118, x2 = 104, y2 = 122, x3 = 94, y3 = 198, perimeter = 245.174, color = LIGHT_BLUE
+719: Circle, x = 99, y = 107, radius = 39, perimeter = 244.92, color = VIOLET
+720: Rectangle, x_up_left = 122, y_up_left = 196, x_down_right = 166, y_down_right = 118, perimeter = 244, color = VIOLET
+721: Rectangle, x_up_left = 43, y_up_left = 46, x_down_right = 151, y_down_right = 32, perimeter = 244, color = RED
+722: Triangle, x1 = 32, y1 = 114, x2 = 6, y2 = 74, x3 = 115, y3 = 96, perimeter = 243.835, color = VIOLET
+723: Triangle, x1 = 133, y1 = 135, x2 = 35, y2 = 102, x3 = 91, y3 = 167, perimeter = 242.005, color = GREEN
+724: Rectangle, x_up_left = 147, y_up_left = 175, x_down_right = 160, y_down_right = 67, perimeter = 242, color = VIOLET
+725: Rectangle, x_up_left = 106, y_up_left = 167, x_down_right = 197, y_down_right = 137, perimeter = 242, color = BLUE
+726: Rectangle, x_up_left = 68, y_up_left = 177, x_down_right = 163, y_down_right = 152, perimeter = 240, color = BLUE
+727: Triangle, x1 = 38, y1 = 145, x2 = 42, y2 = 56, x3 = 94, y3 = 132, perimeter = 238.666, color = RED
+728: Circle, x = 43, y = 72, radius = 38, perimeter = 238.64, color = ORANGE
+729: Circle, x = 163, y = 92, radius = 38, perimeter = 238.64, color = RED
+730: Circle, x = 155, y = 79, radius = 38, perimeter = 238.64, color = BLUE
+731: Circle, x = 161, y = 50, radius = 38, perimeter = 238.64, color = LIGHT_BLUE
+732: Rectangle, x_up_left = 79, y_up_left = 57, x_down_right = 157, y_down_right = 16, perimeter = 238, color = YELLOW
+733: Rectangle, x_up_left = 44, y_up_left = 73, x_down_right = 123, y_down_right = 33, perimeter = 238, color = ORANGE
+734: Triangle, x1 = 66, y1 = 149, x2 = 127, y2 = 124, x3 = 26, y3 = 96, perimeter = 237.134, color = BLUE
+735: Triangle, x1 = 104, y1 = 126, x2 = 157, y2 = 33, x3 = 111, y3 = 44, perimeter = 236.637, color = RED
+736: Rectangle, x_up_left = 15, y_up_left = 178, x_down_right = 30, y_down_right = 75, perimeter = 236, color = LIGHT_BLUE
+737: Rectangle, x_up_left = 68, y_up_left = 81, x_down_right = 120, y_down_right = 15, perimeter = 236, color = ORANGE
+738: Rectangle, x_up_left = 18, y_up_left = 159, x_down_right = 33, y_down_right = 56, perimeter = 236, color = GREEN
+739: Triangle, x1 = 141, y1 = 75, x2 = 119, y2 = 81, x3 = 52, y3 = 6, perimeter = 235.986, color = ORANGE
+740: Triangle, x1 = 160, y1 = 174, x2 = 182, y2 = 104, x3 = 98, y3 = 141, perimeter = 235.399, color = LIGHT_BLUE
+741: Triangle, x1 = 24, y1 = 74, x2 = 133, y2 = 36, x3 = 38, y3 = 56, perimeter = 235.32, color = VIOLET
+742: Triangle, x1 = 108, y1 = 140, x2 = 53, y2 = 44, x3 = 94, y3 = 62, perimeter = 234.663, color = RED
+743: Rectangle, x_up_left = 74, y_up_left = 196, x_down_right = 149, y_down_right = 154, perimeter = 234, color = YELLOW
+744: Rectangle, x_up_left = 78, y_up_left = 83, x_down_right = 188, y_down_right = 76, perimeter = 234, color = RED
+745: Rectangle, x_up_left = 54, y_up_left = 152, x_down_right = 88, y_down_right = 69, perimeter = 234, color = LIGHT_BLUE
+746: Rectangle, x_up_left = 178, y_up_left = 199, x_down_right = 199, y_down_right = 103, perimeter = 234, color = LIGHT_BLUE
+747: Triangle, x1 = 93, y1 = 93, x2 = 137, y2 = 82, x3 = 198, y3 = 44, perimeter = 233.093, color = ORANGE
+748: Circle, x = 146, y = 101, radius = 37, perimeter = 232.36, color = VIOLET
+749: Circle, x = 191, y = 124, radius = 37, perimeter = 232.36, color = GREEN
+750: Rectangle, x_up_left = 74, y_up_left = 155, x_down_right = 189, y_down_right = 154, perimeter = 232, color = GREEN
+751: Triangle, x1 = 149, y1 = 188, x2 = 88, y2 = 130, x3 = 184, y3 = 189, perimeter = 231.868, color = BLUE
+752: Triangle, x1 = 156, y1 = 98, x2 = 149, y2 = 77, x3 = 68, y3 = 148, perimeter = 231.061, color = VIOLET
+753: Triangle, x1 = 89, y1 = 184, x2 = 92, y2 = 88, x3 = 121, y3 = 186, perimeter = 230.31, color = BLUE
+754: Rectangle, x_up_left = 121, y_up_left = 106, x_down_right = 199, y_down_right = 69, perimeter = 230, color = GREEN
+755: Rectangle, x_up_left = 19, y_up_left = 180, x_down_right = 31, y_down_right = 77, perimeter = 230, color = BLUE
+756: Triangle, x1 = 69, y1 = 190, x2 = 45, y2 = 97, x3 = 40, y3 = 79, perimeter = 229.454, color = RED
+757: Triangle, x1 = 127, y1 = 171, x2 = 86, y2 = 178, x3 = 81, y3 = 87, perimeter = 228.501, color = ORANGE
+758: Rectangle, x_up_left = 60, y_up_left = 79, x_down_right = 101, y_down_right = 6, perimeter = 228, color = LIGHT_BLUE
+759: Rectangle, x_up_left = 113, y_up_left = 76, x_down_right = 187, y_down_right = 37, perimeter = 226, color = LIGHT_BLUE
+760: Rectangle, x_up_left = 63, y_up_left = 193, x_down_right = 90, y_down_right = 107, perimeter = 226, color = GREEN
+761: Rectangle, x_up_left = 34, y_up_left = 151, x_down_right = 68, y_down_right = 72, perimeter = 226, color = LIGHT_BLUE
+762: Triangle, x1 = 75, y1 = 116, x2 = 109, y2 = 159, x3 = 35, y3 = 195, perimeter = 225.659, color = VIOLET
+763: Triangle, x1 = 68, y1 = 108, x2 = 103, y2 = 90, x3 = 6, y3 = 147, perimeter = 225.111, color = BLUE
+764: Rectangle, x_up_left = 65, y_up_left = 198, x_down_right = 85, y_down_right = 106, perimeter = 224, color = GREEN
+765: Triangle, x1 = 110, y1 = 148, x2 = 112, y2 = 111, x3 = 199, y3 = 147, perimeter = 220.214, color = GREEN
+766: Triangle, x1 = 68, y1 = 174, x2 = 39, y2 = 118, x3 = 103, y3 = 93, perimeter = 220.011, color = VIOLET
+767: Rectangle, x_up_left = 101, y_up_left = 153, x_down_right = 185, y_down_right = 127, perimeter = 220, color = GREEN
+768: Circle, x = 17, y = 143, radius = 35, perimeter = 219.8, color = LIGHT_BLUE
+769: Circle, x = 163, y = 41, radius = 35, perimeter = 219.8, color = YELLOW
+770: Triangle, x1 = 91, y1 = 73, x2 = 184, y2 = 35, x3 = 152, y3 = 81, perimeter = 218.022, color = BLUE
+771: Rectangle, x_up_left = 150, y_up_left = 159, x_down_right = 159, y_down_right = 59, perimeter = 218, color = GREEN
+772: Rectangle, x_up_left = 57, y_up_left = 183, x_down_right = 78, y_down_right = 95, perimeter = 218, color = ORANGE
+773: Rectangle, x_up_left = 37, y_up_left = 156, x_down_right = 145, y_down_right = 155, perimeter = 218, color = BLUE
+774: Rectangle, x_up_left = 136, y_up_left = 88, x_down_right = 167, y_down_right = 10, perimeter = 218, color = ORANGE
+775: Rectangle, x_up_left = 109, y_up_left = 155, x_down_right = 126, y_down_right = 63, perimeter = 218, color = GREEN
+776: Triangle, x1 = 154, y1 = 185, x2 = 173, y2 = 176, x3 = 100, y3 = 106, perimeter = 217.855, color = LIGHT_BLUE
+777: Triangle, x1 = 41, y1 = 178, x2 = 71, y2 = 122, x3 = 127, y3 = 154, perimeter = 217.314, color = ORANGE
+778: Triangle, x1 = 85, y1 = 5, x2 = 55, y2 = 9, x3 = 8, y3 = 76, perimeter = 216.845, color = BLUE
+779: Rectangle, x_up_left = 38, y_up_left = 131, x_down_right = 80, y_down_right = 65, perimeter = 216, color = GREEN
+780: Rectangle, x_up_left = 100, y_up_left = 51, x_down_right = 185, y_down_right = 28, perimeter = 216, color = GREEN
+781: Rectangle, x_up_left = 76, y_up_left = 134, x_down_right = 122, y_down_right = 72, perimeter = 216, color = RED
+782: Rectangle, x_up_left = 48, y_up_left = 152, x_down_right = 127, y_down_right = 124, perimeter = 214, color = VIOLET
+783: Circle, x = 29, y = 84, radius = 34, perimeter = 213.52, color = ORANGE
+784: Circle, x = 54, y = 158, radius = 34, perimeter = 213.52, color = ORANGE
+785: Triangle, x1 = 113, y1 = 59, x2 = 61, y2 = 126, x3 = 33, y3 = 103, perimeter = 212.349, color = GREEN
+786: Rectangle, x_up_left = 123, y_up_left = 177, x_down_right = 133, y_down_right = 81, perimeter = 212, color = YELLOW
+787: Rectangle, x_up_left = 88, y_up_left = 187, x_down_right = 189, y_down_right = 183, perimeter = 210, color = YELLOW
+788: Rectangle, x_up_left = 55, y_up_left = 70, x_down_right = 129, y_down_right = 39, perimeter = 210, color = YELLOW
+789: Circle, x = 98, y = 168, radius = 33, perimeter = 207.24, color = YELLOW
+790: Circle, x = 72, y = 37, radius = 33, perimeter = 207.24, color = VIOLET
+791: Rectangle, x_up_left = 110, y_up_left = 166, x_down_right = 137, y_down_right = 90, perimeter = 206, color = YELLOW
+792: Rectangle, x_up_left = 77, y_up_left = 110, x_down_right = 133, y_down_right = 63, perimeter = 206, color = ORANGE
+793: Triangle, x1 = 59, y1 = 6, x2 = 107, y2 = 97, x3 = 81, y3 = 55, perimeter = 205.992, color = BLUE
+794: Triangle, x1 = 112, y1 = 114, x2 = 154, y2 = 28, x3 = 166, y3 = 57, perimeter = 205.61, color = ORANGE
+795: Rectangle, x_up_left = 93, y_up_left = 171, x_down_right = 169, y_down_right = 145, perimeter = 204, color = GREEN
+796: Rectangle, x_up_left = 40, y_up_left = 18, x_down_right = 128, y_down_right = 4, perimeter = 204, color = GREEN
+797: Rectangle, x_up_left = 26, y_up_left = 154, x_down_right = 49, y_down_right = 75, perimeter = 204, color = ORANGE
+798: Triangle, x1 = 108, y1 = 103, x2 = 127, y2 = 4, x3 = 112, y3 = 34, perimeter = 203.464, color = RED
+799: Triangle, x1 = 88, y1 = 36, x2 = 73, y2 = 136, x3 = 83, y3 = 54, perimeter = 202.408, color = ORANGE
+800: Rectangle, x_up_left = 42, y_up_left = 168, x_down_right = 53, y_down_right = 78, perimeter = 202, color = ORANGE
+801: Triangle, x1 = 192, y1 = 93, x2 = 194, y2 = 87, x3 = 147, y3 = 4, perimeter = 201.438, color = GREEN
+802: Circle, x = 162, y = 59, radius = 32, perimeter = 200.96, color = ORANGE
+803: Circle, x = 135, y = 54, radius = 32, perimeter = 200.96, color = ORANGE
+804: Circle, x = 173, y = 130, radius = 32, perimeter = 200.96, color = RED
+805: Circle, x = 149, y = 189, radius = 32, perimeter = 200.96, color = RED
+806: Rectangle, x_up_left = 109, y_up_left = 157, x_down_right = 121, y_down_right = 69, perimeter = 200, color = YELLOW
+807: Rectangle, x_up_left = 20, y_up_left = 101, x_down_right = 27, y_down_right = 8, perimeter = 200, color = ORANGE
+808: Triangle, x1 = 56, y1 = 153, x2 = 117, y2 = 153, x3 = 59, y3 = 96, perimeter = 199.399, color = VIOLET
+809: Triangle, x1 = 61, y1 = 61, x2 = 72, y2 = 46, x3 = 148, y3 = 15, perimeter = 199.093, color = ORANGE
+810: Rectangle, x_up_left = 141, y_up_left = 185, x_down_right = 175, y_down_right = 120, perimeter = 198, color = BLUE
+811: Rectangle, x_up_left = 86, y_up_left = 189, x_down_right = 119, y_down_right = 123, perimeter = 198, color = GREEN
+812: Triangle, x1 = 131, y1 = 129, x2 = 191, y2 = 171, x3 = 177, y3 = 102, perimeter = 196.984, color = LIGHT_BLUE
+813: Rectangle, x_up_left = 102, y_up_left = 116, x_down_right = 129, y_down_right = 45, perimeter = 196, color = YELLOW
+814: Rectangle, x_up_left = 100, y_up_left = 132, x_down_right = 133, y_down_right = 67, perimeter = 196, color = LIGHT_BLUE
+815: Triangle, x1 = 97, y1 = 155, x2 = 108, y2 = 75, x3 = 83, y3 = 68, perimeter = 194.833, color = VIOLET
+816: Rectangle, x_up_left = 63, y_up_left = 58, x_down_right = 123, y_down_right = 21, perimeter = 194, color = GREEN
+817: Triangle, x1 = 144, y1 = 154, x2 = 172, y2 = 79, x3 = 152, y3 = 66, perimeter = 192.273, color = GREEN
+818: Triangle, x1 = 114, y1 = 101, x2 = 149, y2 = 135, x3 = 185, y3 = 78, perimeter = 190.845, color = LIGHT_BLUE
+819: Triangle, x1 = 189, y1 = 132, x2 = 110, y2 = 139, x3 = 137, y3 = 98, perimeter = 190.53, color = RED
+820: Rectangle, x_up_left = 87, y_up_left = 165, x_down_right = 147, y_down_right = 130, perimeter = 190, color = BLUE
+821: Rectangle, x_up_left = 156, y_up_left = 131, x_down_right = 171, y_down_right = 51, perimeter = 190, color = RED
+822: Rectangle, x_up_left = 23, y_up_left = 47, x_down_right = 97, y_down_right = 26, perimeter = 190, color = RED
+823: Triangle, x1 = 113, y1 = 88, x2 = 50, y2 = 43, x3 = 97, y3 = 28, perimeter = 188.853, color = GREEN
+824: Circle, x = 54, y = 70, radius = 30, perimeter = 188.4, color = VIOLET
+825: Triangle, x1 = 145, y1 = 174, x2 = 64, y2 = 127, x3 = 74, y3 = 129, perimeter = 187.906, color = ORANGE
+826: Triangle, x1 = 28, y1 = 183, x2 = 17, y2 = 192, x3 = 99, y3 = 147, perimeter = 187.354, color = ORANGE
+827: Triangle, x1 = 102, y1 = 152, x2 = 94, y2 = 139, x3 = 19, y3 = 177, perimeter = 186.025, color = ORANGE
+828: Triangle, x1 = 32, y1 = 101, x2 = 119, y2 = 103, x3 = 65, y3 = 79, perimeter = 185.777, color = GREEN
+829: Triangle, x1 = 135, y1 = 69, x2 = 176, y2 = 137, x3 = 196, y3 = 122, perimeter = 185.212, color = ORANGE
+830: Triangle, x1 = 175, y1 = 17, x2 = 104, y2 = 21, x3 = 85, y3 = 31, perimeter = 183.666, color = GREEN
+831: Circle, x = 113, y = 41, radius = 29, perimeter = 182.12, color = RED
+832: Rectangle, x_up_left = 51, y_up_left = 133, x_down_right = 55, y_down_right = 46, perimeter = 182, color = LIGHT_BLUE
+833: Triangle, x1 = 19, y1 = 16, x2 = 71, y2 = 79, x3 = 38, y3 = 79, perimeter = 180.491, color = ORANGE
+834: Rectangle, x_up_left = 45, y_up_left = 32, x_down_right = 130, y_down_right = 27, perimeter = 180, color = GREEN
+835: Rectangle, x_up_left = 104, y_up_left = 82, x_down_right = 134, y_down_right = 22, perimeter = 180, color = RED
+836: Triangle, x1 = 62, y1 = 88, x2 = 55, y2 = 132, x3 = 18, y3 = 59, perimeter = 179.092, color = YELLOW
+837: Triangle, x1 = 190, y1 = 25, x2 = 104, y2 = 42, x3 = 169, y3 = 41, perimeter = 179.073, color = GREEN
+838: Triangle, x1 = 161, y1 = 186, x2 = 155, y2 = 101, x3 = 171, y3 = 170, perimeter = 174.91, color = YELLOW
+839: Rectangle, x_up_left = 21, y_up_left = 174, x_down_right = 40, y_down_right = 106, perimeter = 174, color = ORANGE
+840: Rectangle, x_up_left = 153, y_up_left = 45, x_down_right = 199, y_down_right = 4, perimeter = 174, color = ORANGE
+841: Rectangle, x_up_left = 31, y_up_left = 173, x_down_right = 48, y_down_right = 103, perimeter = 174, color = LIGHT_BLUE
+842: Triangle, x1 = 155, y1 = 39, x2 = 82, y2 = 79, x3 = 113, y3 = 42, perimeter = 173.618, color = VIOLET
+843: Triangle, x1 = 70, y1 = 151, x2 = 143, y2 = 105, x3 = 74, y3 = 147, perimeter = 172.719, color = LIGHT_BLUE
+844: Triangle, x1 = 2, y1 = 153, x2 = 19, y2 = 113, x3 = 64, y3 = 162, perimeter = 172.641, color = ORANGE
+845: Rectangle, x_up_left = 114, y_up_left = 140, x_down_right = 116, y_down_right = 56, perimeter = 172, color = GREEN
+846: Rectangle, x_up_left = 112, y_up_left = 174, x_down_right = 142, y_down_right = 118, perimeter = 172, color = GREEN
+847: Rectangle, x_up_left = 62, y_up_left = 165, x_down_right = 108, y_down_right = 125, perimeter = 172, color = ORANGE
+848: Rectangle, x_up_left = 46, y_up_left = 120, x_down_right = 54, y_down_right = 42, perimeter = 172, color = RED
+849: Rectangle, x_up_left = 33, y_up_left = 182, x_down_right = 82, y_down_right = 145, perimeter = 172, color = ORANGE
+850: Circle, x = 101, y = 163, radius = 27, perimeter = 169.56, color = RED
+851: Circle, x = 69, y = 36, radius = 27, perimeter = 169.56, color = GREEN
+852: Circle, x = 35, y = 77, radius = 27, perimeter = 169.56, color = RED
+853: Triangle, x1 = 52, y1 = 119, x2 = 69, y2 = 98, x3 = 96, y3 = 47, perimeter = 169.105, color = LIGHT_BLUE
+854: Rectangle, x_up_left = 23, y_up_left = 141, x_down_right = 63, y_down_right = 98, perimeter = 166, color = ORANGE
+855: Rectangle, x_up_left = 151, y_up_left = 164, x_down_right = 152, y_down_right = 82, perimeter = 166, color = YELLOW
+856: Rectangle, x_up_left = 69, y_up_left = 159, x_down_right = 121, y_down_right = 129, perimeter = 164, color = YELLOW
+857: Circle, x = 76, y = 185, radius = 26, perimeter = 163.28, color = RED
+858: Circle, x = 25, y = 160, radius = 26, perimeter = 163.28, color = VIOLET
+859: Circle, x = 195, y = 60, radius = 26, perimeter = 163.28, color = YELLOW
+860: Rectangle, x_up_left = 127, y_up_left = 143, x_down_right = 189, y_down_right = 124, perimeter = 162, color = RED
+861: Rectangle, x_up_left = 75, y_up_left = 118, x_down_right = 131, y_down_right = 93, perimeter = 162, color = VIOLET
+862: Rectangle, x_up_left = 147, y_up_left = 180, x_down_right = 198, y_down_right = 150, perimeter = 162, color = RED
+863: Triangle, x1 = 139, y1 = 130, x2 = 110, y2 = 101, x3 = 66, y3 = 110, perimeter = 161.613, color = ORANGE
+864: Rectangle, x_up_left = 36, y_up_left = 126, x_down_right = 72, y_down_right = 82, perimeter = 160, color = RED
+865: Rectangle, x_up_left = 33, y_up_left = 179, x_down_right = 97, y_down_right = 165, perimeter = 156, color = VIOLET
+866: Rectangle, x_up_left = 69, y_up_left = 69, x_down_right = 135, y_down_right = 57, perimeter = 156, color = RED
+867: Triangle, x1 = 51, y1 = 88, x2 = 71, y2 = 38, x3 = 72, y3 = 15, perimeter = 152.834, color = YELLOW
+868: Rectangle, x_up_left = 19, y_up_left = 150, x_down_right = 58, y_down_right = 113, perimeter = 152, color = GREEN
+869: Rectangle, x_up_left = 34, y_up_left = 178, x_down_right = 85, y_down_right = 153, perimeter = 152, color = RED
+870: Rectangle, x_up_left = 61, y_up_left = 118, x_down_right = 73, y_down_right = 54, perimeter = 152, color = LIGHT_BLUE
+871: Rectangle, x_up_left = 7, y_up_left = 104, x_down_right = 56, y_down_right = 77, perimeter = 152, color = LIGHT_BLUE
+872: Rectangle, x_up_left = 140, y_up_left = 145, x_down_right = 148, y_down_right = 77, perimeter = 152, color = YELLOW
+873: Rectangle, x_up_left = 122, y_up_left = 116, x_down_right = 139, y_down_right = 57, perimeter = 152, color = BLUE
+874: Triangle, x1 = 149, y1 = 122, x2 = 158, y2 = 197, x3 = 154, y3 = 183, perimeter = 151.303, color = RED
+875: Circle, x = 88, y = 187, radius = 24, perimeter = 150.72, color = RED
+876: Rectangle, x_up_left = 129, y_up_left = 81, x_down_right = 161, y_down_right = 38, perimeter = 150, color = RED
+877: Rectangle, x_up_left = 91, y_up_left = 158, x_down_right = 127, y_down_right = 119, perimeter = 150, color = ORANGE
+878: Rectangle, x_up_left = 131, y_up_left = 36, x_down_right = 187, y_down_right = 17, perimeter = 150, color = YELLOW
+879: Rectangle, x_up_left = 98, y_up_left = 56, x_down_right = 131, y_down_right = 15, perimeter = 148, color = BLUE
+880: Rectangle, x_up_left = 7, y_up_left = 152, x_down_right = 16, y_down_right = 87, perimeter = 148, color = YELLOW
+881: Rectangle, x_up_left = 51, y_up_left = 155, x_down_right = 72, y_down_right = 103, perimeter = 146, color = GREEN
+882: Rectangle, x_up_left = 91, y_up_left = 186, x_down_right = 139, y_down_right = 161, perimeter = 146, color = RED
+883: Rectangle, x_up_left = 47, y_up_left = 171, x_down_right = 56, y_down_right = 107, perimeter = 146, color = ORANGE
+884: Circle, x = 117, y = 8, radius = 23, perimeter = 144.44, color = ORANGE
+885: Circle, x = 45, y = 107, radius = 23, perimeter = 144.44, color = BLUE
+886: Rectangle, x_up_left = 24, y_up_left = 93, x_down_right = 72, y_down_right = 69, perimeter = 144, color = GREEN
+887: Rectangle, x_up_left = 81, y_up_left = 88, x_down_right = 134, y_down_right = 70, perimeter = 142, color = LIGHT_BLUE
+888: Rectangle, x_up_left = 46, y_up_left = 187, x_down_right = 56, y_down_right = 126, perimeter = 142, color = YELLOW
+889: Triangle, x1 = 140, y1 = 138, x2 = 71, y2 = 136, x3 = 121, y3 = 148, perimeter = 141.92, color = BLUE
+890: Rectangle, x_up_left = 145, y_up_left = 180, x_down_right = 155, y_down_right = 120, perimeter = 140, color = GREEN
+891: Rectangle, x_up_left = 155, y_up_left = 84, x_down_right = 173, y_down_right = 32, perimeter = 140, color = ORANGE
+892: Rectangle, x_up_left = 79, y_up_left = 139, x_down_right = 101, y_down_right = 91, perimeter = 140, color = RED
+893: Triangle, x1 = 18, y1 = 126, x2 = 85, y2 = 136, x3 = 45, y3 = 140, perimeter = 138.355, color = RED
+894: Circle, x = 154, y = 183, radius = 22, perimeter = 138.16, color = GREEN
+895: Circle, x = 13, y = 4, radius = 22, perimeter = 138.16, color = LIGHT_BLUE
+896: Rectangle, x_up_left = 144, y_up_left = 48, x_down_right = 196, y_down_right = 31, perimeter = 138, color = GREEN
+897: Rectangle, x_up_left = 186, y_up_left = 120, x_down_right = 191, y_down_right = 58, perimeter = 134, color = YELLOW
+898: Rectangle, x_up_left = 42, y_up_left = 153, x_down_right = 48, y_down_right = 92, perimeter = 134, color = BLUE
+899: Rectangle, x_up_left = 168, y_up_left = 57, x_down_right = 184, y_down_right = 6, perimeter = 134, color = RED
+900: Rectangle, x_up_left = 98, y_up_left = 33, x_down_right = 138, y_down_right = 7, perimeter = 132, color = YELLOW
+901: Circle, x = 54, y = 145, radius = 21, perimeter = 131.88, color = GREEN
+902: Circle, x = 132, y = 81, radius = 21, perimeter = 131.88, color = LIGHT_BLUE
+903: Rectangle, x_up_left = 121, y_up_left = 187, x_down_right = 141, y_down_right = 142, perimeter = 130, color = VIOLET
+904: Rectangle, x_up_left = 90, y_up_left = 197, x_down_right = 116, y_down_right = 158, perimeter = 130, color = RED
+905: Triangle, x1 = 30, y1 = 111, x2 = 74, y2 = 66, x3 = 50, y3 = 77, perimeter = 128.783, color = LIGHT_BLUE
+906: Rectangle, x_up_left = 1, y_up_left = 178, x_down_right = 45, y_down_right = 158, perimeter = 128, color = YELLOW
+907: Rectangle, x_up_left = 120, y_up_left = 175, x_down_right = 172, y_down_right = 164, perimeter = 126, color = VIOLET
+908: Rectangle, x_up_left = 108, y_up_left = 53, x_down_right = 148, y_down_right = 30, perimeter = 126, color = YELLOW
+909: Circle, x = 159, y = 95, radius = 20, perimeter = 125.6, color = RED
+910: Circle, x = 152, y = 157, radius = 20, perimeter = 125.6, color = YELLOW
+911: Triangle, x1 = 87, y1 = 65, x2 = 35, y2 = 33, x3 = 82, y3 = 66, perimeter = 123.585, color = RED
+912: Rectangle, x_up_left = 55, y_up_left = 169, x_down_right = 56, y_down_right = 109, perimeter = 122, color = BLUE
+913: Rectangle, x_up_left = 145, y_up_left = 88, x_down_right = 146, y_down_right = 28, perimeter = 122, color = RED
+914: Rectangle, x_up_left = 116, y_up_left = 132, x_down_right = 133, y_down_right = 88, perimeter = 122, color = GREEN
+915: Rectangle, x_up_left = 59, y_up_left = 90, x_down_right = 107, y_down_right = 77, perimeter = 122, color = YELLOW
+916: Triangle, x1 = 131, y1 = 200, x2 = 119, y2 = 197, x3 = 171, y3 = 170, perimeter = 120.961, color = LIGHT_BLUE
+917: Rectangle, x_up_left = 31, y_up_left = 56, x_down_right = 60, y_down_right = 25, perimeter = 120, color = YELLOW
+918: Circle, x = 104, y = 143, radius = 19, perimeter = 119.32, color = RED
+919: Rectangle, x_up_left = 91, y_up_left = 127, x_down_right = 113, y_down_right = 92, perimeter = 114, color = GREEN
+920: Triangle, x1 = 66, y1 = 121, x2 = 108, y2 = 83, x3 = 89, y3 = 101, perimeter = 113.291, color = ORANGE
+921: Circle, x = 123, y = 39, radius = 18, perimeter = 113.04, color = VIOLET
+922: Circle, x = 37, y = 106, radius = 18, perimeter = 113.04, color = BLUE
+923: Rectangle, x_up_left = 140, y_up_left = 74, x_down_right = 158, y_down_right = 36, perimeter = 112, color = BLUE
+924: Triangle, x1 = 157, y1 = 46, x2 = 165, y2 = 42, x3 = 160, y3 = 95, perimeter = 111.271, color = RED
+925: Rectangle, x_up_left = 160, y_up_left = 35, x_down_right = 195, y_down_right = 15, perimeter = 110, color = YELLOW
+926: Rectangle, x_up_left = 88, y_up_left = 131, x_down_right = 90, y_down_right = 78, perimeter = 110, color = GREEN
+927: Rectangle, x_up_left = 60, y_up_left = 127, x_down_right = 62, y_down_right = 75, perimeter = 108, color = GREEN
+928: Rectangle, x_up_left = 1, y_up_left = 189, x_down_right = 22, y_down_right = 156, perimeter = 108, color = LIGHT_BLUE
+929: Circle, x = 26, y = 133, radius = 17, perimeter = 106.76, color = BLUE
+930: Circle, x = 180, y = 32, radius = 17, perimeter = 106.76, color = GREEN
+931: Rectangle, x_up_left = 10, y_up_left = 131, x_down_right = 53, y_down_right = 121, perimeter = 106, color = LIGHT_BLUE
+932: Rectangle, x_up_left = 185, y_up_left = 182, x_down_right = 196, y_down_right = 140, perimeter = 106, color = ORANGE
+933: Rectangle, x_up_left = 89, y_up_left = 163, x_down_right = 126, y_down_right = 148, perimeter = 104, color = RED
+934: Rectangle, x_up_left = 90, y_up_left = 145, x_down_right = 136, y_down_right = 139, perimeter = 104, color = LIGHT_BLUE
+935: Rectangle, x_up_left = 23, y_up_left = 188, x_down_right = 39, y_down_right = 152, perimeter = 104, color = GREEN
+936: Rectangle, x_up_left = 33, y_up_left = 70, x_down_right = 62, y_down_right = 48, perimeter = 102, color = YELLOW
+937: Rectangle, x_up_left = 36, y_up_left = 56, x_down_right = 65, y_down_right = 34, perimeter = 102, color = GREEN
+938: Circle, x = 25, y = 6, radius = 16, perimeter = 100.48, color = ORANGE
+939: Circle, x = 103, y = 77, radius = 16, perimeter = 100.48, color = LIGHT_BLUE
+940: Circle, x = 160, y = 186, radius = 16, perimeter = 100.48, color = GREEN
+941: Rectangle, x_up_left = 137, y_up_left = 183, x_down_right = 159, y_down_right = 155, perimeter = 100, color = LIGHT_BLUE
+942: Rectangle, x_up_left = 125, y_up_left = 98, x_down_right = 135, y_down_right = 58, perimeter = 100, color = LIGHT_BLUE
+943: Rectangle, x_up_left = 88, y_up_left = 161, x_down_right = 104, y_down_right = 128, perimeter = 98, color = LIGHT_BLUE
+944: Rectangle, x_up_left = 83, y_up_left = 169, x_down_right = 93, y_down_right = 131, perimeter = 96, color = VIOLET
+945: Rectangle, x_up_left = 16, y_up_left = 55, x_down_right = 33, y_down_right = 24, perimeter = 96, color = BLUE
+946: Circle, x = 23, y = 10, radius = 15, perimeter = 94.2, color = RED
+947: Circle, x = 151, y = 193, radius = 15, perimeter = 94.2, color = ORANGE
+948: Rectangle, x_up_left = 29, y_up_left = 90, x_down_right = 39, y_down_right = 53, perimeter = 94, color = VIOLET
+949: Rectangle, x_up_left = 4, y_up_left = 75, x_down_right = 7, y_down_right = 31, perimeter = 94, color = GREEN
+950: Rectangle, x_up_left = 148, y_up_left = 160, x_down_right = 149, y_down_right = 114, perimeter = 94, color = YELLOW
+951: Rectangle, x_up_left = 38, y_up_left = 18, x_down_right = 72, y_down_right = 5, perimeter = 94, color = ORANGE
+952: Rectangle, x_up_left = 73, y_up_left = 108, x_down_right = 108, y_down_right = 98, perimeter = 90, color = GREEN
+953: Rectangle, x_up_left = 59, y_up_left = 168, x_down_right = 66, y_down_right = 131, perimeter = 88, color = ORANGE
+954: Circle, x = 51, y = 59, radius = 14, perimeter = 87.92, color = YELLOW
+955: Rectangle, x_up_left = 1, y_up_left = 160, x_down_right = 27, y_down_right = 144, perimeter = 84, color = RED
+956: Rectangle, x_up_left = 158, y_up_left = 131, x_down_right = 170, y_down_right = 101, perimeter = 84, color = VIOLET
+957: Rectangle, x_up_left = 39, y_up_left = 50, x_down_right = 60, y_down_right = 29, perimeter = 84, color = GREEN
+958: Rectangle, x_up_left = 93, y_up_left = 96, x_down_right = 122, y_down_right = 85, perimeter = 80, color = LIGHT_BLUE
+959: Rectangle, x_up_left = 149, y_up_left = 153, x_down_right = 184, y_down_right = 149, perimeter = 78, color = LIGHT_BLUE
+960: Rectangle, x_up_left = 140, y_up_left = 113, x_down_right = 176, y_down_right = 110, perimeter = 78, color = ORANGE
+961: Rectangle, x_up_left = 59, y_up_left = 17, x_down_right = 89, y_down_right = 8, perimeter = 78, color = ORANGE
+962: Rectangle, x_up_left = 131, y_up_left = 107, x_down_right = 150, y_down_right = 88, perimeter = 76, color = VIOLET
+963: Circle, x = 112, y = 130, radius = 12, perimeter = 75.36, color = RED
+964: Circle, x = 117, y = 61, radius = 12, perimeter = 75.36, color = RED
+965: Rectangle, x_up_left = 113, y_up_left = 46, x_down_right = 145, y_down_right = 41, perimeter = 74, color = ORANGE
+966: Rectangle, x_up_left = 115, y_up_left = 72, x_down_right = 135, y_down_right = 56, perimeter = 72, color = RED
+967: Rectangle, x_up_left = 151, y_up_left = 95, x_down_right = 185, y_down_right = 93, perimeter = 72, color = YELLOW
+968: Rectangle, x_up_left = 134, y_up_left = 72, x_down_right = 138, y_down_right = 41, perimeter = 70, color = LIGHT_BLUE
+969: Rectangle, x_up_left = 107, y_up_left = 142, x_down_right = 139, y_down_right = 139, perimeter = 70, color = YELLOW
+970: Circle, x = 104, y = 145, radius = 11, perimeter = 69.08, color = YELLOW
+971: Circle, x = 71, y = 82, radius = 11, perimeter = 69.08, color = GREEN
+972: Circle, x = 161, y = 18, radius = 11, perimeter = 69.08, color = LIGHT_BLUE
+973: Rectangle, x_up_left = 83, y_up_left = 112, x_down_right = 111, y_down_right = 107, perimeter = 66, color = GREEN
+974: Rectangle, x_up_left = 105, y_up_left = 6, x_down_right = 132, y_down_right = 1, perimeter = 64, color = VIOLET
+975: Circle, x = 40, y = 7, radius = 10, perimeter = 62.8, color = LIGHT_BLUE
+976: Circle, x = 195, y = 105, radius = 10, perimeter = 62.8, color = VIOLET
+977: Rectangle, x_up_left = 93, y_up_left = 117, x_down_right = 111, y_down_right = 104, perimeter = 62, color = ORANGE
+978: Rectangle, x_up_left = 175, y_up_left = 100, x_down_right = 188, y_down_right = 82, perimeter = 62, color = BLUE
+979: Rectangle, x_up_left = 148, y_up_left = 24, x_down_right = 177, y_down_right = 22, perimeter = 62, color = VIOLET
+980: Rectangle, x_up_left = 38, y_up_left = 149, x_down_right = 41, y_down_right = 122, perimeter = 60, color = VIOLET
+981: Rectangle, x_up_left = 134, y_up_left = 115, x_down_right = 138, y_down_right = 90, perimeter = 58, color = BLUE
+982: Rectangle, x_up_left = 185, y_up_left = 80, x_down_right = 200, y_down_right = 66, perimeter = 58, color = ORANGE
+983: Rectangle, x_up_left = 173, y_up_left = 32, x_down_right = 179, y_down_right = 9, perimeter = 58, color = GREEN
+984: Rectangle, x_up_left = 125, y_up_left = 103, x_down_right = 151, y_down_right = 101, perimeter = 56, color = YELLOW
+985: Rectangle, x_up_left = 32, y_up_left = 102, x_down_right = 37, y_down_right = 81, perimeter = 52, color = ORANGE
+986: Circle, x = 191, y = 184, radius = 8, perimeter = 50.24, color = GREEN
+987: Circle, x = 47, y = 34, radius = 6, perimeter = 37.68, color = VIOLET
+988: Rectangle, x_up_left = 42, y_up_left = 72, x_down_right = 54, y_down_right = 66, perimeter = 36, color = YELLOW
+989: Circle, x = 171, y = 149, radius = 5, perimeter = 31.4, color = VIOLET
+990: Circle, x = 119, y = 12, radius = 4, perimeter = 25.12, color = VIOLET
+991: Circle, x = 8, y = 79, radius = 4, perimeter = 25.12, color = RED
+992: Circle, x = 32, y = 108, radius = 4, perimeter = 25.12, color = YELLOW
+993: Circle, x = 19, y = 126, radius = 3, perimeter = 18.84, color = YELLOW
+994: Circle, x = 154, y = 120, radius = 3, perimeter = 18.84, color = VIOLET
+995: Circle, x = 58, y = 34, radius = 2, perimeter = 12.56, color = VIOLET
+996: Circle, x = 151, y = 105, radius = 2, perimeter = 12.56, color = GREEN
+997: Circle, x = 115, y = 144, radius = 1, perimeter = 6.28, color = YELLOW
+998: Circle, x = 72, y = 86, radius = 1, perimeter = 6.28, color = BLUE
+999: Circle, x = 94, y = 163, radius = 1, perimeter = 6.28, color = ORANGE

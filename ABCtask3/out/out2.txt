@@ -1,0 +1,12 @@
+Total number of shapes is 10 
+Shapes are:
+0: Circle, x = 42, y = 42, radius = 42, perimeter = 263.76, color = VIOLET
+1: Triangle, x1 = 53, y1 = 148, x2 = 29, y2 = 115, x3 = 148, y3 = 159, perimeter = 263.313, color = BLUE
+2: Triangle, x1 = 74, y1 = 160, x2 = 86, y2 = 150, x3 = 113, y3 = 52, perimeter = 232.098, color = ORANGE
+3: Rectangle, x_up_left = 60, y_up_left = 160, x_down_right = 80, y_down_right = 100, perimeter = 160, color = RED
+4: Circle, x = 0, y = 0, radius = 10, perimeter = 62.8, color = BLUE
+5: Rectangle, x_up_left = 100, y_up_left = 180, x_down_right = 125, y_down_right = 175, perimeter = 60, color = YELLOW
+6: Rectangle, x_up_left = 0, y_up_left = 15, x_down_right = 15, y_down_right = 5, perimeter = 50, color = GREEN
+7: Rectangle, x_up_left = 20, y_up_left = 20, x_down_right = 30, y_down_right = 10, perimeter = 40, color = LIGHT_BLUE
+8: Triangle, x1 = 0, y1 = 0, x2 = 3, y2 = 0, x3 = 0, y3 = 4, perimeter = 12, color = ORANGE
+9: Triangle, x1 = 0, y1 = 0, x2 = 1, y2 = 2, x3 = 4, y3 = 1, perimeter = 9.52145, color = RED
